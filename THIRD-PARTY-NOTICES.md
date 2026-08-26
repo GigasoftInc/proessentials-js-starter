@@ -140,7 +140,7 @@ implementation. Released to the public domain by its author.
 ## Questions
 
 Licensing questions about ProEssentialsJS are answered by the people who set the
-terms: <https://www.gigasoft.com/contact>
+terms: <https://gigasoft.com/contact>
 
 The ProEssentialsJS license itself is in `PEJS-LICENSE.md` and at
-<https://www.gigasoft.com/license>.
+<https://gigasoft.com/license>.

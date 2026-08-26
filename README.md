@@ -88,7 +88,7 @@ references the rest. There is no `jsconfig.json` here on purpose.
 | large data | [proessentials-js-gigaprime2d](https://github.com/GigasoftInc/proessentials-js-gigaprime2d) -- millions of points, replaced every frame |
 | 3D | [proessentials-js-gigaprime3d](https://github.com/GigasoftInc/proessentials-js-gigaprime3d) -- surfaces and contours on WebGPU |
 | your AI | [proessentials-ai-data](https://github.com/GigasoftInc/proessentials-ai-data) -- ground truth for an AI assistant: property paths, enums, 116 examples |
-| the product | <https://www.gigasoft.com> -- documentation, pricing, the walkthrough |
+| the product | <https://gigasoft.com> -- documentation, pricing, the walkthrough |
 
 ## Licence and support
 
@@ -98,8 +98,8 @@ expiry. Above that, prices are published through to the largest buyer; a licence
 is perpetual, paid once and royalty free.
 
 See [PEJS-LICENSE.md](PEJS-LICENSE.md), [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)
-and <https://www.gigasoft.com/license>.
+and <https://gigasoft.com/license>.
 
 **Support is free and unlimited, answered by the people who wrote the engine:
-<https://www.gigasoft.com/contact>.** Issues are turned off on this repository
+<https://gigasoft.com/contact>.** Issues are turned off on this repository
 so that every question reaches somebody who can answer it.
