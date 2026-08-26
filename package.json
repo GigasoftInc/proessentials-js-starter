@@ -1,0 +1,10 @@
+{
+  "name": "proessentials-js-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The smallest ProEssentialsJS page, with working editor intellisense.",
+  "scripts": {
+    "start": "node serve.js"
+  },
+  "license": "SEE LICENSE IN PEJS-LICENSE.md"
+}

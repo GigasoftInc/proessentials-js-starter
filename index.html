@@ -1,0 +1,121 @@
+<!doctype html>
+<!--
+  ProEssentialsJS - Copyright 1994-2026 Gigasoft, Inc. All rights reserved.
+  Commercial product, free for commercial use under USD 250,000 annual
+  revenue. See PEJS-LICENSE.md - https://www.gigasoft.com
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ProEssentialsJS walkthrough</title>
+
+<style>
+  /* THE LAYOUT. One column, two rows -- a sentence on top, the chart below.
+     This is the web's answer to the WinForms walkthrough's Dock = Fill.
+
+     `height: 100dvh` on the grid and `1fr` on the second row mean the chart
+     cell takes whatever is left after the sentence, and both change when the
+     window changes. `min-height: 0` on the cell is the part everyone forgets:
+     without it a grid row refuses to shrink below its content and the chart
+     can only ever grow. */
+  html, body { margin: 0; height: 100%; }
+  body {
+    font: 15px/1.5 system-ui, -apple-system, Segoe UI, sans-serif;
+    color: #222;
+  }
+  .page {
+    display: grid;
+    grid-template-rows: auto 1fr;   /* row 1: the sentence.  row 2: the chart */
+    height: 100dvh;
+    padding: 16px;
+    gap: 12px;
+    box-sizing: border-box;
+  }
+  .intro { margin: 0; color: #444; }
+  .intro b { color: #222; }
+
+  /* The chart's container. The control fills this, and `autoResize` in app.js
+     watches it, so resizing the browser resizes the chart. */
+  #chart {
+    min-height: 0;                  /* see the note above */
+    overflow: hidden;               /* clip the control to the cell */
+  }
+
+  /* THE FOCUS RECT AROUND THE CHART -- HALF OF A TWO-PART FIX.
+     This rule removes the CSS outline. It does NOT remove the engine's own
+     focal rect, which is painted into the chart and needs
+     `PeUserInterface.Allow.FocalRect = false` in app.js. Do both or a
+     rectangle survives; `pegigaprime3dwasm` sets both, and so does
+     `pegigaprime2dwasm`.
+
+     The control's base canvas carries tabindex="0" so it can take keyboard
+     input, so clicking the chart focuses it and a ring appears around the whole
+     thing.
+
+     IT IS NOT THE BROWSER'S DEFAULT RING. ProEssentials ships its own, injected
+     by pe-control.js line 4:
+
+         .pe-control canvas:focus { outline: 1px solid rgba(110,110,110,.75);
+                                    outline-offset: 2px }
+
+     Which is why the rule below has to out-specify it rather than just set a
+     default. `#chart` makes it an ID selector, so it wins; a bare
+     `canvas:focus { outline: none }` would tie on specificity, lose on order,
+     and do nothing.
+
+     *** SCOPE IT TO THE CHART. DO NOT WRITE `*:focus { outline: none }`. ***
+     A focus ring is how a keyboard user knows where they are. Removing it
+     everywhere makes a page unusable without a mouse. Removing it on one canvas
+     that gives its own feedback does not, and every link and button on the page
+     keeps theirs. */
+  #chart .pe-control canvas:focus { outline: none; }
+
+  #status {
+    font: 12px ui-monospace, Consolas, monospace;
+    color: #555;
+    min-height: 1.4em;
+  }
+  #status.hit { color: #0a5; }
+  #status.bad { color: #a00; }
+</style>
+</head>
+<body>
+
+<div class="page">
+
+  <!-- ROW 1: the sentence. -->
+  <p class="intro">
+    Monthly figures for two product lines. <b>Hover a bar</b> for its value.
+    Resize the browser and the chart resizes with it.
+    <span id="status">loading...</span>
+  </p>
+
+  <!-- ROW 2: the chart. This div is EMPTY on purpose -- PeControl builds the
+       canvases inside it at run time. -->
+  <div id="chart"></div>
+
+</div>
+
+<!-- Opened from disk instead of served, the module below is rejected before it
+     runs, so its own error handling cannot report it. This classic script can. -->
+<script>
+  if (location.protocol === 'file:') {
+    var s = document.getElementById('status');
+    s.className = 'bad';
+    s.textContent = 'This page must be served over http, not opened from disk.';
+  }
+</script>
+
+<!-- THE ENGINE. One file: the control, its menus, scrollbars, tooltips and
+     dialogs, and the 3D layer. There is no load order to get wrong. -->
+<script src="proessentials.iife.js"></script>
+
+<!-- YOUR CODE. In its own file rather than inline, so the editor type-checks
+     it and offers completions. No jsconfig.json is needed: the facade .d.ts
+     carries /// <reference> lines to the three declarations that arrive by
+     script tag, so they resolve on their own. -->
+<script type="module" src="app.js"></script>
+
+</body>
+</html>

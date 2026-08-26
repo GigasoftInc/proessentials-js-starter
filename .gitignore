@@ -1,0 +1,28 @@
+# This repository is generated. Everything in it is committed on purpose:
+# the library in lib/ (or dist/) is the product, so a clone runs with nothing
+# installed and `npm start` needs no network.
+#
+# These are the things a person or an editor leaves behind.
+
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn-error.log*
+
+# Working files.
+*.bak
+*.bak-*
+*.orig
+*.rej
+*.tmp
+__pycache__/
+*.pyc
+
+# Editor and OS.
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
