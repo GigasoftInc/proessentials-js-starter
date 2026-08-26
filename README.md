@@ -15,6 +15,9 @@ your browser, try these:
 - **[100 million points](https://gigasoft.com/fastest-javascript-chart-live-demo/)** -- every point re-passed and re-rendered each frame, with live FPS
 - **[3D surfaces and contours](https://gigasoft.com/javascript-3d-surface-chart-live-demo/)** -- a WebGPU mesh from real height-map data, rotate and zoom it
 
+If you like what you see, we'd appreciate a star -- it helps more
+than you realize.
+
 * **A desktop engine, not a web library.** The same native C++ engine
   Gigasoft has shipped since 1995 -- running inside instrumentation, SCADA,
   medical and test-and-measurement products -- compiled to WebAssembly.
