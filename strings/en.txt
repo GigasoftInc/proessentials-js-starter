@@ -1,0 +1,599 @@
+1	Export
+9	&Help
+201	Desk Foreground
+202	Desk Background
+203	Shadow Color
+204	Graph Foreground
+205	Graph Background
+206	Table Foreground
+207	Table Background
+403	
+404	
+405	
+406	
+407	
+408	
+409	
+410	
+411	
+412	
+413	
+414	
+415	
+416	
+417	
+418	
+419	Inset
+420	Shadow
+421	Line
+422	None
+423	Inset
+424	Shadow
+425	Line
+426	None
+427	Inset
+428	Shadow
+429	Line
+430	None
+1010	bold
+1011	italic
+1012	underline
+1014	Large Font
+1015	italic
+1016	underline
+1018	bold
+1019	italic
+1020	underline
+1022	&Table Data:
+1024	&ClipBoard
+1025	&File
+1026	&Printer
+1030	B&rowse
+1041	Width:
+1042	/ Height:
+1043	Units
+1055	No Specific Size
+1056	Millimeters
+1057	Inches
+1058	Points
+1060	List Files of &Type:
+1062	Dri&ves:
+1071	&Setup...
+1074	Static
+1076	Orientation:
+1079	Portrait
+1080	size label
+1081	source label
+1083	Subsets to &Graph
+1084	
+1086	Large
+1087	Medium
+1088	Small
+1090	Percentage
+1091	Value
+1101	Color
+1102	Monochrome
+1103	Monochrome + Symbols
+1106	Graph
+1107	Table
+1108	Both
+1111	Graphed
+1112	All Subsets
+1400	&EMF
+1401	&WMF
+1402	&BMP
+1403	&JPG
+1404	&PNG
+1405	&SVG
+1406	&Text / Data
+1508	All Data
+1509	Selected Data
+1510	Data
+1511	Data and Labels
+1516	Table
+1517	List
+1518	Help
+1519	Subsets/Points
+1520	Points/Subsets
+1521	Current Precision
+1522	Maximum Precision
+1525	Row vs Column
+1526	Type 1
+1527	Type 2
+1528	Custom Slices to Explode
+1529	Custom Slices to Chart
+1530	Scrolling Subsets Print Options
+1531	Print current graph.
+1532	Print from current graph and revolve 
+1536	graphs.
+1538	Print Title
+1539	1
+1540	Both
+1541	Y
+1542	X
+1543	None
+1549	Comparisons as &Normal
+1552	Sequential
+1553	Selected
+1556	Export Size
+1557	Grid in front of data
+1558	Tab
+1559	Comma
+1560	0
+1561	1
+1562	2
+1563	3
+1564	4
+1565	5
+1566	6
+1567	7
+1568	Shadow
+1569	Line
+1570	No Border
+1571	3D Inset
+1572	Source:
+1573	Paper:
+1574	None
+1575	1%
+1576	2% 
+1577	3%
+1578	4%
+1579	5%
+1607	&Axes
+1608	Subsets to &Table
+1609	Show &Annotations
+1610	&Fixed Font
+1611	Auto
+1612	Vertical
+1613	Horizontal
+1614	Slanted
+1615	&Mark Data Points
+1617	While Rotating
+1618	Always
+1619	Never
+1621	Wireframe
+1622	Plotting Method
+1623	Full
+1624	Rotation Animation
+1625	White
+1626	Color
+1627	OFF
+1628	Lines on top
+1629	Lines on bottom
+1630	Colors on top
+1631	Colors on bottom
+1634	Comparison Plotting Method
+1635	2D Contour
+1636	Plotting Method
+1637	Shading Style
+1641	Point Type:
+1642	Line Type:
+1645	Auto 
+1646	Auto 
+1647	Linear
+1648	Log
+1649	Linear
+1650	Log
+1653	Min
+1654	Max
+1655	Min/Max
+1656	Min
+1657	Max
+1658	Min/Max
+1659	Linear
+1660	Log
+1661	Auto 
+1662	Min
+1663	Max
+1666	Min/Max
+1667	Linear
+1668	Log
+1669	Auto 
+1670	Min
+1671	Max
+1674	Min/Max
+1675	X Axis
+1676	Top X  Axis
+1677	Right Y Axis
+1678	Min
+1680	Max
+1681	Min
+1682	Max
+1683	Min
+1684	Max
+1685	Off
+1686	Shadow
+1687	3D
+1688	&Viewing Style
+1689	&Font Size
+1690	&Numeric Precision
+1691	&Grid Lines
+1692	Border Style
+1693	3D
+1694	&Data Label Type
+1695	&Group Percentages
+1696	Show Bounding Box
+1697	Rotation Detail
+1698	Rotation Increment
+1701	Bitmap / Gradient Styles
+1711	Dark:
+1712	Medium:
+1713	Light:
+1714	Printing Style
+1715	Color
+1716	&Main Title:
+1717	Mono plus Symbol
+1718	Currently Printing:
+1719	Page:
+1720	Export
+1721	Export Destination
+1723	&Select Subsets and Points
+1724	Subsets to Export:
+1725	Points to Export:
+1726	Export &What
+1727	Data to Export
+1728	Export &Style
+1729	Delimited
+1730	&Numeric Precision
+1731	File &Name:
+1732	&Directories:
+1733	&Printer:
+1734	Y Axis
+1735	Min
+1736	Max
+1738	&Plot Style
+1739	&Comparison Plot Style
+1740	Scrolling Subsets
+1741	&Points to Graph
+1742	Point Label Orientation
+1743	Subset / Point / Axis &Labels:
+1744	sample:
+1745	Graph Attributes
+1746	Slice Parameters
+1747	DPI
+1750	DPI:
+30000	PE15131950
+40000	5_Z\\\\5_C\\\\GfaEWpUbp;2n@njD8O9NC@?;FfT?M1f:
+61219	TRUE
+61220	0 16777215 0  0 16777215 0 16777215 
+61222	16777215 16777215 16777215 16777215 16777215 16777215
+61735	Error attempting to open file.  Make sure the drive door is closed, and  the destination disk is formatted and free of errors.
+61736	Error writing information to disk.  Disk may be damaged.
+61737	An error occured while attempting to initialize the printer driver.
+61738	The output device does not support raster capabilities.  The print operation will be canceled.
+61739	An error occured while attempting to start the printing operation.
+61740	Object to large.  Only 64 thousand bytes can be transferred to the clipboard.  Data will be truncated.
+61741	Bitmap width and height dimensions must be at least 32 and not more than 3300 pixels. 
+61742	Image width and height dimensions must be between 1 and 10000 units.
+61743	Image width and height dimensions must be between 1 and 17 inches.
+61744	Image width and height dimensions must be between 25 and 432 millimeters.
+61745	Image width and height dimensions must be between 72 and 1224 points.
+61746	The width to height ratio could produce an image hard to read.  Please reduce the width or increase the height. 10 to 1 recommended.
+61747	The width to height ratio could produce an image hard to read.  Please increase the width or decrease the height. 1 to 10 recommended.
+61748	A filename is required.
+61749	MetaFiles (*.wmf;*.mfp)|All Files (*.*)||
+61750	Bitmaps (*.bmp;*.dib)|All Files (*.*)||
+61751	Data Files (*.dat;*.txt)|All Files (*.*)||
+61752	Monochrome Color Selection
+61753	Color Selection
+61754	 Background Color . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61755	 Foreground Color . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61756	Line                                                                                0
+61757	Bar                                                                                 1
+61758	Points                                                                              2
+61759	Area                                                                                3
+61760	Area, Stacked                                                                       4
+61761	Area, Stacked Percent                                                               5
+61762	Bar, Stacked                                                                        6
+61763	Bar, Stacked Percent                                                                7
+61764	Points+BestFitLine                                                                  8
+61765	Points+BestFitLine II                                                               9
+61766	Histogram                                                                          10
+61767	High/Low                                                                           11
+61768	High/Low/Close                                                                     11
+61769	Open/High/Low/Close                                                               a11
+61770	Candle Stick                                                                      b11
+61771	Bubble                                                                             12
+61772	Points+BestFitCurve                                                                13
+61773	Points+BestFitCurve II                                                             14
+61774	Points+Spline                                                                      15
+61775	Spline                                                                             16
+61776	Stick                                                                               1
+61777	Points+Line                                                                        17
+61778	Horizontal Bar                                                                     18
+61779	At least two points must be selected. 
+61780	 Fixed Disk
+61781	 Network Drive
+61782	 CD ROM
+61783	 Ram Drive
+61784	 5 1/4 Floppy 360K
+61785	 5 1/4 Floppy 1.2M
+61786	 3 1/2 Floppy 720K
+61787	 8 Single Density
+61788	 8 Double Density
+61789	 Tape Drive
+61790	 3 1/2 Floppy 1.44M
+61791	 Optical Drive
+61792	 3 1/2 Floppy 2.88M
+61793	Drive is not responding.  Please make sure that a formatted disk is present, free of errors, and the drive door is closed.
+61794	File Exists.  Do you want to overwrite current file?
+61795	Permission is denied.
+61796	File not found.
+61797	Invalid filename.
+61798	Media is damaged.
+61799	Error accessing drive.
+61800	Error attempting to load printer driver 
+61989	&Color
+61990	&Monochrome
+61991	Monochrome + &Symbol
+61992	&Large
+61993	&Medium
+61994	&Small
+61999	&Show X and Y Axis Grid Lines
+62000	Show &Y Axis Grid Lines
+62001	Show &X Axis Grid Lines
+62002	&Hide Grid Lines
+62003	&Graph
+62004	&Table
+62005	&Both Graph and Table
+62006	&Auto
+62007	&Vertical
+62008	&Horizontal
+62009	Graphed Subsets
+62010	All Subsets
+62011	&Viewing Style
+62012	&Font Size
+62013	&Numeric Precision
+62014	Line
+62015	Bar
+62016	Horizontal Bar
+62017	Point
+62018	Area
+62019	Bar Stacked
+62020	Bar Stacked Percent
+62021	Area Stacked
+62022	Area Stacked Percent
+62023	Points + Best Fit Line
+62024	Points + Best Fit Line II
+62025	Points + Best Fit Curve
+62026	Points + Best Fit Curve II
+62027	Points + Line
+62028	Points + Spline
+62029	Spline
+62030	Histogram
+62031	High / Low
+62032	High / Low / Close
+62033	Open / High / Low / Close
+62034	Candle Stick
+62035	Undefined
+62036	&Plotting Method
+62037	&Data Shadows
+62038	Grid Options
+62039	Grid in &Front
+62040	&Graph and/or Table
+62041	&What to Table
+62042	Point Label &Orientation
+62043	Comparison Subsets as &Normal
+62044	Mar&k Data Points
+62045	Show &Annotations
+62046	Undo &Zoom
+62047	&Maximize...
+62048	&Customization Dialog...
+62049	E&xport Dialog...
+62050	&Help
+62051	Y Axis Value
+62052	Point Number, Y Axis Value
+62053	Stick
+62054	Bubble
+62055	&Include Data Labels
+62056	X Axis Value, Y Axis Value
+62057	JanFebMarAprMayJunJulAugSepOctNovDec
+62058	SunMonTueWedThuFriSat
+62059	SMTWTFS
+62060	Both Degrees and Radius
+62061	Degrees
+62062	Radius
+62063	Both R and X Rings
+62064	R Rings
+62065	X Rings
+62066	Radius Line Labels
+62067	R Ring Labels
+62068	Degrees, Radius
+62069	R Values, X Values
+62070	Percentage
+62071	Value
+62072	No Grouping
+62073	1% and Under
+62074	2% and Under
+62075	3% and Under
+62076	4% and Under
+62077	5% and Under
+62078	Data &Labels as
+62079	&Group Percentages
+62080	Slice Values
+62081	Slice Percentages
+62082	* Other
+62083	* Zero Data
+62084	 Other *
+62085	 Accum %
+62086	Percentage
+62087	* Sum per pt
+62088	* Min all pts
+62089	* Min per pt
+62090	* Max all pts
+62091	* Max per pt
+62092	* Avg all pts
+62093	* Avg per pt
+62094	* u+1s all pts
+62095	* u+1s per pt
+62096	* u+2s all pts
+62097	* u+2s per pt
+62098	* u+3s all pts
+62099	* u+3s per pt
+62100	* u-1s all pts
+62101	* u-1s per pt
+62102	* u-2s all pts
+62103	* u-2s per pt
+62104	* u-3s all pts
+62105	* u-3s per pt
+62106	Percent of 100
+62107	 Occurences
+62108	Exporting 
+62109	Print...
+62110	Export...
+62111	Export
+62112	Pixels
+62113	Full Page
+62114	No Specific Size
+62115	Units
+62116	Millimeters
+62117	Inches
+62118	Points
+62119	Open File
+62120	Save As
+62121	 Removable
+62122	Printing 
+62123	 on 
+62124	Unknown
+62125	Portrait
+62126	Landscape
+62127	Radius Labels
+62128	R Ring Labels
+62129	Not enough slices, switching to default slice parameters.
+62130	Original
+62131	Maximize...
+62132	 Customization...
+62133	Export... 
+62134	Horz Bar Stacked
+62135	Horz Bar Stacked Percent
+62136	Horz Bar Stacked                                                                  19
+62137	Horz Bar Stacked Percent                                                          20
+62138	Step
+62139	Step                                                                              21
+62140	JPEGS (*.jpg)|All Files (*.*)||
+62141	Ribbon                                                                            22
+62142	Contour Lines                                                                     23
+62143	Contour Colors                                                                    24
+62144	Ribbon
+62145	Contour Lines
+62146	Contour Colors
+62147	Gigasoft ProEssentials v10, Copyright (c) 1994-2026 Gigasoft, Inc., All Rights Reserved.
+62148	Wire Frame
+62149	Surface
+62150	Surface with Shading
+62151	Surface with Contouring
+62152	Pixels
+62153	Wire Frame                                                                        25
+62154	Surface                                                                           26
+62155	Surface with Shading                                                              27
+62156	Surface with Contouring                                                           29
+62157	Pixels                                                                            28
+62158	WireFrame Color
+62159	Solid Color
+62160	Pixel Color
+62161	No Decimals
+62162	&1 Decimal
+62163	&2 Decimals
+62164	&3 Decimals
+62165	&4 Decimals
+62166	&5 Decimals
+62167	&6 Decimals
+62168	&7 Decimals
+62169	&While Rotating
+62170	&Always
+62171	&Never
+62172	&Show Bounding Box
+62173	&Rotation Animation
+62174	15 degree
+62175	10 degree
+62176	5 degree
+62177	2 degree
+62178	1 degree
+62179	-1 degree
+62180	-2 degree
+62181	-5 degree
+62182	-10 degree
+62183	-15 degree
+62184	&Rotation Increment
+62185	&Wire Frame
+62186	&Plotting Style
+62187	&Full Detail
+62188	Rotation &Detail
+62189	White
+62190	Color
+62191	&Shading Style
+62192	Off
+62193	Contour Lines on Top
+62194	Contour Lines on Bottom
+62195	Contour Colors on Top
+62196	Contour Colors on Bottom
+62197	&2D Contour
+62198	Off
+62199	Shadow
+62200	3D
+62201	X and Z Axis Plane
+62202	Y Axis Planes
+62203	p n u m K M B T 
+62204	&Hide Legend
+62205	Top
+62206	Bottom
+62207	Left
+62208	Right
+62209	&Legend Style
+62210	&No Border
+62211	&Thin Line
+62212	&Shadow
+62213	&Inset
+62214	&Border Style
+62215	Axes &Grouped Together
+62216	Axes &Separated
+62217	&Multiple Axis Style
+62218	&Fixed Font Size
+62219	&Show Legend
+62220	Show Table &Annotations
+62221	&Inside Axis
+62222	&Outside Axis
+62223	Thin Grid Lines
+62224	Thick Grid Lines
+62225	Dotted Grid Lines
+62226	Dashed Grid Lines
+62227	One Pixel Grid Lines
+62228	Light Inset
+62229	Light Shadow
+62230	Light Line
+62231	Light No Border
+62232	Medium Inset
+62233	Medium Shadow
+62234	Medium Line
+62235	Medium No Border
+62236	Dark Inset
+62237	Dark Shadow
+62238	Dark Line
+62239	Dark No Border
+62240	&Quick Style
+62241	Extend Y Axis Tick Marks
+62242	PNG (*.png)|All Files (*.*)||
+62243	Bitmap / Gradient Styles
+62244	Extend X Axis Tick Marks
+62245	Extend Degree Tick Marks
+62246	Extend Radius Tick Marks
+62247	Inset
+62248	Shadow
+62249	No Border
+62250	Line
+62251	Dark
+62252	Medium
+62253	Light
+62254	Slanted
+62255	Max
+62256	&Curved
+62257	Beveled Inset
+62258	Beveled Highlight
+62259	&Gradient Styles
+62260	Bold Grid Lines
+62261	Grid Background Bands
+62262	Spline Area
+62263	Spline Area                                                                       35
+62264	Spline Ribbon
+62265	Spline Ribbon                                                                     36
+62266	Show Annotations Text

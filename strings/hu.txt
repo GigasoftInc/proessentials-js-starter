@@ -1,0 +1,587 @@
+1	Exportálás
+9	Segítség
+201	Pult előtérben
+202	Pult háttérben
+203	Árnyékolt szín
+204	Grafikon előtérben
+205	Grafikon háttérben
+206	Táblázat előtérben
+207	Táblázat háttérben
+403	
+404	
+405	
+406	
+407	
+408	
+409	
+410	
+411	
+412	
+413	
+414	
+415	
+416	
+417	
+418	
+419	Beilleszt
+420	Árnyék
+421	Vonal
+422	Egyik sem
+423	Beilleszt
+424	Árnyék
+425	Vonal
+426	Egyik sem
+427	Beilleszt
+428	Árnyék
+429	Vonal
+430	Egyik sem
+1010	félkövér
+1011	dőlt
+1012	aláhúzott
+1014	Nagy betűtípus
+1015	dőlt
+1016	aláhúzott
+1018	félkövér
+1019	dőlt
+1020	aláhúzott
+1022	Táblázat adatok:
+1024	Vágólap
+1025	Fájl
+1026	Nyomtató
+1030	Böngésző
+1041	Szélesség:
+1042	/ Magasság:
+1043	Egység
+1055	Nincs meghatározott méret
+1056	Milliméter
+1057	Hüvelyk
+1058	Pont
+1060	Fájlok listázása Típus szerint:
+1062	Meghajtó:
+1071	Beállítás...
+1074	Statikus
+1076	Elrendezés:
+1079	Álló
+1080	méret felirat
+1081	forrás felirat
+1083	Burkológörbék grafikonra
+1084	
+1086	Nagy
+1087	Közepes
+1088	Kis
+1090	Százalék
+1091	Érték
+1101	Színes
+1102	Monokróm
+1103	Monokróm + Szimbólumok
+1106	Grafikon
+1107	Táblázat
+1108	Mindkettő
+1111	Grafikonra kirajzolt
+1112	Összes burkológörbe
+1400	&EMF
+1401	WMF
+1402	BMP
+1403	JPG
+1404	PNG
+1405	&SVG
+1406	Csak Szöveg / Adat
+1508	Összes adat
+1509	Kiválasztott adat
+1510	Adat
+1511	Adat és felirat
+1516	Táblázat
+1517	Lista
+1518	Segítség
+1519	Burkológörbék/Pontok
+1520	Pontok/Burkológörbék
+1521	Jelenlegi pontosság
+1522	Maximum pontosság
+1525	Sor vs Oszlop
+1526	1. típus
+1527	2. típus
+1528	Egyedi körszeletek robbantáshoz
+1529	Egyedi körszeletek táblázatba
+1530	Burkológörbék görgetése nyomtatási lehetőségek
+1531	Aktuális grafikon nyomtatása.
+1532	Print from current graph and revolve 
+1536	grafikonok.
+1538	Cím nyomtatása
+1539	1
+1540	Mindkettő
+1541	Y
+1542	X
+1543	Egyik sem
+1549	Összehasonlítás általánosként
+1552	Egymás utáni
+1553	Kiválasztott
+1556	Tárgyméret
+1557	Adatok előtti rács
+1558	Tabulátor
+1559	Vessző
+1560	0
+1561	1
+1562	2
+1563	3
+1564	4
+1565	5
+1566	6
+1567	7
+1568	Árnyék
+1569	Vonal
+1570	Nincs szegély
+1571	3D jelleg
+1572	Forrás:
+1573	Papír:
+1574	Egyik sem
+1575	1%
+1576	2% 
+1577	3%
+1578	4%
+1579	5%
+1607	Tengelyek
+1608	Burkológörbe táblázatba
+1609	Megjegyzések megjelenítése
+1610	Rögzített betűtípus
+1611	Automata
+1612	Függőleges
+1613	Vízszintes
+1614	Dőlt
+1615	Adatpontok megjelölése
+1617	Forgatás közben
+1618	Mindig
+1619	Soha
+1621	Drótvázas
+1622	Ábrázolás típus
+1623	Teljes
+1624	Forgás animáció
+1625	Fehér
+1626	Színes
+1628	Vonalak felül
+1629	Vonalak alul
+1630	Színek felül
+1631	Színek alul
+1634	Összehasonlító ábrázolás típus
+1635	2D kontúr
+1636	Ábrázolás típus
+1637	Árnyékolt stílus
+1641	Ponttípus:
+1642	Vonaltípus:
+1645	Automatikus 
+1646	Automatikus 
+1647	Lineáris
+1648	Logaritmikus
+1649	Lineáris
+1650	Logaritmikus
+1653	Min
+1654	Max
+1655	Min/Max
+1656	Min
+1657	Max
+1658	Min/Max
+1659	Lineáris
+1660	Logaritmikus
+1661	Automatikus 
+1662	Min
+1663	Max
+1666	Min/Max
+1667	Lineáris
+1668	Logaritmikus
+1669	Automatikus 
+1670	Min
+1671	Max
+1674	Min/Max
+1675	X tengely
+1676	X  tengely felső
+1677	Y tengely jobb
+1678	Min
+1680	Max
+1681	Min
+1682	Max
+1683	Min
+1684	Max
+1685	3D ki
+1686	Árnyékolt
+1687	3D
+1688	Megtekintési mód
+1689	Betűméret
+1690	Számtani pontosság
+1691	Rácsvonalak
+1692	Szegély stílus
+1693	3D
+1694	Adatfelirat típus
+1695	Csoport százalék
+1696	Határoló doboz megjelenítése
+1697	Forgás részletei
+1698	Forgatásnövelés
+1701	Bitkép / Gradiens típus
+1711	Sötét:
+1712	Közepes:
+1713	Világos:
+1714	Nyomtatási stílus
+1715	Színes
+1716	Főcím:
+1717	Monokróm szimbólumokkal
+1718	Aktuálisan nyomtatott:
+1719	Oldal:
+1720	Exportálás
+1721	Exportálás helye
+1723	Burkológörbék és pontok kiválasztása
+1724	Exportálandó burkológörbék:
+1725	Exportálandó pontok:
+1726	Exportálandó
+1727	Exportálandó adat
+1728	Stílus exportálása
+1729	Elválasztás
+1730	Számtani pontosság
+1731	Fájlnév:
+1732	Könyvtárak:
+1733	Nyomtató:
+1734	Y tengely
+1735	Min
+1736	Max
+1738	Kirajzolás módja
+1739	Kirajzolás módjának összehasonlítása
+1740	Burkológörbe görgetése
+1741	Pontok grafikonra
+1742	Pontfelirat tájolása
+1743	Burkológörbe / Pont /  Tengely feliratok:
+1744	minta:
+1745	Grafikon tulajdonságai
+1746	Körszelet paraméterek
+1747	DPI
+1750	DPI
+30000	PE15131950
+40000	5_Z\\\\5_C\\\\GfaEWpUbp;2n@njD8O9NC@?;FfT?M1f:
+61219	IGAZ
+61220	0 16777215 0  0 16777215 0 16777215 
+61222	16777215 16777215 16777215 16777215 16777215 16777215
+61735	A fájl megnyitása sikertelen.  Ellenőrizze a meghajtólemez állapotát, és hogy a céllemez formázott és hiba nélküli.
+61736	Lemezre írás sikertelen. A lemez sérült lehet.
+61737	Hiba történt a nyomtató driver indítása során.
+61738	A kimeneti eszköz nem támogatja a raszteres formát.  A nyomtatási művelet megszakításra kerül.
+61739	Hiba történt a nyomtatás indításakor.
+61740	A fájlméret túl nagy.  Legfeljebb 64 ezer bájtnyi vehető vágólapra.  Az adat egy része kimaradt a műveletből.
+61741	Bitkép szélessége és magassága legalább 32 és legfeljebb 2000 pixel lehet. 
+61742	Kép szélessége és magassága 1 és 10000 egység között lehet.
+61743	Kép szélessége és magassága 1 és 17 hüvelyk között lehet.
+61744	Kép szélessége és magassága 25 és 432 milliméter közötti lehet.
+61745	Kép szélessége és magassága 72 és 1224 pont közötti lehet.
+61746	A jelenlegi szélesség-magasság arány magasabb 10:1-nél:  Ez nehezen értelmezhető képet eredményez.  Kérem, állítsa át a kimeneti méreteket.
+61747	A jelenlegi magasság-szélesség arány kisebb 1:3-nál:  Ez nehezen értelmezhető képet eredményez.  Kérem, állítsa át a kimeneti méreteket.
+61748	Fájlnév megadása kötelező.
+61749	MetaFájlok (*.wmf;*.mfp)|Összes fájl (*.*)||
+61750	Bitképek (*.bmp;*.dib)|Összes fájl (*.*)||
+61751	Adatfájlok (*.dat;*.txt)|Összes fájl (*.*)||
+61752	Monokróm Színválaszték
+61753	Szín választék
+61754	 Háttérszín . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61755	 Előtérszín . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61756	Egyenes                                                             0
+61757	Sáv                                                                 1
+61758	Pontok                                                              2
+61759	Terület                                                             3
+61760	Terület, halmozott                                                 4
+61761	Area, Stacked Percent                                                   5
+61762	Sáv, halmozott                                                     6
+61763	Bar, Stacked Percent                                                    7
+61764	Pontok+Legjobban Illeszkedő Egyenes                                8
+61765	Pontok+Legjobban Illeszkedő Egyenes II                             9
+61766	Hisztogram                                                        10
+61767	Magas/Alacsony                                                   11
+61768	Magas/Alacsony/Zárt                                               11
+61769	Nyitott/Magas/Alacsony/Zárt                                      a11
+61770	Gyertyatartó                                                     b11
+61771	Buborék                                                           12
+61772	Pontok+Legjobban Illeszkedő Görbe                                 13
+61773	Pontok+Legjobban Illeszkedő Görbe II                              14
+61774	Pontok+Spline                                                     15
+61775	Spline                                                            16
+61776	Sáv                                                                1
+61777	Pontok+Egyenes                                                     17
+61778	Vízszintes sáv                                                    18
+61779	Legalább két pontot kell kijelölni. 
+61780	 Rögzített lemez
+61781	 Hálózati meghajtó
+61782	 CD ROM
+61783	 Ram Drive
+61784	 5 1/4 Floppy 360K
+61785	 5 1/4 Floppy 1.2M
+61786	 3 1/2 Floppy 720K
+61787	 8 egyszeres tömörségű
+61788	 8 dupla tömörségű
+61789	 Szalagos meghajtó
+61790	 3 1/2 Floppy 1.44M
+61791	 Optikai meghajtó
+61792	 3 1/2 Floppy 2.88M
+61793	Meghajtó nem válaszol.  Kérem, ellenőrizze, hogy a lemez formázott és sérülésmentes.
+61794	Fájl már létezik.  Szeretné felülírni a jelenlegi fájlt?
+61795	Hozzáférés megtagadva.
+61796	Fájl nem található.
+61797	Érvénytelen fájlnév.
+61798	Média sérült.
+61799	Hiba a meghajtó elérésében.
+61800	Hiba a nyomtató driver elérésében. 
+61989	Színes
+61990	Monokróm
+61991	Monokróm Szimbólumokkal
+61992	Nagy
+61993	Közepes
+61994	Kicsi
+61999	X és Y tengely rácsvonalak megjelenítése
+62000	&Y tengely rácsvonalak megjelenítése
+62001	&X tengely rácsvonalak megjelenítése
+62002	Rácsvonalak elrejtése
+62003	Grafikon
+62004	Táblázat
+62005	Grafikon és táblázat is
+62006	Automatikus
+62007	Függőleges
+62008	Vízszintes
+62009	Megrajzolt burkológörbe
+62010	Minden burkológörbe
+62011	Megjelenítési mód
+62012	Betűméret
+62013	Számtani pontosság
+62014	Egyenes
+62015	Sáv
+62016	Vízszintes sáv
+62017	Pont
+62018	Felület
+62019	Halmozott sáv
+62020	Halmozott sáv százalék
+62021	Halmozott felület
+62022	Halmozott felület százalék
+62023	Pontok + Legjobban illeszkedő egyenes
+62024	Pontok + Legjobban illeszkedő egyenes II
+62025	Pontok + Legjobban illeszkedő görbe
+62026	Pontok + Legjobban illeszkedő görbe II
+62027	Pontok + egyenes
+62028	Pontok + Spline
+62029	Spline
+62030	Hisztogram
+62031	Magas / Alacsony
+62032	Magas / Alacsony/ Zárt
+62033	Nyílt / Magas / Alacsony/ Zárt
+62034	Gyertyatartó
+62035	Meghatározatlan
+62036	Kirajzolás típus
+62037	Adat árnyékolt
+62038	Rácsvonal lehetőségek
+62039	Rácsvonalak elől
+62040	Grafikon és/vagy Táblázat
+62041	Táblázatba
+62042	Pont felirat tájolás
+62043	Burkológörbe összehasonlítás általánosként
+62044	Adatpontok megjelölése
+62045	Megjegyzések megjelenítése
+62046	Távolítás
+62047	Maximalizálni...
+62048	Testreszabás párbeszédpanel...
+62049	Export párbeszédpanel...
+62050	Segítség
+62051	Y tengely érték
+62052	Pont sorszám, Y tengely érték
+62053	Sáv
+62054	Buborék
+62055	Adatfeliratokkal
+62056	X tengely érték, Y tengely érték
+62057	JanFebMárÁprMájJúnJúlAugSepOktNovDec
+62058	VasHétKedSzeCsüPénSzo
+62059	VHKSCPS
+62060	Fok és rádiusz
+62061	Fok
+62062	Rádiusz
+62063	R és X gyűrűkkel
+62064	R gyűrűk
+62065	X gyűrűk
+62066	Rádiuszvonal felirat
+62067	R gyűrű felirat
+62068	Fok, Rádiusz
+62069	R érték, X érték
+62070	Százalék
+62071	Érték
+62072	Nincs egyesítés
+62073	1% és ezalatt
+62074	2% és ezalatt
+62075	3% és ezalatt
+62076	4% és ezalatt
+62077	5% és ezalatt
+62078	Adatfeliratok, mint
+62079	Csoport százalékok
+62080	Körszelet értékek
+62081	Körszelet százalékok
+62082	* Egyéb
+62083	* Zéró Adat
+62084	 % Egyéb *
+62085	 Halmozott %
+62086	Százalék
+62087	* Sum per pt
+62088	* Min all pts
+62089	* Min per pt
+62090	* Max all pts
+62091	* Max per pt
+62092	* Avg all pts
+62093	* Avg per pt
+62094	* u+1s all pts
+62095	* u+1s per pt
+62096	* u+2s all pts
+62097	* u+2s per pt
+62098	* u+3s all pts
+62099	* u+3s per pt
+62100	* u-1s all pts
+62101	* u-1s per pt
+62102	* u-2s all pts
+62103	* u-2s per pt
+62104	* u-3s all pts
+62105	* u-3s per pt
+62106	100%-ból
+62107	 Előfordulások
+62108	Exportálás alatt 
+62109	Nyomtatás...
+62110	Exportálás...
+62111	Exportálás
+62112	Pixelek
+62113	Egész oldal
+62114	Nincs meghatározott méret
+62115	Egység
+62116	Milliméter
+62117	Hüvelyk
+62118	Pont
+62119	Fájl megnyitása
+62120	Mentés mint
+62121	 Eltávolítható
+62122	Nyomtatás 
+62123	 be 
+62124	Ismeretlen
+62125	Álló
+62126	Fekvő
+62127	Rádiusz feliratok
+62128	R gyűrű felirat
+62129	Nincs elég körszelet, váltás alapértelmezett körszelet paraméterekre.
+62130	Eredeti
+62131	Maximalizál...
+62132	 Testreszabás...
+62133	Exportálás... 
+62134	Horz halmozott sáv
+62135	Horz halmozott sáv százalék
+62136	Horz halmozott sáv                                                   19
+62137	Horz Bar Stacked Percent                                              20
+62138	Lépés
+62139	Lépés                                                                 21
+62140	JPEG-k (*.jpg)|Összes fájl (*.*)||
+62141	Szalag                                                                22
+62142	Kontúrvonalak                                                        23
+62143	Kontúrszínek                                                         24
+62144	Szalag
+62145	Kontúrvonalak
+62146	Kontúrszínek
+62147	GigaSoft ProEssentials v6, Copyright (c) 1994-2006 Gigasoft, Inc., All Rights Reserved.
+62148	Drótkeret
+62149	Felszín
+62150	Felület árnyékolással
+62151	Felület kontúrozással
+62152	Pixelek
+62153	Drótkeret                                                            25
+62154	Felület                                                               26
+62155	Felület árnyékolással                                                27
+62156	Felület kontúrozással                                                29
+62157	Pixelek                                                              28
+62158	Drótkeret szín
+62159	Egyszínű
+62160	Pixel szín
+62161	Tizedesjegy nélkül
+62162	&1 Tizedesjegy
+62163	&2 Tizedesjegy
+62164	&3 Tizedesjegy
+62165	&4 Tizedesjegy
+62166	&5 Tizedesjegy
+62167	&6 Tizedesjegy
+62168	&7 Tizedesjegy
+62169	Forgatás közben
+62170	Mindig
+62171	Soha
+62172	Határoló doboz megjelenítése
+62173	Forgatás animáció
+62174	15 fok
+62175	10 fok
+62176	5 fok
+62177	2 fok
+62178	1 fok
+62179	-1 fok
+62180	-2 fok
+62181	-5 fok
+62182	-10 fok
+62183	-15 fok
+62184	Forgatás növelése
+62185	Drótkeret
+62186	Ábrázolás típus
+62187	Összes részlet
+62188	Forgatás részlet
+62189	Fehér
+62190	Színes
+62191	Árnyékolás stílus
+62192	Ki
+62193	Kontúrvonalak felül
+62194	Kontúrvonalak alul
+62195	Kontúrszínek felül
+62196	Kontúrszínek alul
+62197	2D Kontúr
+62198	Ki
+62199	Árnyék
+62200	3D
+62201	X és Z tengely síkja
+62202	Y tengely síkja
+62203	p n u m K M B T 
+62204	Jelmagyarázat elrejtése
+62205	Felül
+62206	Alul
+62207	Bal
+62208	Jobb
+62209	Jelmagyarázat stílus
+62210	Keret nélkül
+62211	Vékony vonal
+62212	Árnyék
+62213	Süllyesztett
+62214	Keret típus
+62215	Tengelyek csoportosítva
+62216	Tengelyek elválasztva
+62217	Különböző tengelytípusok
+62218	Rögzített betűméret
+62219	Jelmagyarázat megjelenítése
+62220	Táblázat és megjegyzések megjelenítése
+62221	Tengelyen belül
+62222	Tengelyen kívül
+62223	Vékony rácsvonalak
+62224	Vastag rácsvonalak
+62225	Pontozott rácsvonalak
+62226	Szaggatott rácsvonalak
+62227	Egy pixelnyi rácsvonalak
+62228	Világos süllyesztés
+62229	Világos árnyékolás
+62230	Világos vonal
+62231	Világos határ nélküli
+62232	Közepes süllyesztés
+62233	Közepes árnyékolás
+62234	Közepes vonal
+62235	Közepes határ nélküli
+62236	Sötét süllyesztés
+62237	Sötét árnyékolás
+62238	Sötét vonal
+62239	Sötét határ nélküli
+62240	Gyors formázás
+62241	Y tengely pipajelek kiterjesztése
+62242	PNG (*.png)|Összes fájl (*.*)||
+62243	Bitkép / Gradiens stílus
+62244	X tengely pipajelek kiterjesztése
+62245	Fok pipajelek kiterjesztése
+62246	Rádiusz pipajelek kiterjesztése
+62247	Süllyesztés
+62248	Árnyék
+62249	Nincs határ
+62250	Vonal
+62251	Sötét
+62252	Közepes
+62253	Világos
+62254	Dőlt
+62255	Max

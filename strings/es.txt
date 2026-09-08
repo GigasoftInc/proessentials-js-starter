@@ -1,0 +1,568 @@
+1	Exportar
+9	&Ayuda
+201	Primer plano frontal
+202	Segundo plano posterior
+203	Color sombreado
+204	Primer plano gráfico
+205	Plano posterior gráfico
+206	Primer plano tabla
+207	Segundo plano tabla
+419	Hueco
+420	Sombra
+421	Línea
+422	Nada
+423	Hueco
+424	Sombra
+425	Línea
+426	Nada
+427	Hueco
+428	Sombra
+429	Línea
+430	Nada
+1010	grueso
+1011	itálica
+1012	subrayado
+1014	Grande Tipo
+1015	itálica
+1016	subrayado
+1018	grueso
+1019	itálica
+1020	subrayado
+1022	Datos &Tabla:
+1024	&Toma papel
+1025	&Archivo
+1026	&Impresora
+1030	Barrido
+1041	Longitud:
+1042	/
+1043	Unidades
+1055	Tamaño cualquiera
+1056	Milimetros
+1057	Pulgadas
+1058	Puntos
+1060	Lista Archivos de &tipo:
+1062	&Unidades:
+1071	&Configurar
+1074	Static
+1076	Orientación:
+1079	Vertical
+1080	Tamaño etiqueta
+1081	Etiqueta fuente
+1083	Curvas sobre Graf
+1084	
+1086	Grande
+1087	Mediano
+1088	Pequeña
+1090	Porcentaje
+1091	Valor
+1101	Color
+1102	Monocromo
+1103	Monocromo + Símbolos
+1106	Gráfico
+1107	Tabla
+1108	Ambos
+1111	Trazados
+1112	Todas las curvas
+1400	&EMF
+1401	&WMF
+1402	&BMP
+1403	&JPG
+1404	&PNG
+1405	&SVG
+1406	&Texto / Datos
+1508	Todo
+1509	Selección
+1510	Datos
+1511	Datos y etiquetas
+1516	Tabla
+1517	Lista
+1518	Ayuda
+1519	Curvas/Puntos
+1520	Puntos/Curvas
+1521	Precisión actual
+1522	Precisión máxima
+1525	Filas/Columnas
+1526	Tipo 1
+1527	Tipo 2
+1528	Sectores a aislar
+1529	Sectores sobre gráfico
+1530	Opciones de impresión de las curvas escrutadas
+1531	Imprimir el gráfico corriente.
+1536	gráficos.
+1538	Titulo de impresión
+1539	1
+1540	XY
+1541	Y
+1542	X
+1543	No
+1549	Combinaciones como &normal
+1552	Secuenciales
+1553	Seleccionados
+1556	Tamaño del objeto
+1557	Cuadrícula en primer plano
+1558	Tab
+1559	Virgulo
+1560	0
+1561	1
+1562	2
+1563	3
+1564	4
+1565	5
+1566	6
+1567	7
+1568	Sombra
+1569	Línea
+1570	Sin borde
+1571	3D Hueco
+1572	Fuente:
+1573	Papel:
+1574	No Agrupados
+1575	1% e inferior
+1576	2% e inferior
+1577	3% e inferior
+1578	4% e inferior
+1579	5% e inferior
+1607	Ejes
+1608	Curvas dentro Tabla
+1609	Ver Anotaciones
+1610	Fijo Tipo
+1611	Automática
+1612	Vertical
+1613	Horizontal
+1614	Inclinado
+1615	Marcar Puntos
+1617	Durante la Rotación
+1618	Siempre
+1619	Jamás
+1621	Armazón
+1622	Gráfico Solo
+1623	Todo
+1624	Animación (Rotación)
+1625	Blanco
+1626	Color
+1627	Ninguno
+1628	Líneas arriba
+1629	Líneas abajo
+1630	Colores arriba
+1631	Colores abajo
+1634	Comparación de Metodo de Trazado
+1635	2D Contorno
+1636	Metodo de Trazado
+1637	Estilo de Sombreado
+1641	Tipo de Punto:
+1642	Tipo de Línea:
+1645	Automática
+1646	Automática
+1647	Líneal
+1648	Log
+1649	Líneal
+1650	Log
+1653	Min
+1654	Max
+1655	Min/Max
+1656	Min
+1657	Max
+1658	Min/Max
+1659	Líneal
+1660	Log
+1661	Automática
+1662	Min
+1663	Max
+1666	Min/Max
+1667	Líneal
+1668	Log
+1669	Automática
+1670	Min
+1671	Max
+1674	Min/Max
+1675	Ejes X
+1676	Ejes X Arriba
+1677	Ejes Y a la Derecha
+1678	Min
+1680	Max
+1681	Min
+1682	Max
+1683	Min
+1684	Max
+1685	No
+1686	Sombreado
+1687	3D
+1688	Panorama de Presentación
+1689	Tamaño de las letras
+1690	Precisión Numérica
+1691	Líneas cuadricula
+1692	Estilo de Presentación
+1693	3D
+1694	Tipo etiquetas &Datos
+1695	Porcentajes &Grupos
+1696	Ver la Caja Envolvente
+1697	Parámetros de Rotación
+1698	Aumento de Rotación
+1701	Bitmap / Gradient Styles
+1711	Oscuro:
+1712	Mediano:
+1713	Luz:
+1714	Impresión estilo
+1715	Color
+1716	Titulo:
+1717	Mono más símbolo
+1718	Impresión en curso:
+1719	Página:
+1720	Exportar
+1721	Destino
+1723	&Curvas y Puntos
+1724	Curvas a exportar:
+1725	Puntos a exportar:
+1726	Exportar que?
+1727	Datos a exportar
+1728	&Estilo de exportación
+1729	Separador
+1730	Precisión &numérica
+1731	&Nombre archivo:
+1732	&Directorios:
+1733	&Impresora:
+1734	Ejes Y
+1735	Min
+1736	Max
+1738	Estilo de trazado
+1739	Estilo de trazado &Combinación
+1740	Curvas escrutadas
+1741	Puntos sobre Gráfico
+1742	Orientación etiquetas punto
+1743	&Curva / Punto / Eje:
+1744	Ejemplo:
+1745	Atributos gráficos
+1746	Parámetros sectores
+1747	DPI
+1750	DPI
+30000	PE15131950
+40000	5_Z\\\\5_C\\\\GfaEWpUbp;2n@njD8O9NC@?;FfT?M1f:
+61219	CIERTO
+61220	0 16777215 0  0 16777215 0 16777215
+61222	16777215 16777215 16777215 16777215 16777215 16777215
+61735	Error al abrir el archivo. Verificar la unidad de disco y que el diskette esté formateado.
+61736	Error durante la escritura del archivo.
+61737	Error sobrevenido al inicializar el driver de impresión.
+61738	Este equipo de salida no acepta el driver, la impresión se anulará.
+61739	Error sobrevenido al inicio de la impresión.
+61740	Objeto demasiado grande. La toma de papel acepta 64000 octetos máximo. Los datos serán truncados.
+61741	La longitud y la altura de los Bitmap debe ser superior a 32 pixels e inferior a 2000.
+61742	La longitud y la altura de las imágenes debe ser entre 1 y 10000 unidades
+61743	La longitud y la altura de las imágenes debe ser entre 1 y 17 pulgadas.
+61744	La longitud y altura de las imágenes debe estar entre 25 y 432 milímetros.
+61745	La longitud y la altura de las imágenes debe estar entre 72 y 1224 puntos.
+61746	El ratio longitud / altura es superior a 10:1. Esto provocará una imagen difícil de leer. Modificar las dimensiones.
+61747	El ratio longitud / altura es inferior a  1:3. Esto provocará una imagen difícil de leer. Modificar las dimensiones.
+61748	Introduzca un nombre de archivo.
+61749	MetaFiles (*.wmf;*.mfp)|Todos los archivos (*.*)||
+61750	Bitmaps (*.bmp;*.dib)|Todos los archivos (*.*)||
+61751	Archivos de datos (*.dat;*.txt)|Todos los archivos (*.*)||
+61752	Selección Monocromo / Color
+61753	Selección Color
+61754	Color de fondo . . . . . . . . . . . . . . . . .
+61755	Color primer plano . . . . . . . . . . . . . .
+61756	Línea                                                                      0
+61757	Barra                                                                      1
+61758	Puntos                                                                     2
+61759	Area                                                                       3
+61760	Areas, apiladas                                                            4
+61762	Barras, apiladas                                                           6
+61764	Puntos+línea extrapolado                                                    8
+61765	Puntos+línea extrapolado II                                                 9
+61766	Histograma                                                                10
+61767	Alto/Bajo                                                                   11
+61768	Alto/Bajo/Cierre                                                         11
+61769	Apertura/Alto/Bajo/Cierre                                               a11
+61770	Caja Envolvente                                                                 b11
+61771	Círculo                                                                     12
+61772	Puntos+Curvas extrapoladas                                                  13
+61773	Puntos+Curvas extrapoladas II                                                14
+61774	Puntos+Línea ondular                                                              15
+61775	Línea ondular                                                                     16
+61776	Pegar                                                                      1
+61777	Puntos+Línea                                                                17
+61778	Barra Horizontal                                                              18
+61779	Seleccionar dos puntos como mínimo.
+61780	Disco fijo
+61781	Unidad de red
+61782	CD ROM
+61783	Disco memoria
+61784	Diskette 5 1/4 360K
+61785	Diskette 5 1/4 1.2M
+61786	Diskette 3 1/2 720K
+61787	8 Baja densidad
+61788	8 Alta densidad
+61789	Cinta
+61790	Diskette 3 1/2 1.44M
+61791	Disco óptico
+61792	Diskette 3 1/2 2.88M
+61793	La unidad no responde. Verificar que existe un disco formateado.
+61794	Archivo ya existente. Quiere destruirlo ?
+61795	Acceso denegado.
+61796	Archivo no encontrado.
+61797	Nombre de archivo inválido.
+61798	Soporte dañado.
+61799	Error de acceso a la unidad de lectura.
+61800	Error al cargar el driver de impresora.
+61989	Color
+61990	Monocromo
+61991	Monocromo + Símbolo
+61992	Grande
+61993	Mediano
+61994	Pequeño
+61999	Ejes X e Y
+62000	Ejes Y
+62001	Ejes X
+62002	Sin rejilla
+62003	Gráfico
+62004	Tabla
+62005	Gráfico y tabla
+62006	Automática
+62007	Vertical
+62008	Horizontal
+62009	Curvas trazadas
+62010	Todas las curvas
+62011	&Estilo de presentación
+62012	Tamaño de las &letras
+62013	Precisión &Numérica
+62014	Línea
+62015	Barra
+62016	Barra Horizontal
+62017	Punto
+62018	Zona
+62019	Barras apiladas
+62020	Barras apiladas en porcentaje
+62021	Zonas apiladas
+62022	Zonas apiladas en porcentaje
+62023	Puntos + línea extrapolado
+62024	Puntos + línea extrapolado II
+62025	Puntos + curva extrapolados
+62026	Puntos + curva extrapolados II
+62027	Puntos + Línea
+62028	Puntos + Línea ondular
+62029	Línea ondular
+62030	Histograma
+62031	Alto / Bajo
+62032	Alto / Bajo / Cierre
+62033	Apertura / Alto / Bajo / Cierre
+62034	pegar candil
+62035	No definido
+62036	Método de &trazado
+62037	Sombreado de &datos
+62038	&Líneas de la rejilla
+62039	Rejilla en primer plano
+62040	&Gráfico y / o tabla
+62041	&Que dentro la tabla
+62042	&Orientación de las etiquetas
+62043	Curvas Combinación como &Normal
+62044	Marcar Puntos
+62045	Ver &Anotaciones
+62046	Anular &Zoom
+62047	&Maximizar
+62048	&Personalización
+62049	Exportar
+62050	&Ayuda
+62051	Valor eje Y
+62052	Número Punto, Valor eje Y
+62053	Pegar
+62054	Circulo
+62055	&Incluir etiquetas datos
+62056	Valor eje X, Valor eje Y
+62057	EneFebMarAbrMayJunJulAgoSepOctNovDic
+62058	DomLunMarMieJueVieSab
+62059	DLMMJVS
+62060	Grados y Radianes
+62061	Grados
+62062	Radianes
+62063	Anillos R y X
+62064	Anillos R
+62065	Anillos X
+62066	Etiquetas radios
+62067	Etiquetas anillo R
+62068	Grados, Radianes
+62069	Valores R, Valores X
+62070	Porcentaje
+62071	Valor
+62072	Desagrupados
+62073	1% e inferior
+62074	2% e inferior
+62075	3% e inferior
+62076	4% e inferior
+62077	5% e  inferior
+62078	&Etiquetas datos como
+62079	Porcentajes &grupo
+62080	Valores sectores
+62081	Porcentajes sectores
+62082	* Otros
+62083	* Cero
+62084	Otro*
+62085	Ninguno %
+62086	Porcentaje
+62087	* Suma por pt
+62088	* Min de pts
+62089	* Min por pt
+62090	* Max de pts
+62091	* Max por pt
+62092	* Prom de pts
+62093	* Prom por pt
+62094	* u+1s de pts
+62095	* u+1s por pt
+62096	* u+2s de pts
+62097	* u+2s por pt
+62098	* u+3s de pts
+62099	* u+3s por pt
+62100	* u-1s de pts
+62101	* u-1s por pt
+62102	* u-2s de pts
+62103	* u-2s por pt
+62104	* u-3s de pts
+62105	* u-3s por pt
+62106	tanto por ciento de 100
+62107	Ocurrencias
+62108	Exportando
+62109	Imprimir...
+62110	Exportar...
+62111	Exportar
+62112	Pixel
+62113	Página completa
+62114	Cociente Solamente
+62115	Unidades
+62116	Milímetros
+62117	Pulgadas
+62118	Puntos
+62119	Abra El Archivo
+62120	Guardar como
+62121	Amovible
+62122	Impresión
+62123	sobre
+62124	Desconocido
+62125	vertical
+62126	Apaisado
+62127	Etiquetas radios
+62128	R Ring Labels
+62129	Insuficientes sectores, paso a los parámetros por defecto.
+62130	Original
+62131	Maximizar
+62132	Personalización
+62133	Exportar
+62134	Barra Horz apiladas
+62135	Barra Horz apiladas en porcentaje
+62136	Barra Horz apiladas                                                         19
+62138	Paso
+62139	Paso                                                                       21
+62140	JPEGS (*.jpg)|Todos los ficheros (*.*)||
+62141	Cinta                                                                      22
+62142	Líneas de Contorno                                                         23
+62143	Colores de Contorno                                                        24
+62144	Cinta
+62145	Líneas de Contorno
+62146	Colores de Contorno
+62147	GigaSoft ProEssentials v6, Copyright (c) 1994-2006 Gigasoft, Inc., All Rights Reserved.
+62148	Armazón
+62149	Area
+62150	Area con Sombreado
+62151	Area con Contorno
+62152	Pixels
+62153	Armazón                                                                    25
+62154	Area                                                                       26
+62155	Area con Sombreado                                                         27
+62156	Area con Contorno                                                          29
+62157	Pixel                                                                      28
+62158	Color de Armazón
+62159	Color liso
+62160	Pixel Color
+62161	sin Decimal
+62162	1 Decimal
+62163	2 Decimales
+62164	3 Decimales
+62165	4 Decimales
+62166	5 Decimales
+62167	6 Decimales
+62168	7 Decimales
+62169	&Durante la rotación
+62170	&Siempre
+62171	&Jamás
+62172	&Ver la caja envolvente
+62173	Animación (&Rotación)
+62174	15 grados
+62175	10 grados
+62176	5 grados
+62177	2 grados
+62178	1 grados
+62179	-1 grados
+62180	-2 grados
+62181	-5 grados
+62182	-10 grados
+62183	-15 grados
+62184	&Aumento de Rotación
+62185	&Armazón
+62186	&Gráfico Solo
+62187	&Todo
+62188	&Parámetros de Rotación
+62189	Blanco
+62190	Color
+62191	Estilo de &Sombreado
+62192	Ninguno
+62193	Líneas de contorno arriba
+62194	Líneas de contorno abajo
+62195	Colores de contorno arriba
+62196	Colores de contorno abajo
+62197	Contorno &2D
+62198	No
+62199	Sombreado
+62200	3D
+62201	X, Z Ejes
+62202	Y Eje
+62203	p n u m K M B T
+62204	Leyenda de la piel
+62205	Cumbre
+62206	Fondo
+62207	Izquierdo
+62208	Derecho
+62209	&Estilo de la leyenda
+62210	&Sin borde
+62211	&Línea
+62212	&Sombra
+62213	&3D Hueco
+62214	&Estilo del borde
+62215	Ejes &agrupar
+62216	Ejes &separar
+62217	Estilo &múltiple del eje
+62218	&Fijo Tipo
+62219	&Mostrar leyenda
+62220	Muestre las &anotaciones del vector
+62221	Eje &interior
+62222	Eje &exterior
+62223	Líneas de rejilla finas
+62224	Líneas de rejilla gruesas
+62225	Líneas de rejilla punteadas
+62226	Líneas de rejilla rayadas
+62227	Líneas de una rejilla del pixel
+62228	Hueco ligero
+62229	Sombra ligera
+62230	Línea ligera
+62231	Sin bordes
+62232	Hueco medio
+62233	Sombra media
+62234	Línea media
+62235	Median ningún borde
+62236	Hueco oscuro
+62237	Sombra oscura
+62238	Línea oscura
+62239	Obscuridad ningún borde
+62240	&Estilo rápido
+62241	Extienda las marcas de la señal del eje de y
+62242	PNG (*.png)|Todos los archivos (*.*)||
+62243	Fondos especiales
+62244	Extienda las marcas de la señal del eje de x
+62245	Extienda las marcas de la señal del grado
+62246	Extienda las marcas de la señal del radio
+62247	Hueco
+62248	Sombra
+62249	Nada Borde
+62250	Línea
+62251	Oscuro
+62252	Median
+62253	Luz
+62254	Inclinado
+62255	Max

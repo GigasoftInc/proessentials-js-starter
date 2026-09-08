@@ -1,0 +1,568 @@
+1	Exporter
+9	&Aide
+201	Premier plan bureau
+202	Arrière plan bureau
+203	Couleur ombrage
+204	Premier plan graphe
+205	Arrière plan graphe
+206	Premier plan table
+207	Arrière plan table
+419	Pli
+420	Ombre
+421	Ligne
+422	Non
+423	Pli
+424	Ombre
+425	Ligne
+426	Non
+427	Pli
+428	Ombre
+429	Ligne
+430	Non
+1010	gras
+1011	italique
+1012	souligné
+1014	Fonte Grande
+1015	italique
+1016	souligné
+1018	gras
+1019	italique
+1020	souligné
+1022	Données &Table:
+1024	&Presse papier
+1025	&Fichier
+1026	&Imprimante
+1030	Pa&rcourir
+1041	Largeur:
+1042	/
+1043	Unités
+1055	Taille quelconque
+1056	Millimètres
+1057	Pouces
+1058	Points
+1060	Liste Fichiers du &Type:
+1062	&Lecteurs:
+1071	&Configurer
+1074	Static
+1076	Orientation:
+1079	Portrait
+1080	Libellé taille
+1081	Libellé source
+1083	Courbes sur &Graph
+1084	
+1086	Grande
+1087	Moy
+1088	Petite
+1090	Pourcentage
+1091	Valeur
+1101	Couleur
+1102	Monochrome
+1103	Monochrome + Symboles
+1106	Graphe
+1107	Table
+1108	Les deux
+1111	Tracées
+1112	Toutes courbes
+1400	EMF
+1401	&WMF
+1402	&BMP
+1403	&JPG
+1404	&PNG
+1405	SVG
+1406	&Texte / Données
+1508	Tout
+1509	Sélection
+1510	Données
+1511	Données et libellés
+1516	Table
+1517	Liste
+1518	Aide
+1519	Courbes/Points
+1520	Points/Courbes
+1521	Précision actuelle
+1522	Précision maximum
+1525	Lignes/Colonnes
+1526	Type 1
+1527	Type 2
+1528	Secteurs à isoler
+1529	Secteurs sur graphe
+1530	Options d'impression des courbes scrollées
+1531	Imprimer le graphe courant.
+1536	graphes.
+1538	Titre d'impression
+1539	1
+1540	XY
+1541	Y
+1542	X
+1543	Non
+1549	Combinaisons comme &Normal
+1552	Séquentiels
+1553	Selectionnés
+1556	Taille de l'objet
+1557	Grille au premier plan
+1558	Tab
+1559	Virgule
+1560	0
+1561	1
+1562	2
+1563	3
+1564	4
+1565	5
+1566	6
+1567	7
+1568	Ombre
+1569	Ligne
+1570	Aucun Cadre
+1571	Pli d'aisance
+1572	Source:
+1573	Papier:
+1574	Non Groupés
+1575	1% et dessous
+1576	2% et dessous
+1577	3% et dessous
+1578	4% et dessous
+1579	5% et dessous
+1607	&Axes
+1608	&Courbes dans Table
+1609	Voir &Annotations
+1610	&Fonte Fixe
+1611	Auto
+1612	Vertical
+1613	Horizontal
+1614	Incliné
+1615	&Marquer Points
+1617	En Rotation
+1618	Toujours
+1619	Jamais
+1621	Structure filaire
+1622	Méthode d'impression
+1623	Plein
+1624	Animation rotation
+1625	Blanc
+1626	Couleur
+1627	Désactivé
+1628	Lignes au dessus
+1629	Lignes en dessous
+1630	Couleurs au dessus
+1631	Couleurs en dessous
+1634	Comparaison de méthode d'impression
+1635	Tracé 2D
+1636	Méthode d'impression
+1637	degrés
+1641	Type de point:
+1642	Type de ligne:
+1645	Auto
+1646	Auto
+1647	Linéaire
+1648	Log
+1649	Linéaire
+1650	Log
+1653	Min
+1654	Max
+1655	Min/Max
+1656	Min
+1657	Max
+1658	Min/Max
+1659	Linéaire
+1660	Log
+1661	Auto
+1662	Min
+1663	Max
+1666	Min/Max
+1667	Linéaire
+1668	Log
+1669	Auto
+1670	Min
+1671	Max
+1674	Min/Max
+1675	Axe X
+1676	Axe X Haut
+1677	Axe Y droit
+1678	Min
+1680	Max
+1681	Min
+1682	Max
+1683	Min
+1684	Max
+1685	Non
+1686	Ombrage
+1687	3D
+1688	Modèle De &Visionnement
+1689	Taille &Police
+1690	Précision &Numérique
+1691	Lignes &Grille
+1692	St&yle d'affichage
+1693	3D
+1694	Type Libellés &Données
+1695	Pourcentages &Groupés
+1696	Afficher l'encombrement
+1697	Détail en rotation
+1698	Incrément de rotation
+1701	Bitmap / Inclinaison Styles
+1711	Foncé:
+1712	Moyen:
+1713	Lumière:
+1714	Impression Style
+1715	Couleur
+1716	&Titre
+1717	Mono plus Symbole
+1718	Impression en cours:
+1719	Page:
+1720	Exporter
+1721	Destination
+1723	&Courbes et Points
+1724	Courbes à exporter:
+1725	Points à exporter:
+1726	Exporter quoi?
+1727	Données à exporter
+1728	&Style d'export
+1729	Séparateur
+1730	Précision &Numérique
+1731	&Nom du fichier:
+1732	&Répertoires:
+1733	&Imprimante:
+1734	Axe Y
+1735	Min
+1736	Max
+1738	&Style de tracé
+1739	Style de tracé &Combinaison
+1740	Courbes scrollées
+1741	&Points sur Graphe
+1742	Orientation libellés point
+1743	&Courbe / Point / Axe:
+1744	Exemple:
+1745	Attributs Graphe
+1746	Paramétres secteurs
+1747	DPI
+1750	DPI
+30000	PE15131950
+40000	5_Z\\\\5_C\\\\GfaEWpUbp;2n@njD8O9NC@?;FfT?M1f:
+61219	TRUE
+61220	0 16777215 0  0 16777215 0 16777215
+61222	16777215 16777215 16777215 16777215 16777215 16777215
+61735	Erreur à l'ouverture du fichier.  Verifier que le lecteur est fermé et que la disquette est formattée.
+61736	Erreur à l'écriture du fichier.
+61737	Une erreur est survenue à l'initialisation du driver d'imprimante.
+61738	L'équipement de sortie n'accepte pas le raster, l'impression va être annulée.
+61739	Une erreur est survenue à l'initialisation de l'impression.
+61740	Objet trop grand.  Le presse papier n'accepte que 64000 octects. Les données vont être tronconnées.
+61741	La largeur et la hauteur des Bitmap doit être d'au moins 32 pixels et d'au plus 2000.
+61742	La largeur et la hauteur des images doit être entre 1 and 10000 unités.
+61743	La largeur et la hauteur des images doit être entre 1 and 17 pouces.
+61744	La largeur et la hauteur des images doit être entre 25 et 432 millimétres.
+61745	La largeur et la hauteur des images doit être entre  72 et 1224 points.
+61746	Le rapport largeur sur hauteur est supérieur à 10:1. Cela produira une image difficile à lire.  Veuillez modifier les dimensions.
+61747	Le rapport largeur sur hauteur est inférieur à  1:3.  Cela produira une image difficile à lire.  Veuillez modifier les dimensions.
+61748	Veuillez fournir un nom de fichier.
+61749	MetaFiles (*.wmf;*.mfp)|Tous fichiers (*.*)||
+61750	Bitmaps (*.bmp;*.dib)|Tous fichiers (*.*)||
+61751	Fichiers données (*.dat;*.txt)|Tous fichiers (*.*)||
+61752	Sélection Monochrome Couleur
+61753	Sélection Couleur
+61754	Couleur du fond . . . . . . . . . . . . . . . . .
+61755	Couleur premier plan . . . . . . . . . . . . . .
+61756	Ligne                                                                   0
+61757	Barre                                                                   1
+61758	Points                                                                  2
+61759	Aire                                                                    3
+61760	Aires, Empilées                                                         4
+61762	Barres, Empilées                                                        6
+61764	Points+ligne extrapolée                                                 8
+61765	Points+ligne extrapolée II                                              9
+61766	Histogramme                                                             10
+61767	Haut/Bas                                                                11
+61768	Haut/Bas/Fermeture                                                      11
+61769	Ouverture/Haut/Bas/Fermeture                                            a11
+61770	Box Plot                                                                b11
+61771	Bubble                                                                  12
+61772	Points+Courbes extrapolée                                               13
+61773	Points+Courbe extrapolée II                                             14
+61774	Points+Spline                                                           15
+61775	Spline                                                                  16
+61776	Bâton                                                                   1
+61777	Points+Ligne                                                             17
+61778	Barre Horizontale                                                           18
+61779	Deux points au moins doivent être sélectionnés.
+61780	Disque fixe
+61781	Lecteur réseau
+61782	CD ROM
+61783	Disque mémoire
+61784	Disquette 5 1/4 360K
+61785	Disquette 5 1/4 1.2M
+61786	Disquette 3 1/2 720K
+61787	8 Simple Densité
+61788	8 Double Densité
+61789	Bande
+61790	Disquette 3 1/2 1.44M
+61791	Disque Optique
+61792	Disquette 3 1/2 2.88M
+61793	Le lecteur ne répond pas. Veuillez vérifier qu'une disquette formattée est présente.
+61794	Ce fichier existe déjà.  Voulez vous l'écraser?
+61795	Vous n'avez pas les droits d'accès.
+61796	Fichier non trouvé.
+61797	Nom de fichier invalide.
+61798	Le support est endommagé.
+61799	Erreur d'accès au lecteur.
+61800	Erreur au chargement du driver d'imprimante
+61989	Couleur
+61990	Monochrome
+61991	Monochrome + Symbole
+61992	Grand
+61993	Moyen
+61994	Petit
+61999	Axes X et Y
+62000	Axes Y
+62001	Axes X
+62002	Pas de  Grille
+62003	Graphe
+62004	Table
+62005	Graphe et Table
+62006	Auto
+62007	Vertical
+62008	Horizontal
+62009	Courbes tracées
+62010	Toutes courbes
+62011	&Modèle De Visionnement
+62012	Taille &Police
+62013	Précision &Numérique
+62014	Ligne
+62015	Barre
+62016	Barre Horizontale
+62017	Point
+62018	Zone
+62019	Barres empilées
+62020	Barres empilées en pourcentage
+62021	Zones empilées
+62022	Zones empilées en pourcentage
+62023	Points + ligne extrapolée
+62024	Points + ligne extrapolée II
+62025	Points + courbe extrapolée
+62026	Points + courbe extrapolée II
+62027	Points + ligne
+62028	Points + spline
+62029	Spline
+62030	Histogramme
+62031	Haut / Bas
+62032	Haut / Bas / Fermeture
+62033	Ouverture / Haut / Bas / Fermeture
+62034	Bâton
+62035	Non défini
+62036	Méthode de &tracé
+62037	Ombrage &Données
+62038	&Lignes de Grille
+62039	G&rille au premier plan
+62040	&Graphe et/ou Table
+62041	&Quoi dans la Table
+62042	&Orientation libellés points
+62043	Courbes Combinaison comme &Normal
+62044	Marq&uer Points
+62045	Voir &Annotations
+62046	Annuler &Zoom
+62047	&Maximiser
+62048	&Personalisation
+62049	E&xporter
+62050	&Aide
+62051	Valeur axe Y
+62052	Numéro Point, Valeur axe Y
+62053	Bâton
+62054	Bulle
+62055	&Inclure libellés données
+62056	Valeur axe X, Valeur axe Y
+62057	JanFevMarAvrMaiJunJulAouSepOctNovDec
+62058	DimLunMarMerJeuVenSam
+62059	DLMMJVS
+62060	Degrés et Radians
+62061	Degrés
+62062	Radians
+62063	Anneaux R et X
+62064	Anneaux R
+62065	Anneaux X
+62066	Libellés rayons
+62067	Libellés anneau R
+62068	Degrés, Radians
+62069	Valeurs R, Valeurs X
+62070	Pourcentage
+62071	Valeur
+62072	Non Groupés
+62073	1% et dessous
+62074	2% et dessous
+62075	3% et dessous
+62076	4% et dessous
+62077	5% et dessous
+62078	&Libellés données comme
+62079	Pourcentages &Groupe
+62080	Valeurs Secteurs
+62081	Pourcentages Secteurs
+62082	* Autre
+62083	* Zero
+62084	Autre*
+62085	Accum %
+62086	Pourcentage
+62087	* Som par pt
+62088	* Min des pts
+62089	* Min par pt
+62090	* Max des pts
+62091	* Max par pt
+62092	* Moy des pts
+62093	* Moy par pt
+62094	* u+1s des pts
+62095	* u+1s par pt
+62096	* u+2s des pts
+62097	* u+2s par pt
+62098	* u+3s des pts
+62099	* u+3s par pt
+62100	* u-1s des pts
+62101	* u-1s par pt
+62102	* u-2s des pts
+62103	* u-2s par pt
+62104	* u-3s des pts
+62105	* u-3s par pt
+62106	Pourcentage
+62107	Occurences
+62108	Exporter
+62109	Imprime...
+62110	Exporte...
+62111	Exporte
+62112	Pixels
+62113	Pleine Page
+62114	Rapport Seulement
+62115	Unités
+62116	Millimétres
+62117	Pouces
+62118	Points
+62119	Ouvrez Le Fichier
+62120	Sauver sous
+62121	Amovible
+62122	Impression
+62123	sur
+62124	Inconnu
+62125	Portrait
+62126	Paysage
+62127	Libellés rayons
+62128	Libellés anneaux R
+62129	Pas assez de secteurs, passage sur les paramétres par défaut.
+62130	Original
+62131	Maximiser
+62132	Personalisation
+62133	Exporter
+62134	Barre Horizontale empilées
+62135	Barre Horz empilées pourcentage
+62136	Barre Horizontale empilées                                                 19
+62138	Pas
+62139	Pas                                                                    21
+62140	JPEGS (*.jpg)|Tous les fichiers (*.*)||
+62141	Rubban                                                                  22
+62142	Bordures                                                           23
+62143	Couleur de trait                                                          24
+62144	Rubban
+62145	Bordures
+62146	Couleur de trait
+62147	GigaSoft ProEssentials v6, Copyright (c) 1994-2006 Gigasoft, Inc., All Rights Reserved.
+62148	Structure filaire
+62149	Surface
+62150	Surface ombrée
+62151	Surface et contours
+62152	Pixels
+62153	Structure filaire                                                              25
+62154	Surface                                                                 26
+62155	Surface ombrée                                                    27
+62156	Surface et contours                                                 29
+62157	Pixels                                                                  28
+62158	Couleur de structure filaire
+62159	Couleur pleine
+62160	Couleur de pixel
+62161	Pas de Décimale
+62162	1 Décimale
+62163	2 Décimales
+62164	3 Décimales
+62165	4 Décimales
+62166	5 Décimales
+62167	6 Décimales
+62168	7 Décimales
+62169	&En rotation
+62170	&Toujours
+62171	&Jamais
+62172	&Afficher l'encombrement
+62173	&Animation rotation
+62174	15 degrés
+62175	10 degrés
+62176	5 degrés
+62177	2 degrés
+62178	1 degrés
+62179	-1 degrés
+62180	-2 degrés
+62181	-5 degrés
+62182	-10 degrés
+62183	-15 degrés
+62184	&Incrément de rotation
+62185	&Structure filaire
+62186	S&tyle d'impression
+62187	&Détaillés
+62188	D&étail en rotation
+62189	Blanc
+62190	Couleur
+62191	&Style d'ombre
+62192	Désactivé
+62193	Trait au dessus
+62194	Trait en dessous
+62195	Couleur de trait au dessus
+62196	Couleur de trait en dessous
+62197	&Tracé 2D
+62198	Non
+62199	Ombrage
+62200	3D
+62201	X, Z axe
+62202	Y axe
+62203	p n u m K M B T
+62204	&Légende De Peau
+62205	Dessus
+62206	Bas
+62207	Parti
+62208	Droit
+62209	&Modèle De Légende
+62210	&Non Bordure
+62211	&Ligne Mince
+62212	&Ombre
+62213	&Pli
+62214	&Modèle De Cadre
+62215	Haches &Groupées Ensemble
+62216	Haches &Séparées
+62217	&Modèle Multiple D'Axe
+62218	&Fonte Fixe
+62219	&Montrez La Légende
+62220	Montrez Les &Annotations De Tableau
+62221	&Axe Intérieur
+62222	&Axe Extérieur
+62223	Lignes De Grille Minces
+62224	Lignes De Grille Épaisses
+62225	Lignes De Grille Pointillées
+62226	Lignes De Grille À tiret
+62227	Lignes D'Une Grille De Pixel
+62228	Pli d'aisance Lumière
+62229	Ombre Lumière
+62230	Ligne Lumière
+62231	Aucun Cadre Lumière
+62232	Pli d'aisance Moyen
+62233	Ombre Moyenne
+62234	Ligne Moyenne
+62235	Moyen Aucun Cadre
+62236	Pli d'aisance Foncé
+62237	Ombre Foncée
+62238	Ligne Foncée
+62239	Obscurité Aucun Cadre
+62240	&Modèle Rapide
+62241	Étendez Les Marques De Coutil D'Axe De Y
+62242	PNG (*.png)|Tous les Fichiers (*.*)||
+62243	Bitmap / Modèles De Gradient
+62244	Étendez Les Marques De Coutil D'Axe De X
+62245	Étendez Les Marques De Coutil De Degré
+62246	Étendez Les Marques De Coutil De Rayon
+62247	Pli d'aisance
+62248	Ombre
+62249	Non Bordure
+62250	Ligne
+62251	Foncé
+62252	Moyen
+62253	Lumière
+62254	Incliné
+62255	Max

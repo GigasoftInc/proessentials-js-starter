@@ -1,0 +1,588 @@
+1	Exportieren
+9	&Hilfe
+201	Fenster Vordergrund
+202	Fenster Hintergrund
+203	Schattenfarbe
+204	Grafik Vordergrund
+205	Grafik Hintergrund
+206	Tabelle Vordergrund
+207	Tabelle Hintergrund
+403	
+404	
+405	
+406	
+407	
+408	
+409	
+410	
+411	
+412	
+413	
+414	
+415	
+416	
+417	
+418	
+419	Abgesenkt
+420	Schatten
+421	Linie
+422	Kein
+423	Abgesenkt
+424	Schatten
+425	Linie
+426	Kein
+427	Abgesenkt
+428	Schatten
+429	Linie
+430	Kein
+1010	fett
+1011	kursiv
+1012	unterstrichen
+1014	Groß Schriftgr&öße
+1015	kursiv
+1016	unterstrichen
+1018	fett
+1019	kursiv
+1020	unterstrichen
+1022	&Tabelle:
+1024	&Zwischenablage
+1025	&Datei
+1026	D&rucker
+1030	D&urchsuchen
+1041	Breite:
+1042	/
+1043	Einheiten
+1055	Keine best. Größe
+1056	Millimeter
+1057	Zoll
+1058	Punkte
+1060	Datei&typ:
+1062	&Laufwerke:
+1071	&Einstellungen...
+1074	&Statisch
+1076	Ausrichtung:
+1079	Hochformat
+1080	Größe Label
+1081	Quelle Label
+1083	&Anzuzeigende Subsets
+1084	
+1086	&Groß
+1087	&Mittel
+1088	&Klein
+1090	Prozentual
+1091	Wert
+1101	Farbe
+1102	Monochrom
+1103	Monochrom + Symbole
+1106	&Grafik
+1107	&Tabelle
+1108	Beide
+1111	&Gezeichnete
+1112	&Alle Subsets
+1400	&EMF
+1401	&WMF
+1402	&BMP
+1403	&JPG
+1404	&PNG
+1405	&SVG
+1406	&Text / Nur Daten
+1508	Alle &Daten
+1509	A&usgewählte Daten
+1510	&Daten
+1511	Daten und &Beschriftung
+1516	Tabelle
+1517	Liste
+1518	Help
+1519	Subsets/Punkte
+1520	Punkte/Subsets
+1521	Aktuelle Nachkommastellen
+1522	Maximale Nachkommastellen
+1525	Zeilen/Spalten
+1526	Typ &1
+1527	Typ &2
+1528	explodierte Kreissegmente
+1529	darzustellende Kreissegmente
+1530	Druckoptionen für rollbare Subsets
+1531	Drucke aktuelle Grafik.
+1532	Print from current graph and revolve 
+1536	Grafiken.
+1538	Drucktitel
+1539	1
+1540	&Beide
+1541	Y
+1542	X
+1543	&Keine
+1549	Vergleiche als &Normal
+1552	Sequentiell
+1553	Ausgewählt
+1556	Objektgröße
+1557	Gitterlinien im &Vordergrund
+1558	Tabulator
+1559	Komma
+1560	0
+1561	1
+1562	2
+1563	3
+1564	4
+1565	5
+1566	6
+1567	7
+1568	Schatten
+1569	Linie
+1570	Kein Rahmen
+1571	3D abgesenkt
+1572	Papierzufuhr:
+1573	Papier:
+1574	Keine Gruppierung
+1575	1% und kleiner
+1576	2% und kleiner 
+1577	3% und kleiner
+1578	4% und kleiner
+1579	5% und kleiner
+1607	&Achsen
+1608	&Subsets in Tabelle
+1609	&Zeige Anmerkungen
+1610	Feste Schriftgr&öße
+1611	Auto
+1612	Vertikal
+1613	Horizontal
+1614	Schräg
+1615	&Markiere Datenpunkte
+1617	Während Rotation
+1618	Immer
+1619	Nie
+1621	Drahtgitter
+1622	Darstellungsmethode
+1623	Komplett
+1624	Rotation animieren
+1625	Weiß
+1626	Farben
+1627	Aus
+1628	Linien oben
+1629	Linien unten
+1630	Farben oben
+1631	Farben unten
+1634	Vergleichende Darstellungsmethode
+1635	2D Kontur
+1636	Darstellungsmethode
+1637	Schattierung
+1641	Punkttyp:
+1642	Linientyp:
+1645	Auto 
+1646	Auto 
+1647	Linear
+1648	Log
+1649	Linear
+1650	Log
+1653	Min
+1654	Max
+1655	Min/Max
+1656	Min
+1657	Max
+1658	Min/Max
+1659	Linear
+1660	Log
+1661	Auto 
+1662	Min
+1663	Max
+1666	Min/Max
+1667	Linear
+1668	Log
+1669	Auto 
+1670	Min
+1671	Max
+1674	Min/Max
+1675	X-Achse
+1676	Obere X-Achse
+1677	Rechte Y-Achse
+1678	Min
+1680	Max
+1681	Min
+1682	Max
+1683	Min
+1684	Max
+1685	Aus
+1686	Schatten
+1687	3D
+1688	&Darstellung
+1689	&Schriftgröße
+1690	&Nachkommastellen
+1691	&Gitterlinien
+1692	Rahmen&art
+1693	3D
+1694	&Datenbeschriftung Typ
+1695	&Prozentuale Gruppierung
+1696	Zeige Rahmen
+1697	Rotationsdetails
+1698	Rotationsschrittweite
+1701	Bitmap / Farbverlauf
+1711	Dunkel:
+1712	Mittel:
+1713	Hell:
+1714	Art des Ausdrucks
+1715	Farbe
+1716	&Überschrift:
+1717	Einfarbig plus Symbol
+1718	Drucke:
+1719	Seite:
+1720	Export
+1721	Export Ziel
+1723	&Ausgewählte Subsets und Punkte
+1724	&Zu exportierende Subsets:
+1725	Zu exportierende &Punkte:
+1726	&Was soll exportiert werden
+1727	&Zu exportierende Daten
+1728	Exportieren al&s
+1729	Trennzeichen
+1730	&Nachkommastellen
+1731	Datei&name:
+1732	&Verzeichnisse:
+1733	&Drucker:
+1734	Y-Achse
+1735	Min
+1736	Max
+1738	&Zeichenstil
+1739	&Vergleichs-Zeichenstil
+1740	Rollbare Subsets
+1741	Anzuzeigende &Punkte
+1742	Orientierung Punktbeschriftung
+1743	Subset / Punkt / Achsen &Beschriftung:
+1744	Beispiel:
+1745	Grafik Eigenschaften
+1746	Kreissegment Parameter
+1747	DPI
+1750	DPI
+30000	PE15131950
+40000	5_Z\\\\5_C\\\\GfaEWpUbp;2n@njD8O9NC@?;FfT?M1f:
+61219	TRUE
+61220	0 16777215 0  0 16777215 0 16777215 
+61222	16777215 16777215 16777215 16777215 16777215 16777215
+61735	Fehler beim Öffnen der Datei. Stellen Sie sicher, dass die Laufwerksklappe geschlossen und die Zieldiskette formatiert und fehlerfrei ist.
+61736	Fehler beim Schreiben auf Diskette. Diskette evtl. beschädigt.
+61737	Fehler beim Initialsieren des Druckertreibers.
+61738	Das Ausgabegerät unterstützt die Auflösung nicht. Der Druckauftrag wurde abgebrochen.
+61739	Fehler beim Start des Ausdrucks.
+61740	Objekt zu groß. Es können nur 64 KByte in die Zwischenablage kopiert werden. Die Daten werden entsprechend abgeschnitten.
+61741	Bitmapbreite und -höhe müssen zwischen 32 und 2000 Pixel liegen. 
+61742	Bildbreite und -höhe müssen zwischen 1 und 10000 Einheiten liegen..
+61743	Bildbreite und -höhe müssen zwischen 1 und 17 Zoll liegen.
+61744	Bildbreite und -höhe müssen zwischen 25 und 432 Millimeter liegen.
+61745	Bildbreite und -höhe müssen zwischen 72 und 1224 Punkten liegen.
+61746	Das aktuelle Verhältnis Breite zu Höhe ist größer als 10 zu 1. Daraus entsteht ein schlecht zu lesendes Bild. Bitte korrigieren Sie das Seitenverhältnis.
+61747	Das aktuelle Verhältnis Breite zu Höhe ist kleiner als 1 zu 3. Daraus entsteht ein schlecht zu lesendes Bild. Bitte korrigieren Sie das Seitenverhältnis.
+61748	Ein Dateiname ist erforderlich.
+61749	MetaFiles (*.wmf;*.mfp)|Alle Dateien (*.*)||
+61750	Bitmaps (*.bmp;*.dib)|Alle Dateien (*.*)||
+61751	Datendateien (*.dat;*.txt)|Alle Dateien (*.*)||
+61752	Monochrome Farbauswahl
+61753	Farbauswahl
+61754	 Hintergrundfarbe . . . . . . . . . . . . . . . . .
+61755	 Vordergrundfarbe . . . . . . . . . . . . . . . . .
+61756	Linie                                                                      0
+61757	Balken                                                                     1
+61758	Punkte                                                                     2
+61759	Fläche                                                                     3
+61760	Flächen, übereinander                                                    4
+61761	Area, Stacked Percent                                                   5
+61762	Balken, übereinander                                                     6
+61763	Bar, Stacked Percent                                                    7
+61764	Punkte+BestFitLinie                                                      8
+61765	Punkte+BestFitLinie II                                                   9
+61766	Histogramm                                                               10
+61767	Hoch/Tief                                                                           11
+61768	Hoch/Tief/Schluss                                                                   11
+61769	Eröffnung/Hoch/Tief/Schluss                                                           a11
+61770	Box Plot                                                                                     b11
+61771	Blase                                                                         12
+61772	Punkte+BestFitKurve                                                      13
+61773	Punkte+BestFitKurve II                                                   14
+61774	Punkte+Spline                                                            15
+61775	Spline                                                                           16
+61776	Stick                                                                            1
+61777	Punkte+Linie                                                              17
+61778	Horizontal Balken                                                         18
+61779	Es müssen wenigstens zwei Punkte ausgewählt werden. 
+61780	 Festplatte
+61781	 Netzlaufwerk
+61782	 CD ROM
+61783	 RAM Laufwerk
+61784	 5 1/4 Floppy 360K
+61785	 5 1/4 Floppy 1.2M
+61786	 3 1/2 Floppy 720K
+61787	 8 Single Density
+61788	 8 Double Density
+61789	 Bandlaufwerk
+61790	 3 1/2 Floppy 1.44M
+61791	 Optisches Laufwerk
+61792	 3 1/2 Floppy 2.88M
+61793	Laufwerk reagiert nicht. Stellen Sie sicher, dass die Laufwerksklappe geschlossen und die Zieldiskette formatiert und fehlerfrei ist.
+61794	Datei existiert bereits. Wollen Sie diese überschreiben?
+61795	Zugriff verweigert.
+61796	Datei nicht gefunden.
+61797	Ungültiger Dateiname.
+61798	Medium ist beschädigt.
+61799	Laufwerksfehler aufgetreten.
+61800	Fehler beim Laden des Druckertreibers 
+61989	Farbe
+61990	Monochrom
+61991	Monochrom + Symbole
+61992	Groß
+61993	Mittel
+61994	Klein
+61999	Gitterlinien für X- und Y-Achsen
+62000	Y-Achse
+62001	X-Achse
+62002	Kein Gitter
+62003	Grafik
+62004	Tabelle
+62005	Grafik und Tabelle
+62006	Auto
+62007	Vertikal
+62008	Horizontal
+62009	Dargestellte Subsets
+62010	Alle Subsets
+62011	Darstellung
+62012	Schriftgröße
+62013	&Numerische Genauigkeit
+62014	Linie
+62015	Balken
+62016	Horizontale Balken
+62017	Punkte
+62018	Fläche
+62019	Balken übereinander
+62020	Balken übereinander Prozent
+62021	Fläche übereinander
+62022	Fläche übereinander Prozent
+62023	Punkte + Best Fit Linie
+62024	Punkte + Best Fit Linie II
+62025	Punkte + Best Fit Kurve
+62026	Punkte + Best Fit Kurve II
+62027	Punkte + Linie
+62028	Punkte + Spline
+62029	Spline
+62030	Histogramm
+62031	Hoch / Tief
+62032	Hoch / Tief / Schluss
+62033	Eröffnung / Hoch / Tief / Schluss
+62034	Candle Stick
+62035	Undefiniert
+62036	&Zeichenstil
+62037	Schatten für &Daten
+62038	Gitterlinien
+62039	Gitter im Vordergrund
+62040	&Grafik und/oder Tabelle
+62041	&Tabelleninhalt
+62042	Orientierung Punktbeschriftung
+62043	Vergleichssubsets als &Normal
+62044	Markiere Datenpunkte
+62045	Zeige Anmerkungen
+62046	Zoomen rückgängig
+62047	Vollbild
+62048	Dialog &Benutzerdefinitionen
+62049	&Exportdialog
+62050	&Hilfe
+62051	Wert Y-Achse
+62052	Punktnummer, Wert Y-Achse
+62053	Stick
+62054	Blase
+62055	Datenbeschriftung einbeziehen
+62056	Wert X-Achse, Wert Y-Achse
+62057	JanFebMrzAprMaiJunJulAugSepOktNovDez
+62058	So Mo Di Mi Do Fr Sa
+62059	SMDMDFS
+62060	Grad und Radius
+62061	Grad
+62062	Radius
+62063	R- und X-Ringe
+62064	R-Ringe
+62065	X-Ringe
+62066	Radius Linienbeschriftung
+62067	R-Ringbeschriftung
+62068	Grad, Radius
+62069	R-Werte, X-Werte
+62070	Prozentualer Anteil
+62071	Wert
+62072	Keine Gruppierung
+62073	1% und kleiner
+62074	2% und kleiner
+62075	3% und kleiner
+62076	4% und kleiner
+62077	5% und kleiner
+62078	Datenbeschriftung als
+62079	&Prozentuale Gruppierung
+62080	Segmentwerte
+62081	Prozentuales Segment
+62082	* andere
+62083	* Nulldaten
+62084	 Andere *
+62085	 Akkum. %
+62086	Prozentual
+62087	* Summe pro Pkt
+62088	* Min aller Pkte
+62089	* Min pro Pkt
+62090	* Max aller Pkte
+62091	* Max pro Pkt
+62092	* Mittel aller Pkte
+62093	* Mittel pro Pkt
+62094	* u+1s aller Pkte
+62095	* u+1s pro Pkt
+62096	* u+2s aller Pkte
+62097	* u+2s pro Pkt
+62098	* u+3s aller Pkte
+62099	* u+3s pro Pkt
+62100	* u-1s aller Pkte
+62101	* u-1s pro Pkt
+62102	* u-2s aller Pkte
+62103	* u-2s pro Pkt
+62104	* u-3s aller Pkte
+62105	* u-3s pro Pkt
+62106	Prozent von 100
+62107	 Vorkommen
+62108	Exportiere 
+62109	Drucke...
+62110	Exportiere...
+62111	Exportiere
+62112	Pixel
+62113	Ganze Seite
+62114	Keine best. Größe
+62115	Einheiten
+62116	Millimeter
+62117	Zoll
+62118	Punkte
+62119	Datei öffnen
+62120	Speichern unter..
+62121	 wechselbar
+62122	Drucke 
+62123	 an 
+62124	Unbekannt
+62125	Hochformat
+62126	Querformat
+62127	Radiusbeschriftung
+62128	R-Ringbeschriftung
+62129	Nicht genug Segmente, verwende Standardparameter für Segmente.
+62130	Original
+62131	Vollbild
+62132	 Benutzerdefiniert
+62133	Export 
+62134	Horiz Balken Gestapelt
+62135	Horiz Balken gestapelt Prozent
+62136	Horiz Balken gestapelt                                                         19
+62137	Horz Bar Stacked Percent                                              20
+62138	Schritt
+62139	Schritt                                                                     21
+62140	JPEG (*.jpg)|Alle Dateien (*.*)||
+62141	Gummiband                                                                   22
+62142	Konturlinien                                                            23
+62143	Konturfarben                                                           24
+62144	Gummiband
+62145	Konturlinien
+62146	Konturfarben
+62147	GigaSoft ProEssentials v6, Copyright (c) 1994-2006 Gigasoft, Inc., Alle Rechte vorbehalten.
+62148	Drahtgitter
+62149	Oberfläche
+62150	Oberfläche mit Schattierung
+62151	Oberfläche mit Kontur
+62152	Pixel
+62153	Drahtgitter                                                               25
+62154	Oberfläche                                                                  26
+62155	Oberfläche mit Schattierung                                                     27
+62156	Oberfläche mit Kontur                                                  29
+62157	Pixel                                                                   28
+62158	Drahtgitter Farbe
+62159	Farbe Fest
+62160	Pixel Farbe
+62161	Keine Nachkommastellen
+62162	1 Nachkommastelle
+62163	2 Nachkommastellen
+62164	3 Nachkommastellen
+62165	4 Nachkommastellen
+62166	5 Nachkommastellen
+62167	6 Nachkommastellen
+62168	7 Nachkommastellen
+62169	&Während Rotation
+62170	&Immer
+62171	&Nie
+62172	&Zeige Umgrenzungsrahmen
+62173	&Rotationsanimation
+62174	15 Grad
+62175	10 Grad
+62176	5 Grad
+62177	2 Grad
+62178	1 Grad
+62179	-1 Grad
+62180	-2 Grad
+62181	-5 Grad
+62182	-10 Grad
+62183	-15 Grad
+62184	&Rotationsschrittweite
+62185	&Drahtgitter
+62186	&Zeichenstil
+62187	&Volle Details
+62188	Rotations&details
+62189	Weiß
+62190	Farbe
+62191	&Schattierung
+62192	Aus
+62193	Konturlinien oben
+62194	Konturlinien unten
+62195	Konturfarben oben
+62196	Konturfarben unten
+62197	&2D Kontur
+62198	Aus
+62199	Schatten
+62200	3D
+62201	X- und Z-Achsenebene
+62202	Y-Achsenebenen
+62203	p n u m K M B T 
+62204	&Legende verbergen
+62205	Oben
+62206	Unten
+62207	Links
+62208	Rechts
+62209	&Legendenart
+62210	&Kein Rahmen
+62211	&Dünne Linie
+62212	&Schatten
+62213	&Abgesenkt
+62214	&Rahmenart
+62215	Achsen zusammen &gruppiert
+62216	Achsen getrennt
+62217	&Mehrfachachsen
+62218	Feste Schriftgr&öße
+62219	&Zeige Legende
+62220	Zeige Tabellenanmerkungen
+62221	&Innerhalb der Achse
+62222	Außerhalb der Achse
+62223	Dünne Gitterlinien
+62224	Dicke Gitterlinien
+62225	Punktierte Gitterlinien
+62226	Gestrichelte Gitterlinien
+62227	Ein-Pixel-Gitterlinien
+62228	Hell, abgesenkt
+62229	Hell, Schatten
+62230	Hell, Linie
+62231	Hell, ohne Rahmen
+62232	Mittel, abgesenkt
+62233	Mittel, Schatten
+62234	Mittel, Linie
+62235	Mittel, ohne Rahmen
+62236	Dunkel, abgesenkt
+62237	Dunkel, Schatten
+62238	Dunkel, Linie
+62239	Dunkel, ohne Rahmen
+62240	&Vordefinierte Darstellungsarten
+62241	Längere Markierungen für die Y-Achse
+62242	PNG (*.png)|Alle Dateien (*.*)||
+62243	Bitmap / Farbverlauf
+62244	Längere Markierungen für die X-Achse
+62245	Längere Gradmarkierungen
+62246	Längere Radiusmarkierungen
+62247	Abgesenkt
+62248	Schatten
+62249	Kein Rahmen
+62250	Linie
+62251	Dunkel
+62252	Mittel
+62253	Hell
+62254	Schräg
+62255	Max

@@ -31,6 +31,12 @@ try {
   // 1. THE ENGINE. WebAssembly, so it loads once, asynchronously.
   const m = await ProEssentials();
 
+  //    Menu and dialog text in the visitor's language, read from strings\.
+  //    Auto-detects from the browser; pass a tag as the second argument to
+  //    force one. Call it BEFORE the control is created -- the menu is built
+  //    during construction, so a table loaded afterwards is not in that render.
+  await PeControl.loadStrings(m);
+
   // 2. THE CONTROL. This is the WinForms designer step: dropping a Pego on the
   //    form. `autoResize` is the web's Dock = Fill -- the control watches its
   //    host element and re-fits when the browser window changes. Width and

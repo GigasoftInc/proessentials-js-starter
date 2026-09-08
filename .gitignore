@@ -9,6 +9,11 @@ package-lock.json
 npm-debug.log*
 yarn-error.log*
 
+# git-chat's own staging marker. Names the builder and the time that
+# produced this tree, so a foreign build is one `cat` away from being
+# obvious instead of a full diff. Never part of the product.
+.staged-by
+
 # Working files.
 *.bak
 *.bak-*

@@ -1,0 +1,568 @@
+1	Eksport
+9	&Hjælp
+201	Diagramområde forgrund
+202	Diagramområde baggrund
+203	Skyggefarve
+204	Afbildningsområde forgrund
+205	Afbildningsområde baggrund
+206	Tabel forgrund
+207	Tabel baggrund
+419	Undersænket
+420	Skygge
+421	Streg
+422	Ingen ramme
+423	Undersænket
+424	Skygge
+425	Streg
+426	Ingen ramme
+427	Undersænket
+428	Skygge
+429	Streg
+430	Ingen ramme
+1010	fed
+1011	kursiv
+1012	understreget
+1014	Stor Skriftstørrelse
+1015	kursiv
+1016	understreget
+1018	fed
+1019	kursiv
+1020	understreget
+1022	&Tabeldata:
+1024	&Udklipsholder
+1025	&Fil
+1026	P&rinter
+1030	&Gem som
+1041	Bredde:
+1042	/ Højde:
+1043	Enheder
+1055	Ingen fast størrelse
+1056	Millimeter
+1057	Tommer
+1058	Punkter
+1060	Fil&type:
+1062	Drev:
+1071	&Opsætning...
+1074	Static
+1076	Retning:
+1079	Stående
+1080	Størrelsesetikette
+1081	Kildeetikette
+1083	&Dataserier til diagram
+1084	
+1086	Stor
+1087	Mellem
+1088	Lille
+1090	Procent
+1091	Værdi
+1101	Farve
+1102	Sort-hvid
+1103	Sort-hvid + symboler
+1106	Diagram
+1107	Tabel
+1108	Begge
+1111	Grafisk
+1112	Alle dataserier
+1400	EMF
+1401	&WMF
+1402	&BMP
+1403	&JPG
+1404	&PNG
+1405	SVG
+1406	&Tekst / Kun data
+1508	Alle data
+1509	Udvalgte data
+1510	Data
+1511	Data og etiketter
+1516	Tabel
+1517	Liste
+1518	Hjælp
+1519	Dataserier/punkter
+1520	Punkter/dataserier
+1521	Aktuelle antal decimaler
+1522	Maksimale antal decimaler 
+1525	Række mod kolonne
+1526	Type 1
+1527	Type 2
+1528	Brugerdefinerede udsnit til adkilt cirkeldiagram
+1529	Brugerdefinerede udsnit til cirkeldiagram
+1530	Tilføj dataserier, Udskrivningsindstillinger
+1531	Print aktuelle diagram.
+1536	diagrammer.
+1538	Printtitel
+1539	1
+1540	Begge
+1541	Y
+1542	X
+1543	Ingen
+1549	Comparisons as &Normal
+1552	Fortløbende
+1553	Udvalgte
+1556	Diagramstørrelse
+1557	Gitterlinjer foran data
+1558	Tab
+1559	Komma
+1560	0
+1561	1
+1562	2
+1563	3
+1564	4
+1565	5
+1566	6
+1567	7
+1568	Skygge
+1569	Streg
+1570	Ingen ramme
+1571	3D Undersænket
+1572	Kilde:
+1573	Papir:
+1574	Ingen
+1575	1%
+1576	2%
+1577	3%
+1578	4%
+1579	5%
+1607	&Akser
+1608	Dataserier til tabel
+1609	Vis data&etiketter
+1610	&Fast skriftstørrelse
+1611	Automatisk
+1612	Lodret
+1613	Vandret
+1614	Skråt
+1615	&Marker datapunkter
+1617	Under rotation
+1618	Altid
+1619	Aldrig
+1621	Trådnet
+1622	Vælg visning
+1623	Alt
+1624	Rotationsanimation
+1625	Hvid
+1626	Farve
+1627	Ingen
+1628	Linjer øverst
+1629	Linier nederst
+1630	Farver øverst
+1631	Farver nederst
+1634	Diagramtype for sammenligning
+1635	2D kontur
+1636	Vælg visning
+1637	Skyggeindstillinger
+1641	Punktsymbol:
+1642	Streg:
+1645	Automatisk
+1646	Automatisk
+1647	Lineær
+1648	Logaritmisk
+1649	Lineær
+1650	Logaritmisk
+1653	Min
+1654	Maks
+1655	Min/Maks
+1656	Min
+1657	Maks
+1658	Min/Maks
+1659	Lineær
+1660	Logaritmisk
+1661	Automatisk
+1662	Min
+1663	Maks
+1666	Min/Maks
+1667	Lineær
+1668	Logaritmisk
+1669	Automatisk
+1670	Min
+1671	Maks
+1674	Min/Maks
+1675	X-akse
+1676	Øverste X-akse
+1677	Højre Y-akse
+1678	Min
+1680	Maks
+1681	Min
+1682	Maks
+1683	Min
+1684	Maks
+1685	Uden skygge
+1686	Med skygge
+1687	&3D 
+1688	Visnings&indstillinger
+1689	&Skriftstørrelse
+1690	Antal decimaler
+1691	&Gitterlinjer
+1692	&Rammeindstillinger
+1693	3D 
+1694	Data&etikettetype
+1695	Sammenlæg &procenter
+1696	Vis vægge
+1697	Rotationsindstillinger
+1698	Rotation
+1701	Effekter
+1711	Mørk:
+1712	Mellem:
+1713	Lys:
+1714	Udskrivningsindstillinger
+1715	Farve
+1716	&Diagramtitel:
+1717	Sort-hvid + symbol
+1718	Printer:
+1719	Side:
+1720	Eksport
+1721	Eksporter til
+1723	&Vælg dataserier og punkter
+1724	Dataserier til eksport:
+1725	Punkter til eksport:
+1726	&Eksporter følgende:
+1727	Data til eksport
+1728	Eksport&indstillinger
+1729	Separeret med
+1730	&Antal decimaler
+1731	Fil&navn:
+1732	Ge&m i:
+1733	&Printer:
+1734	Y-akse
+1735	Min
+1736	Maks
+1738	&Diagramtype
+1739	Diagramtype for &sammenligning
+1740	Tilføj dataserier
+1741	&Punkter til diagram
+1742	&Aksemærkeetiketters orientering
+1743	Dataserie / punkt / aksemærke&etiketter:
+1744	Eksempel:
+1745	Formater område
+1746	Cirkeludsnit parametre
+1747	DPI
+1750	DPI
+30000	PE15131950
+40000	5_Z\\\\5_C\\\\GfaEWpUbp;2n@njD8O9NC@?;FfT?M1f:
+61219	TRUE
+61220	0 16777215 0  0 16777215 0 16777215
+61222	16777215 16777215 16777215 16777215 16777215 16777215
+61735	Fejl under åbning af fil.  Undersøg om diskettedrevet er lukket, og om disketten er formatteret og fejlfri.
+61736	Fejl under skrivning til diskette.  Disketten kan være beskadiget.
+61737	Der opstod en fejl under initialisering af printerdriveren.
+61738	Udskrivningsenheden understøtter ikke rasterdata.  Udskrivningen annulleres.
+61739	Der opstod en fejl under udskrivningen.
+61740	Diagrammet er for stort.  Højst 64 tusind bytes kan overføres til udklipsholderen.  Data afkortes.
+61741	Bitmaps bredde og højde skal være mindst 32 og højst 2000 pixels.
+61742	Billeders bredde og højde skal være mellem 1 og 10000 enheder.
+61743	Billeders bredde og højde skal være mellem 1 og 17 tommer.
+61744	Billeders bredde og højde skal være mellem 25 og 432 millimeter.
+61745	Billeders bredde og højde skal være mellem 72 og 1224 punkter.
+61746	Det aktuelle bredde til højde forhold er større end 10 til 1.  Billedet vil blive svært at tyde.  Tilpas udskriftsstørrelsen.
+61747	Det aktuelle bredde til højde forhold er mindre end 1 til 3.   Billedet vil blive svært at tyde.  Tilpas udskriftsstørrelsen.
+61748	Et filnavn behøves.
+61749	Metafiler (*.wmf;*.mfp)|Alle filer (*.*)||
+61750	Bitmaps (*.bmp;*.dib)|Alle filer (*.*)||
+61751	Datafiler (*.dat;*.txt)|Alle filer (*.*)||
+61752	Sort-hvid
+61753	Farvevalg
+61754	Baggrundsfarve . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61755	Forgrundsfarve . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61756	Kurve                                                                                  0
+61757	Søjle                                                                                  1
+61758	Punkter                                                                                    2
+61759	Område                                                                                   3
+61760	Stablet område                                                                           4
+61762	Stablet søjlediagram                                                                     6
+61764	Punkter+tendenslinje                                                                     8
+61765	Punkter+tendenslinje II                                                                  9
+61766	Histogram                                                                               10
+61767	Høj-lav                                                                                     11
+61768	Høj-lav-slut                                                                            11
+61769	Åben-høj-lav-slut                                                                      a11
+61770	Candle Stick                                                                               b11
+61771	Boblediagram                                                                                12
+61772	Punkter+tendenskurve                                                                    13
+61773	Punkter+tendenskurve II                                                                 14
+61774	Punkter+udglattet kurve                                                                 15
+61775	Udglattet kurve                                                                                 16
+61776	Stick                                                                                        1
+61777	Punkter+kurve                                                                           17
+61778	Liggende søjle                                                                          18
+61779	Mindst to punkter skal vælges.
+61780	Harddisk
+61781	Netværksdrev
+61782	CD ROM
+61783	Ram drev
+61784	5 1/4 Floppy 360K
+61785	5 1/4 Floppy 1.2M
+61786	3 1/2 Floppy 720K
+61787	8 Single Density
+61788	8 Double Density
+61789	Tape drev
+61790	3 1/2 Floppy 1.44M
+61791	Optisk drev
+61792	3 1/2 Floppy 2.88M
+61793	Drevet svarer ikke.  Undersøg om disketten er formatteret, fejlfri, og at diskettedrevets dør er lukket.
+61794	Filen eksisterer.  Skal den eksisterende fil overskrives?
+61795	Adgang nægtet.
+61796	Filen findes ikke.
+61797	Ugyldigt filnavn.
+61798	Mediet er beskadiget.
+61799	Fejl ved tilgang til drev.
+61800	Fejl ved indlæsning af printerdriver.
+61989	&Farve
+61990	Sort-&hvid
+61991	Sort-hvid + &symbol
+61992	&Stor
+61993	&Mellem
+61994	&Lille
+61999	&Vis X- og Y-akse gitterlinjer
+62000	Vis &Y-akse gitterlinjer
+62001	Vis &X-akse gitterlinjer
+62002	&Skjul gitterlinjer
+62003	&Diagram
+62004	&Tabel
+62005	&Både diagram og datatabel
+62006	&Automatisk
+62007	&Lodret
+62008	&Vandret
+62009	Grafiske dataserier
+62010	Alle dataserier
+62011	&Visningsindstillinger
+62012	Skriftst&ørrelse
+62013	&Antal decimaler
+62014	Kurve
+62015	Søjle
+62016	Liggende søjle
+62017	Punkt
+62018	Område
+62019	Stablet søjlediagram
+62020	100% stablet søjlediagram
+62021	Stablet område
+62022	100% stablet område
+62023	Punkter + tendenslinje
+62024	Punkter + tendenslinje II
+62025	Punkter + tendenskurve
+62026	Punkter + tendenskurve II
+62027	Punkter + kurve
+62028	Punkter + udglattet kurve
+62029	Udglattet kurve
+62030	Histogram
+62031	Høj-lav
+62032	Høj-lav-slut
+62033	Åben-høj-lav-slut
+62034	Candle Stick
+62035	Udefineret
+62036	Diagram&type
+62037	&Undertype
+62038	&Gitterlinjeindstillinger
+62039	Gitterlinjer &forrest
+62040	&Diagram og/eller datatabel
+62041	&Vis i tabel
+62042	Aksemærkeetiketters &orientering
+62043	Comparison Subsets as &Normal
+62044	Marker data&punkter
+62045	Vis &dataetiketter
+62046	&Zoom ud
+62047	&Maksimer...
+62048	Diagram&indstillinger...
+62049	E&ksport...
+62050	&Hjælp
+62051	Y-akseværdi
+62052	Punktnummer, Y-akseværdi
+62053	Stick
+62054	Boble
+62055	Vis data&etiketter
+62056	X-akseværdi, Y-akseværdi
+62057	JanFebMarAprMajJunJulAugSepOktNovDec
+62058	SønManTirOnsTorFreLør
+62059	SMTOTFL
+62060	Både grader og radius
+62061	Grader
+62062	Radius
+62063	Både R- og X-ringe
+62064	R-ringe
+62065	X-ringe
+62066	Radiuslinje etiketter
+62067	R-ring etiketter
+62068	Grader, radius
+62069	R-værdier, X-værdier
+62070	Vis procent
+62071	Vis værdi
+62072	Ingen sammenlægning
+62073	1% og derunder
+62074	2% og derunder
+62075	3% og derunder
+62076	4% og derunder
+62077	5% og derunder
+62078	Vis data&etiketter som
+62079	Sammenlæg pro&center
+62080	Cirkeludsnit værdier
+62081	Cirkeludsnit procenter
+62082	* Andet
+62083	* Ingen data
+62084	% Andet *
+62085	Akkum %
+62086	Procent
+62087	* Sum pr pkt
+62088	* Min alle pktr
+62089	* Min pr pkt
+62090	* Maks alle pktr
+62091	* Maks pr pkt
+62092	* Middel alle pktr
+62093	* Middel pr pkt
+62094	* u+1s alle pktr
+62095	* u+1s pr pkt
+62096	* u+2s alle pktr
+62097	* u+2s pr pkt
+62098	* u+3s alle pktr
+62099	* u+3s pr pkt
+62100	* u-1s alle pktr
+62101	* u-1s pr pkt
+62102	* u-2s alle pktr
+62103	* u-2s pr pkt
+62104	* u-3s alle pktr
+62105	* u-3s pr pkt
+62106	Procent af 100
+62107	Forekomster
+62108	Eksporterer
+62109	Print...
+62110	Eksport...
+62111	Eksport
+62112	Pixels
+62113	Hel side
+62114	Ingen fast størrelse
+62115	Enheder
+62116	Millimeter
+62117	Tommer
+62118	Punkter
+62119	Åbn fil
+62120	Gem som
+62121	Flytbar
+62122	Printer
+62123	on
+62124	Ukendt
+62125	Stående
+62126	Liggende
+62127	Radiusetiketter
+62128	R-ring etiketter
+62129	For lille cirkeludsnit, skifter til standardparametre for cirkeludsnit.
+62130	Original
+62131	Maksimer...
+62132	Indstillinger...
+62133	Eksporter...
+62134	Stablet liggende søjlediagram
+62135	100% stablet liggende søjlediagram
+62136	Stablet liggende søjlediagram                                                          19
+62138	Trin
+62139	Trin                                                                                        21
+62140	JPEGS (*.jpg)|Alle filer (*.*)||
+62141	3D-kurve                                                                                    22
+62142	Konturlinier                                                                           23
+62143	Konturfarver                                                                           24
+62144	3D-kurve
+62145	Konturlinier
+62146	Konturfarver
+62147	GigaSoft ProEssentials v6, Copyright (c) 1994-2006 Gigasoft, Inc., All Rights Reserved.
+62148	Trådnet
+62149	Flade
+62150	Flade med skygge
+62151	Flade med konturlinier
+62152	Punkter
+62153	Trådnet                                                                                25
+62154	Flade                                                                                        26
+62155	Flade med skygge                                                                       27
+62156	Flade med kontur                                                                       29
+62157	Punkter                                                                                28
+62158	Trådnet farve
+62159	Flade farve
+62160	Punktfarve
+62161	&Ingen decimaler
+62162	&1 Decimal
+62163	&2 Decimaler
+62164	&3 Decimaler
+62165	&4 Decimaler
+62166	&5 Decimaler
+62167	&6 Decimaler
+62168	&7 Decimaler
+62169	&Under rotation
+62170	&Altid
+62171	A&ldrig
+62172	Vis v&ægge
+62173	Aktiver rotatio&n
+62174	15 grader
+62175	10 grader
+62176	5 grader
+62177	2 grader
+62178	1 grad
+62179	-1 grad
+62180	-2 grader
+62181	-5 grader
+62182	-10 grader
+62183	-15 grader
+62184	R&otation
+62185	&Trådnet
+62186	&Vælg visning
+62187	&Alle detaljer
+62188	Rotations in&dstillinger
+62189	Hvid
+62190	Farve
+62191	&Skyggeindstillinger
+62192	Ingen
+62193	Konturlinjer øverst
+62194	Konturlinjer nederst
+62195	Konturfarver øverst
+62196	Konturfarver nederst
+62197	2D kont&ur
+62198	Ingen
+62199	Skygge
+62200	3D
+62201	X- og Z-akseplan
+62202	Y-akseplaner
+62203	p n u m K M B T
+62204	Sk&jul forklaring
+62205	Øverst
+62206	Nederst
+62207	Venstre
+62208	Højre
+62209	&Forklaringsindstillinger
+62210	&Ingen ramme
+62211	&Tynd streg
+62212	&Skygge
+62213	&Undersænket
+62214	&Rammeindstillinger
+62215	Akser &grupperet
+62216	Akser &adskilt
+62217	Flere akser, &Indstillinger
+62218	&Fast skriftstørrelse
+62219	Vis &forklaring
+62220	Vis tabeletiketter
+62221	Indenfor akser
+62222	Udenfor akser
+62223	Tynde gitterlinjer
+62224	Tykke gitterlinjer
+62225	Punkterede gitterlinjer
+62226	Stiplede gitterlinjer
+62227	Et-punkts gitterlinjer
+62228	Lys Undersænket
+62229	Lys Med skygge
+62230	Lys Med streg
+62231	Lys Ingen ramme
+62232	Mellem Undersænket
+62233	Mellem Med skygge
+62234	Mellem Med streg
+62235	Mellem Ingen ramme
+62236	Mørk Undersænket
+62237	Mørk Med skygge
+62238	Mørk Med streg
+62239	Mørk Ingen ramme
+62240	&Indstillinger
+62241	Underordnede Y-akse gitterlinjer
+62242	PNG (*.png)|Alle filer (*.*)||
+62243	Effekter
+62244	Underordnede X-akse gitterlinjer
+62245	Underordnede gradmærke etiketter
+62246	Underordnede radiusmærke etiketter
+62247	Undersænket
+62248	Skygge
+62249	Ingen ramme
+62250	Streg
+62251	Mørk
+62252	Mellem
+62253	Lys
+62254	Schräg
+62255	Max

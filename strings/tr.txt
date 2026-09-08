@@ -1,0 +1,568 @@
+1	Dışa Aktar
+9	&Yardım
+201	Sıra Ön Planı
+202	Sıra Arka Planı
+203	Gölge Rengi
+204	Grafik Ön Planı
+205	Grafik Arka Planı
+206	Tablo Ön Planı
+207	Tablo Arka Planı
+419	Ek
+420	Gölge
+421	Çizgi
+422	Hiçbiri
+423	Ek
+424	Gölge
+425	Çizgi
+426	Hiçbiri
+427	Ek
+428	Gölge
+429	Çizgi
+430	Hiçbiri
+1010	koyu
+1011	italik
+1012	altı çizili
+1014	Büyük Yazı
+1015	italik
+1016	altı çizili
+1018	koyu
+1019	italik
+1020	altı çizili
+1022	&Tablo Verileri:
+1024	&Pano
+1025	&Dosya
+1026	&Yazıcı
+1030	G&özat
+1041	Genişlik:
+1042	/ Yükseklik
+1043	Birimler
+1055	Belirli Bir Boyut Yok
+1056	Milimetre
+1057	İnç
+1058	Noktalar
+1060	Listelenecek Dosya &Türü:
+1062	Sür&ücüler:
+1071	&Kurulum...
+1074	Statik
+1076	Yön:
+1079	Dikey
+1080	boyut etiketi
+1081	kaynak etiketi
+1083	Altkümelerden &Grafiğe
+1084	
+1086	Büyük
+1087	Orta
+1088	Küçük
+1090	Yüzde
+1091	Değer
+1101	Renk
+1102	Monokrom
+1103	Monokrom + Semboller
+1106	Grafik
+1107	Tablo
+1108	İkisi de
+1111	Grafiğe dökülmüş
+1112	Tüm Altkümeler
+1400	&EMF
+1401	&WMF
+1402	&BMP
+1403	&JPG
+1404	&PNG
+1405	&SVG
+1406	&Salt Metin/Veri
+1508	Tüm Veriler
+1509	Seçilen Veriler
+1510	Veriler
+1511	Veriler ve Etiketler
+1516	Tablo
+1517	Liste
+1518	Yardım
+1519	Altkümeler/Noktalar
+1520	Noktalar/Altkümeler
+1521	Mevcut Kesinlik
+1522	Maksimum Kesinlik
+1525	Sıra ve Sütun
+1526	Tip 1
+1527	Tip 2
+1528	İmha Edilecek Özel Dilimler
+1529	Kayda Geçilecek Özel Dilimler
+1530	Altküme Yazdır Seçeneklerini Kaydırma
+1531	Mevcut grafiği yazdır.
+1536	grafikler.
+1538	Yazdırma Başlığı
+1539	1
+1540	İkisi de
+1541	Y
+1542	X
+1543	Hiçbiri
+1549	Normal Olarak &Karşılaştırmalar
+1552	Sıralı
+1553	Seçili
+1556	Nesne Boyutu
+1557	Verilerin önünde kılavuz
+1558	Sekme
+1559	Virgül
+1560	0
+1561	1
+1562	2
+1563	3
+1564	4
+1565	5
+1566	6
+1567	7
+1568	Gölge
+1569	Çizgi
+1570	Kenarlık Yok
+1571	3D Eki
+1572	Kaynak:
+1573	Kağıt:
+1574	Hiçbiri
+1575	1%
+1576	2%
+1577	3%
+1578	4%
+1579	5%
+1607	&Eksenler
+1608	Altkümelerden &Tabloya
+1609	&Ek Açıklamaları Göster
+1610	&Sabit Yazı Tipi
+1611	Otomatik
+1612	Dikey
+1613	Yatay
+1614	Eğik
+1615	&Veri Noktalarını İşaretle
+1617	Dönüş Esnasında
+1618	Her Zaman
+1619	Asla
+1621	Tel Çerçeve
+1622	Taslak Oluşturma Yöntemi
+1623	Dolu
+1624	Dönüş Animasyonu
+1625	Beyaz
+1626	Renk
+1627	KAPALI
+1628	Çizgiler üstte
+1629	Çizgiler altta
+1630	Renkler üstte
+1631	Renkler altta
+1634	Taslak Oluşturma Yöntemi Karşılaştırması
+1635	2D Kontur
+1636	Taslak Oluşturma Yöntemi
+1637	Gölgelendirme Stili
+1641	Nokta Türü:
+1642	Çizgi Türü:
+1645	Otomatik
+1646	Otomatik
+1647	Doğrusal
+1648	Günlük
+1649	Doğrusal
+1650	Günlük
+1653	Min.
+1654	Maks.
+1655	Min/Maks.
+1656	Min.
+1657	Maks.
+1658	Min/Maks.
+1659	Doğrusal
+1660	Günlük
+1661	Otomatik
+1662	Min.
+1663	Maks.
+1666	Min/Maks.
+1667	Doğrusal
+1668	Günlük
+1669	Otomatik
+1670	Min.
+1671	Maks.
+1674	Min/Maks.
+1675	X Ekseni
+1676	Üst X Ekseni
+1677	Sağ Y Ekseni
+1678	Min.
+1680	Maks.
+1681	Min.
+1682	Maks.
+1683	Min.
+1684	Maks.
+1685	Kapalı
+1686	Gölge
+1687	3D
+1688	&Görüntüleme Stili
+1689	&Yazı Tipi Boyutu
+1690	&Sayısal Kesinlik
+1691	&Kılavuz Çizgiler
+1692	Kenarlık Stili
+1693	3D
+1694	&Veri Etiketi Tipi
+1695	&Grup Yüzdeleri
+1696	Sınırlayıcı Kutuyu Göster
+1697	Dönüş Ayrıntısı
+1698	Dönüş Artımı
+1701	Bit Eşlem / Gradyan Stiller
+1711	Koyu:
+1712	Orta:
+1713	Açık:
+1714	Yazdırma Stili
+1715	Renk
+1716	&Ana Başlık:
+1717	Mono artı Sembol
+1718	Şu An Yazdırılan:
+1719	Sayfa:
+1720	Dışa Aktar
+1721	Dışa Aktarma Hedefi
+1723	&Altkümeleri ve Noktaları Seç
+1724	Dışa Aktarılacak Altkümeler:
+1725	Dışa Aktarılacak Noktalar:
+1726	Dışa Aktarılacak &Öge
+1727	Dışa Aktarılacak Veriler
+1728	Stili Dışa &Aktar
+1729	Sınırlandırılmış
+1730	&Sayısal Kesinlik
+1731	Dosya &Adı:
+1732	&Dizinler:
+1733	&Yazıcı:
+1734	Y Ekseni
+1735	Min.
+1736	Maks.
+1738	&Taslak Stili
+1739	&Taslak Stili Karşılaştırması
+1740	Altkümeleri Kaydırma
+1741	&Noktalardan Grafiğe
+1742	Nokta Etiketi Yönü
+1743	Altküme/Nokta/Eksen &Etiketleri:
+1744	örnek:
+1745	Grafik Öznitelikleri
+1746	Dilim Parametreleri
+1747	DPI
+1750	DPI
+30000	PE15131950
+40000	5_Z\\\\5_C\\\\GfaEWpUbp;2n@njD8O9NC@?;FfT?M1f:
+61219	TRUE
+61220	0 16777215 0  0 16777215 0 16777215
+61222	16777215 16777215 16777215 16777215 16777215 16777215
+61735	Dosyayı açmaya çalışırken hata oluştu.  Sürücü kapağının kapalı olduğundan, hedef diskin biçimlendirildiğinden ve hatasız olduğundan emin olun.
+61736	Diske bilgi yazılırken hata oluştu.  Disk hasar görmüş olabilir.
+61737	Yazıcı sürücüsünü başlatmaya çalışırken hata oluştu.
+61738	Çıkış cihazı tarama özelliklerini desteklemiyor.  Yazdırma işlemi iptal edilecek.
+61739	Yazdırma işlemini başlatmaya çalışırken hata oluştu.
+61740	Nesne çok büyük.  Panoya sadece 64 bin bayt aktarılabilir.  Veriler kesilecek.
+61741	Bit eşlem genişlik ve yükseklik boyutları en az 32 piksel, en fazla 2.000 piksel olmalı.
+61742	Görüntü genişlik ve yükseklik boyutları 1 ve 100.00 birim arasında olmalı.
+61743	Görüntü genişlik ve yükseklik boyutları 1 ve 17 inç arasında olmalı.
+61744	Görüntü genişlik ve yükseklik boyutları 25 ve 432 milimetre arasında olmalı.
+61745	Görüntü genişlik ve yükseklik boyutları 72 ve 1.224 nokta arasında olmalı.
+61746	Şu anki genişlik-yükseklik oranı 10-1 oranından daha fazla.  Bu, okunması zor bir görüntü oluşturacaktır.  Lütfen çıkış boyutlarını ayarlayın.
+61747	Güncel genişlik-yükseklik oranı 1-3 oranından daha az.  Bu, okunması zor bir görüntü oluşturacaktır.  Lütfen çıkış boyutlarını ayarlayın.
+61748	Bir dosya adı gerekli.
+61749	Meta Dosyalar (*.wmf;*.mfp)|Tüm Dosyalar (*.*)||
+61750	Bit Eşlemler (*.bmp;*.dib)|Tüm Dosyalar (*.*)||
+61751	Veri Dosyaları (*.dat;*.txt)|Tüm Dosyalar (*.*)||
+61752	Monokrom Renk Seçimi
+61753	Renk Seçimi
+61754	Arka Plan Rengi . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61755	Ön Plan Rengi . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61756	Çizgi                                                                    0
+61757	Bar                                                                1
+61758	Noktalar                                                                  2
+61759	Alan                                                                    3
+61760	Alan, İstifli                                                           4
+61762	Bar, İstifli                                                            6
+61764	Noktalar+EnUygunÇizgi                                                    8
+61765	Noktalar+EnUygunÇizgi II                                                   9
+61766	Histogram                                                              10
+61767	Yüksek/Düşük                                                               11
+61768	Yüksek/Düşük/Kapalı                                                         11
+61769	Açık/Yüksek/Düşük/Kapalı                                                   a11
+61770	Şamdan                                                        b11
+61771	Balon                                                                 12
+61772	Noktalar+EnUygunEğri                                          13
+61773	Noktalar+EnUygunEğri II                                                 14
+61774	Noktalar+Spline                                                       15
+61775	Eğri Cetveli                                                                16
+61776	Çubuk                                                                   1
+61777	Noktalar+Çizgi                                                            17
+61778	Yatay Bar                                                  18
+61779	En az iki nokta seçilmelidir.
+61780	Sabit Disk
+61781	Ağ Sürücüsü
+61782	CD ROM
+61783	Ram Sürücüsü
+61784	5 1/4 Disket 360 K
+61785	5 1/4 Disket 1,2 M
+61786	3 1/2 Disket 720 K
+61787	8 Tekli Yoğunluk
+61788	8 Çift Yoğunluk
+61789	Teyp Sürücü
+61790	3 1/2 Disket 1,44 M
+61791	Optik Sürücü
+61792	3 1/2 Disket 2,88 M
+61793	Sürücü yanıt vermiyor.  Diskin biçimlendirilmiş ve hatasız olduğundan ve sürücü kapağının kapalı olduğundan emin olun.
+61794	Dosya Mevcut.  Mevcut dosyanın üzerine yazmak istiyor musunuz?
+61795	İzin reddedildi.
+61796	Dosya bulunamadı.
+61797	Geçersiz dosya adı.
+61798	Ortam hasar gördü.
+61799	Sürücüye erişim hatası.
+61800	Yazıcı sürücüsünü yüklemeye çalışırken hata oluştu
+61989	&Renk
+61990	&Monokrom
+61991	Monokrom + &Sembol
+61992	&Büyük
+61993	&Orta
+61994	&Küçük
+61999	&X ve Y Ekseni Kılavuz Çizgileri Göster
+62000	&Y Ekseni Kılavuz Çizgilerini Göster
+62001	&X Ekseni Kılavuz Çizgilerini Göster
+62002	&Kılavuz Çizgileri Sakla
+62003	&Grafik
+62004	&Tablo
+62005	&Hem Grafik Hem Tablo
+62006	&Otomatik
+62007	&Dikey
+62008	&Yatay
+62009	Grafiğe Dökülmüş Altkümeler
+62010	Tüm Altkümeler
+62011	&Görüntüleme Stili
+62012	&Yazı Tipi Boyutu
+62013	&Sayısal Kesinlik
+62014	Çizgi
+62015	Bar
+62016	Yatay Bar
+62017	Nokta
+62018	Alan
+62019	İstifli Bar
+62020	İstifli Bar Yüzdesi
+62021	İstifli Alan
+62022	İstifli Alan Yüzdesi
+62023	Noktalar + En Uygun Çizgi
+62024	Noktalar + En Uygun Çizgi II
+62025	Noktalar + En Uygun Eğri
+62026	Noktalar + En Uygun Eğri II
+62027	Noktalar + Çizgi
+62028	Noktalar + Eğri Cetveli
+62029	Eğri Cetveli
+62030	Histogram
+62031	Yüksek/Düşük
+62032	Yüksek/Düşük/Kapalı
+62033	Açık/Yüksek/Düşük/Kapalı
+62034	Şamdan
+62035	Tanımsız
+62036	&Taslak Oluşturma Yöntemi
+62037	&Veri Gölgeleri
+62038	Kılavuz Seçenekleri
+62039	Izgara &Önde
+62040	&Grafik ve/veya Tablo
+62041	&Tablolanacak Öge
+62042	Nokta Etiketi &Yönü
+62043	Normal Olarak Altküme &Karşılaştırması
+62044	Ver&i Noktalarını İşaretle
+62045	&Ek Açıklamaları Göster
+62046	&Yakınlaştırmayı Geri Al
+62047	&Maksimize Et...
+62048	&Özelleştirme İletişim Kutusu...
+62049	İl&etişim Kutusunu Dışa Aktar...
+62050	&Yardım
+62051	Y Ekseni Değeri
+62052	Nokta Sayısı, Y Ekseni Değeri
+62053	Çubuk
+62054	Balon
+62055	&Veri Etiketlerini Dahil Et
+62056	X Ekseni Değeri, Y Ekseni Değeri
+62057	OcaŞubMarNisMayHazTemAğuEylEkiKasAra
+62058	PazPtsSalÇarPerCumCts
+62059	PPSÇPCC
+62060	Hem Dereceler Hem Yarı Çap 
+62061	Dereceler
+62062	Yarı Çap
+62063	Hem R Hem X Halkaları
+62064	R Halkaları
+62065	X Halkaları
+62066	Yarı Çap Çizgi Etiketleri
+62067	R Halkası Etiketleri
+62068	Dereceler, Yarı Çap
+62069	R Değerleri, X Değerleri
+62070	Yüzde
+62071	Değer
+62072	Gruplama Yok
+62073	%1 ve Altı
+62074	%2 ve Altı
+62075	%3 ve Altı
+62076	%4 ve Altı
+62077	%5 ve Altı
+62078	Şu Şekilde Veri &Etiketleri
+62079	&Grup Yüzdeleri
+62080	Dilim Değerleri
+62081	Dilim Yüzdeleri
+62082	* Diğer
+62083	* Sıfır Veri
+62084	% Diğer *
+62085	Birikmiş %
+62086	Yüzde
+62087	* Nokta başına toplam
+62088	* Tüm noktalar min.
+62089	* Nokta başına min.
+62090	* Tüm noktalar maks.
+62091	* Nokta başına maks.
+62092	* Tüm noktalar ort.
+62093	* Nokta başına ort.
+62094	* Tüm noktaların u+1'leri
+62095	* Nokta başına u+1'ler
+62096	* Tüm noktaların u+2'leri
+62097	* Nokta başına u+2'ler
+62098	* Tüm noktaların u+3'leri
+62099	* Nokta başına u+3'ler
+62100	* Tüm noktaların u-1'leri
+62101	* Nokta başına u-1'ler
+62102	* Tüm noktaların u-2'leri
+62103	* Nokta başına u-2'ler
+62104	* Tüm noktaların u-3'leri
+62105	* Nokta başına u-3'ler
+62106	100 yüzdesi
+62107	Oluşumlar
+62108	Dışa Aktarılıyor
+62109	Yazdır...
+62110	Dışa Aktar...
+62111	Dışa Aktar
+62112	Pikseller
+62113	Tam Sayfa
+62114	Belirli Bir Boyut Yok
+62115	Birimler
+62116	Milimetre
+62117	İnç
+62118	Noktalar
+62119	Dosyayı Aç
+62120	Farklı Kaydet
+62121	Çıkarılabilir
+62122	Yazdırıyor
+62123	açık
+62124	Bilinmeyen
+62125	Dikey
+62126	Yatay
+62127	Yarı Çap Etiketleri
+62128	R Halkası Etiketleri
+62129	Yeterli dilim yok, varsayılan dilim parametrelerine geçiliyor.
+62130	Orijinal
+62131	Maksimize Et...
+62132	Özelleştirme...
+62133	Dışa Aktar...
+62134	İstifli Yatay Bar
+62135	İstifli Yatay Bar Yüzdesi
+62136	İstifli Yatay Bar                                                   19
+62138	Adım
+62139	Adım                                                                  21
+62140	JPEGS (*.jpg)|Tüm Dosyalar (*.*)||
+62141	Şerit                                                             22
+62142	Kontur Çizgileri                                                        23
+62143	Kontur Renkleri                                                        24
+62144	Şerit
+62145	Kontur Çizgileri
+62146	Kontur Renkleri
+62147	GigaSoft ProEssentials v6, Telif Hakkı (c) 1994-2006 Gigasoft, Inc., Tüm Hakları Saklıdır.
+62148	Tel Çerçeve
+62149	Yüzey
+62150	Gölgeli Yüzey
+62151	Konturlu Yüzey
+62152	Pikseller
+62153	Tel Çerçeve                                                            25
+62154	Yüzey                                                               26
+62155	Gölgeli Yüzey                                                  27
+62156	Konturlu Yüzey                                               29
+62157	Pikseller                                                                28
+62158	Tel Çerçeve Rengi
+62159	Düz Renk
+62160	Piksel Rengi
+62161	Ondalık Sayı Yok
+62162	&1 Ondalık Sayı
+62163	&2 Ondalık Sayı
+62164	&3 Ondalık Sayı
+62165	&4 Ondalık Sayı
+62166	&5 Ondalık Sayı
+62167	&6 Ondalık Sayı
+62168	&7 Ondalık Sayı
+62169	&Dönüş Esnasında
+62170	&Her Zaman
+62171	&Asla
+62172	&Sınırlayıcı Kutuyu Göster
+62173	&Dönüş Animasyonu
+62174	15 derece
+62175	10 derece
+62176	5 derece
+62177	2 derece
+62178	1 derece
+62179	-1 derece
+62180	-2 derece
+62181	-5 derece
+62182	-10 derece
+62183	-15 derece
+62184	&Dönüş Artımı
+62185	&Tel Çerçeve
+62186	&Taslak Oluşturma Stili
+62187	&Tam Ayrıntı
+62188	Dönüş &Ayrıntısı
+62189	Beyaz
+62190	Renk
+62191	&Gölgelendirme Stili
+62192	Kapalı
+62193	Kontur Çizgileri Üstte
+62194	Kontur Çizgileri Altta
+62195	Kontur Renkleri Üstte
+62196	Kontur Renkleri Altta
+62197	&2D Kontur
+62198	Kapalı
+62199	Gölge
+62200	3D
+62201	X ve Z Eksen Düzlemi
+62202	Y Ekseni Düzlemleri
+62203	p n u m K M B T
+62204	&Göstergeyi Gizle
+62205	Üst
+62206	Alt
+62207	Sol
+62208	Sağ
+62209	&Gösterge Stili
+62210	&Kenarlık Yok
+62211	&İnce Çizgi
+62212	&Gölge
+62213	&Ek
+62214	&Kenarlık Stili
+62215	Beraber &Gruplanan Eksenler
+62216	Ayrılan &Eksenler
+62217	&Çoklu Eksen Stili
+62218	&Sabit Yazı Tipi Boyutu
+62219	&Göstergeyi Göster
+62220	Tablo &Ek Açıklamalarını Göster
+62221	&İç Eksen
+62222	&Dış Eksen
+62223	İnce Kılavuz Çizgiler
+62224	Kalın Kılavuz Çizgiler
+62225	Noktalı Kılavuz Çizgiler
+62226	Tireli Kılavuz Çizgiler
+62227	Bir Piksel Kılavuz Çizgiler
+62228	Aydınlık Ek
+62229	Aydınlık Gölge
+62230	Aydınlık Çizgi
+62231	Aydınlık Kenarlıksız
+62232	Orta Ek
+62233	Orta Gölge
+62234	Orta Çizgi
+62235	Orta Kenarlıksız
+62236	Koyu Ek
+62237	Koyu Gölge
+62238	Koyu Çizgi
+62239	Koyu Kenarlıksız
+62240	&Hızlı Stil
+62241	Y Ekseni Onay İşaretlerini Genişlet
+62242	PNG (*.png)|Tüm Dosyalar (*.*)||
+62243	Bit Eşlem/Gradyan Stiller
+62244	X Ekseni Tik İşaretlerini Genişlet
+62245	Derece Onay İşaretlerini Genişlet
+62246	Yarı Çap Onay İşaretlerini Genişlet
+62247	Ek
+62248	Gölge
+62249	Kenarlık Yok
+62250	Çizgi
+62251	Koyu
+62252	Orta
+62253	Aydınlık
+62254	Eğik
+62255	Maks.

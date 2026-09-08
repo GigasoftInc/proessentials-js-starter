@@ -1,0 +1,567 @@
+1	Exportera
+9	&Hjälp
+201	Ram förgrund
+202	Ram bakgrund
+203	Skuggfärg
+204	Graf förgrund
+205	Graf bakgrund
+206	Tabell förgrund
+207	Tabell bakgrund
+419	Insjuken
+420	Skugga
+421	Linje
+422	Ingen
+423	Insjuken
+424	Skugga
+425	Linje
+426	Ingen
+427	Insjuken
+428	Skugga
+429	Linje
+430	Ingen
+1010	fet
+1011	italic
+1012	understruken
+1014	Stort typsnitt
+1015	italic
+1016	understruken
+1018	fet
+1019	italic
+1020	understruken
+1022	&Tabelldata:
+1024	&Urklipp
+1025	&Fil
+1026	&Skrivare
+1030	B&läddra
+1041	Bredd:
+1042	/ Höjd:
+1043	Enheter
+1055	Ingen speciell storlek
+1056	Millimeter
+1057	Tum
+1058	Punkter
+1060	Visa filer av &Typ:
+1062	En&heter:
+1071	&Inställningar...
+1074	Statisk
+1076	Orientering
+1079	Liggande
+1080	Storlekstyp
+1081	Källtyp
+1083	Datamängder till &Graf
+1084	
+1086	Stor
+1087	Mellan
+1088	Liten
+1090	Procent
+1091	Värde
+1101	Färg
+1102	Svartvit
+1103	Svartvit + Symboler
+1106	Graf
+1107	Tabell
+1108	Både och
+1111	Graf
+1112	Alla datamängder
+1400	EMF
+1401	&WMF
+1402	&BMP
+1403	&JPG
+1404	&PNG
+1405	SVG
+1406	&Text / Enbart data
+1508	All Data
+1509	Vald Data
+1510	Data
+1511	Data and etiketter
+1516	Tabell
+1517	Lista
+1518	Hjälp
+1519	Datamängd/Punkter
+1520	Punkter/Datamängd
+1521	Aktuell Precision
+1522	Maximal Precision
+1525	Rad vs Kolumn
+1526	Typ 1
+1527	Typ 2
+1528	Valfria bitar att explodera
+1529	Valfria bitar att skapa graf över
+1530	Utskriftsinställningar för rullande datamängder
+1531	Skriv ut.
+1536	Grafer.
+1538	Utskriftstitel
+1539	1
+1540	Både och
+1541	Y
+1542	X
+1543	Inga
+1549	Jämförelse som &normal
+1552	Sekventiell
+1553	Vald
+1556	Objektstorlek
+1557	Rutnät framför data
+1558	Tab
+1559	komma
+1560	0
+1561	1
+1562	2
+1563	3
+1564	4
+1565	5
+1566	6
+1567	7
+1568	Skugga
+1569	Linje
+1570	ingen ram
+1571	3D insjunken
+1572	Källa
+1573	Papper:
+1574	Inga
+1575	1%
+1576	2%
+1577	3%
+1578	4%
+1579	5%
+1607	&Axlar
+1608	Datamängder till &tabell
+1609	Visa förkl&aringar
+1610	&Fixerat typsnitt
+1611	Automatisk
+1612	Vertikal
+1613	Horisontell
+1614	Lutande
+1615	&Markera punkter
+1617	Under rotation
+1618	Alltid
+1619	Aldrig
+1621	Trådmodell
+1622	Plottningsmetod
+1623	Full
+1624	Roterande animation
+1625	Vit
+1626	Färg
+1627	Av
+1628	Linjer längst fram
+1629	Linjer längst bak
+1630	Färger längst fram
+1631	Färger längst bak
+1634	Jämförande plottningsmetod
+1635	2D kontur
+1636	Plottningsmetod
+1637	Skuggstil
+1641	Punkttyp:
+1642	Linjetpy:
+1645	Auto
+1646	Auto
+1647	Linjär
+1648	Log
+1649	Linjär
+1650	Log
+1653	Min
+1654	Max
+1655	Min/Max
+1656	Min
+1657	Max
+1658	Min/Max
+1659	Linjär
+1660	Log
+1661	Auto
+1662	Min
+1663	Max
+1666	Min/Max
+1667	Linjär
+1668	Log
+1669	Auto
+1670	Min
+1671	Max
+1674	Min/Max
+1675	X-Axel
+1676	Top X-Axel
+1677	Höger Y-Axel
+1678	Min
+1680	Max
+1681	Min
+1682	Max
+1683	Min
+1684	Max
+1685	Av
+1686	Skugga
+1687	3D
+1688	&Vy typ
+1689	&Typsnittsstorlek
+1690	&Numerisk Precision
+1691	&Rutnätslinjer
+1692	Ram typ
+1693	3D
+1694	&Data etikettyp
+1695	&Grupp procent
+1696	Visa omslutande box
+1697	Rotationsdetaljer
+1698	Rotationsökning
+1701	Bitmap / Gradient
+1711	Dark:
+1712	Mellan
+1713	Light:
+1714	Utskriftsformat
+1715	Färg
+1716	&Huvudtitel:
+1717	Svartvit med Symbol
+1718	Skriver nu ut:
+1719	Sida:
+1720	Exportera
+1721	Exportdestination
+1723	&Välj datamängder och Punkter
+1724	Datamängder att exportera:
+1725	Punkter att exportera:
+1726	Exportera &Vad
+1727	Data att Export
+1728	Export in&ställningar
+1729	Avgränsad
+1730	&Numerisk Precision
+1731	Fil&Namn:
+1732	&Mappar:
+1733	&Skrivare:
+1734	Y-Axel
+1735	Min
+1736	Max
+1738	&PlottStil
+1739	&Jämförande Plottstil
+1740	Rullande datamängder
+1741	&Punkter till graf
+1742	Punktetikett orientering
+1743	Eti&ketter:
+1744	värde:
+1745	GrafAttribut
+1746	Bitparametrar
+1747	DPI
+1750	DPI
+30000	PE15131950
+40000	5_Z\\\\5_C\\\\GfaEWpUbp;2n@njD8O9NC@?;FfT?M1f:
+61219	SANT
+61220	0 16777215 0  0 16777215 0 16777215
+61222	16777215 16777215 16777215 16777215 16777215 16777215
+61735	Kunde ej öppna filen.  Kontrollera så att disken är isatt och felfri.
+61736	Kunde ej skriva till disk.  Disken kan vara skadad.
+61737	Kunde ej initiera printerdrivrutiner.
+61738	The output device does not support raster capabilities.  The print operation will be canceled.
+61739	Kunde ej skriva ut.
+61740	Objektet för stort.  Bara 64 tusen byteskan överföras till skrivbordet. Data kommer att trunkeras.
+61741	Bitmap bredd och höjd måste vara minst 32 och ej över 2000 punkter.
+61742	Bredd och höjd måste vara minst 32 och ej över 10000 enheter.
+61743	Bredd och höjd måste vara minst 32 och ej över 17 tum.
+61744	Bredd och höjd måste vara mellan 25 och 432 millimeters.
+61745	Bredd och höjd måste vara mellan  72 och 1224 punkter.
+61746	Aktuellt bredd/höjd förhållande är mer än 10 till 1.  Detta kommer att producera en svårläst bild.  Ändra bredd/höjd förhållandet.
+61747	Aktuellt bredd/höjd förhållande är mindre än 1 till 3.  Detta kommer att producera en svårläst bild.  Ändra bredd/höjd förhållandet.
+61748	Ett filnamn krävs.
+61749	MetaFiler (*.wmf;*.mfp)|Alla Filer (*.*)||
+61750	Bilder (*.bmp;*.dib)|Alla Filer (*.*)||
+61751	DataFiler (*.dat;*.txt)|Alla Filer (*.*)||
+61752	Svartvitt färgval
+61753	Färgval
+61754	Bakgrund . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61755	Förgrund . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61756	Linje                                                                                   0
+61757	Stapel                                                                                  1
+61758	Punkter                                                                                 2
+61759	Yta                                                                                   3
+61760	Yta, Stackad                                                                  4
+61762	Stapel, Stackad                                                                  6
+61764	Punkter+Bästa linje                                                            8
+61765	Punkter+Bästa Linje II                                                         9
+61766	Histogram                                                                      10
+61767	Hög/Låg                                                                             11
+61768	Hög/Låg/Stängd                                                               11
+61769	Öppen/Hög/Låg/Stängd                                                     a11
+61770	Stick                                                                             b11
+61771	Bubbel                                                                         12
+61772	Punkter+Bästa kurva                                                     13
+61773	Punkter+Bästa kurva II                                                  14
+61774	Punkter+Spline                                                           15
+61775	Spline                                                                           16
+61776	Stick                                                                             1
+61777	Punkter+Linje                                                             17
+61778	Horisontell stapel                                                         18
+61779	Välj minst två punkter.
+61780	Lokal disk
+61781	Nätverksdisk
+61782	CD ROM
+61783	Ram Drive
+61784	5 1/4 Floppy 360K
+61785	5 1/4 Floppy 1.2M
+61786	3 1/2 Floppy 720K
+61787	8 Single Density
+61788	8 Double Density
+61789	Tape Drive
+61790	3 1/2 Floppy 1.44M
+61791	Optical Drive
+61792	3 1/2 Floppy 2.88M
+61793	Enheten svarar ej. Kontrollera att disken är isatt, felfri, och att dörren är stängd.
+61794	Filen finns redan, vill du skriva över den??
+61795	Åtkomst nekad.
+61796	Kunde ej hitta filen.
+61797	Ogilltigt filnamn.
+61798	Skadat medium.
+61799	Kunde ej komma åt disken.
+61800	Kunde ej ladda printerdrivrutiner
+61989	&Färg
+61990	&Svartvit
+61991	Svartvit + &Symbo
+61992	&Stor
+61993	&Mellan
+61994	&Liten
+61999	&Visa X och Y Axel rutnät
+62000	Visa &Y Axel rutnät
+62001	Visa &X Axel rutnät
+62002	&Dölj rutnät
+62003	&Graf
+62004	&Tabell
+62005	&Både graf och tabell
+62006	&Auto
+62007	&Vertikal
+62008	&Horisontell
+62009	Datamängder i graf
+62010	Alla datamängder
+62011	&Vystil
+62012	&typsnittsstorlek
+62013	&Numerisk Precision
+62014	Linje
+62015	Stapel
+62016	Horizontell stapel
+62017	Punkt
+62018	Yta
+62019	Stackad stapel
+62020	Stackad stapel Procent
+62021	Stackad yta
+62022	Stackad yta Procent
+62023	Punkter + Bästa linje
+62024	Punkter + Bästa linje II
+62025	Punkter + Bästa kurva
+62026	Punkter + Bästa kurva II
+62027	Punkter + Linje
+62028	Punkter + Spline
+62029	Spline
+62030	Histogram
+62031	Hög / Låg
+62032	Hög / Låg / Stängd
+62033	Öppen / Hög / Låg / Stängd
+62034	Stick
+62035	Odefinierad
+62036	&Plottningsmetod
+62037	&Skuggor
+62038	Rutnätsalternativ
+62039	 &Framför
+62040	&Graf och/eller Tabell
+62041	&Vad skall tabelleras
+62042	Punktetikett &Orientering
+62043	Jämförande datamängd som &Normal
+62044	Mar&kera datapunkter
+62045	Vis&a beskrivningar
+62046	Undo &Zoom
+62047	&Maximera...
+62048	&Inställningar...
+62049	E&xportera...
+62050	&Hjälp
+62051	Y-Axel värde
+62052	Punkt nummer, Y-axel värde
+62053	Stick
+62054	Bubblor
+62055	&Inkludera etiketter
+62056	X-axel värde, Y-axel värde
+62057	JanFebMarAprMajJunJulAugSepOktNovDec
+62058	SönMånTisOnsTorFreLör
+62059	SMTOTFL
+62060	Både grader och radie
+62061	grader
+62062	Radie
+62063	Både R and X Rings
+62064	R Rings
+62065	X Rings
+62066	Radie Linje Etiketter
+62067	R Ring Etiketter
+62068	Grader, Radie
+62069	R Värden, X Värden
+62070	Procent
+62071	värde
+62072	Ingen gruppering
+62073	1% och Under
+62074	2% och Under
+62075	3% och Under
+62076	4% och Under
+62077	5% och Under
+62078	Data &Ettiketter som
+62079	&Gruppera procentuellt
+62080	Bit värden
+62081	Bitar procentuellt
+62082	* Annat
+62083	* Noll data
+62084	% Annat *
+62085	Akum %
+62086	Procentuellt
+62087	* Sum per pt
+62088	* Min all pts
+62089	* Min per pt
+62090	* Max all pts
+62091	* Max per pt
+62092	* Avg all pts
+62093	* Avg per pt
+62094	* u+1s all pts
+62095	* u+1s per pt
+62096	* u+2s all pts
+62097	* u+2s per pt
+62098	* u+3s all pts
+62099	* u+3s per pt
+62100	* u-1s all pts
+62101	* u-1s per pt
+62102	* u-2s all pts
+62103	* u-2s per pt
+62104	* u-3s all pts
+62105	* u-3s per pt
+62106	Procent av 100
+62107	Händelser
+62108	Exporerar
+62109	Skriv ut...
+62110	Exportera...
+62111	Exportera
+62112	Punkter
+62113	Hela sidan
+62114	Ingen speciell storlek
+62115	Enheter
+62116	Millimeter
+62117	Tum
+62118	Punkter
+62119	Öppna fil
+62120	Spara som
+62121	Borttagbar
+62122	Skriver ut
+62123	på
+62124	Okännt
+62125	Liggande
+62126	Stående
+62127	Radie etiketter
+62128	R Ring etiketter
+62129	Inte tillräckligt många bitar, Byt till normala bitparametrar.
+62130	Ursprungligt
+62131	Maximera...
+62132	Inställningar...
+62133	Exportera...
+62134	Horz stapel Stackad
+62135	Horz stapel Stackad Procent 
+62136	Horz stapel Stackad                                                          19
+62138	Steg
+62139	Steg                                                                                21
+62140	JPEGS (*.jpg)|Alla Filer (*.*)||
+62141	Band                                                                             22
+62142	Konturlinjer                                                               23
+62143	Konturfärger                                                               24
+62144	Band
+62145	Konturlinjer
+62146	Konturfärger
+62147	GigaSoft ProEssentials v6, Copyright (c) 1994-2006 Gigasoft, Inc., All Rights Reserved.
+62148	Trådmodell
+62149	Yta
+62150	Yta med skuggor
+62151	Yta med konturer
+62152	Punkter
+62153	Trådmodell                                                                  25
+62154	Yta                                                                                 26
+62155	Yta med skuggor                                                              27
+62156	Yta med konturer                                                             29
+62157	Punkter                                                                      28
+62158	Trådmodell med färg
+62159	Solid med färg
+62160	Pixel Färger
+62161	Inga Decimaler
+62162	&1 Decimal
+62163	&2 Decimaler
+62164	&3 Decimaler
+62165	&4 Decimaler
+62166	&5 Decimaler
+62167	&6 Decimaler
+62168	&7 Decimaler
+62169	&under rotation
+62170	&Alltid
+62171	A&ldrig
+62172	&Visa omslutande box
+62173	&Roterande animation
+62174	15 grader
+62175	10 grader
+62176	5 grader
+62177	2 grader
+62178	1 grader
+62179	-1 grader
+62180	-2 grader
+62181	-5 grader
+62182	-10 grader
+62183	-15 grader
+62184	&Rotationsökning
+62185	&Trådmodell
+62186	&Plottningsstil
+62187	&Alla detaljer
+62188	Rotations &Detaljer
+62189	Vit
+62190	Färg
+62191	&Skuggstil
+62192	Off
+62193	Konturlinjer överst
+62194	Konturlinjer underst
+62195	Konturfärger överst
+62196	Konturfärger underst
+62197	&2D kontur
+62198	Av
+62199	Skugga
+62200	3D
+62201	X och Z Axel Plan
+62202	Y Axel Plan
+62203	p n u m K M B T
+62204	&Visa beskrivningar
+62205	Överst
+62206	Underst
+62207	Vänster
+62208	Höger
+62209	&Beskrivningsinställningar
+62210	&Ingen ram
+62211	&Tunn linje
+62212	&Skugga
+62213	&Insjunken
+62214	&Ramstil
+62215	Axlar &Grupperade Tillsammans
+62216	Axlar &Sepparerade
+62217	&Multipla Axlar Stil
+62218	&Fixerad typsnittsstorlek
+62219	&Visa beskrivningar
+62220	Visa T&abellbeskrivningar
+62221	&Innanför axel
+62222	&Utanför axel
+62223	Tunna rutnätslinjer
+62224	Tjocka rutnätslinjer
+62225	Prickade rutnätslinjer
+62226	Streckade rutnätslinjer
+62227	En punkts rutnätslinjer
+62228	Ljus insjunken
+62229	Ljus skugga
+62230	Ljus linje
+62231	Ljus utan ram
+62232	Mellan insjunken
+62233	Mellan skugga
+62234	Mellan linje
+62235	Mellan utan ram
+62236	Mörk insjunken
+62237	Mörk skugga
+62238	Mörk linje
+62239	Mörk utan ram
+62240	&Snabbstilar
+62241	Utöka Y-Axel markeringar
+62242	PNG (*.png)|Alla Filer (*.*)||
+62243	Bitmap / Gradient
+62244	Utöka X-Axel markeringar
+62245	Utöka grad markeringar
+62246	Utöka Radie markeringar
+62247	Insjunken
+62248	Skugga
+62249	Ingen ram
+62250	Linje
+62251	Mörk
+62252	Mellan
+62253	Ljus
+62255	Max

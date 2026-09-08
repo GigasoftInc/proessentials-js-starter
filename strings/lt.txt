@@ -1,0 +1,568 @@
+1	Eksportuoti
+9	&Pagalba
+201	Stalo priekinis planas
+202	Stalo fonas
+203	Šešėlio spalva
+204	Grafikas priekinis planas
+205	Grafiko fonas
+206	Stalo priekinis planas
+207	Lentelės fonas
+419	Pradžia
+420	Šešėlis
+421	Linija
+422	Nė vienas
+423	Pradžia
+424	Šešėlis
+425	Linija
+426	Nė vienas
+427	Pradžia
+428	Šešėlis
+429	Linija
+430	Nė vienas
+1010	ryškus
+1011	kursyvas
+1012	pabraukti
+1014	Didelis šriftas
+1015	kursyvas
+1016	pabraukti
+1018	drąsus
+1019	kursyvas
+1020	pabraukti
+1022	&Lentelės duomenys:
+1024	&Mainų lenta
+1025	&Failas
+1026	&Spausdintuvas
+1030	Na&ršyti
+1041	Plotis:
+1042	/ Aukštis:
+1043	Vienetai
+1055	Nėra konkretaus dydžio
+1056	Milimetrai
+1057	Colių
+1058	Taškai
+1060	Failų sąrašas ir tipai:
+1062	Dri &ves:
+1071	&Sąranka ...
+1074	Statinis
+1076	Orientacija:
+1079	Portretas
+1080	dydžio etiketė
+1081	šaltinio etiketė
+1083	Pogrupiai į &grafiką
+1084	
+1086	Didelis
+1087	Vidutinis
+1088	Mažas
+1090	Procentai
+1091	Vertė
+1101	Spalva
+1102	Vienspalvis
+1103	Vienspalvis + simboliai
+1106	Grafikas
+1107	Lentelė
+1108	Tiek
+1111	Grafinis
+1112	Visi pogrupiai
+1400	&EML
+1401	&WMF
+1402	&BMP
+1403	&JPG
+1404	&PNG
+1405	&SVG
+1406	&Tik tekstas / duomenys
+1508	Visi duomenys
+1509	Pasirinkti duomenys
+1510	Duomenys
+1511	Duomenys ir etiketės
+1516	Lentelė
+1517	Sąrašas
+1518	Pagalba
+1519	Pogrupiai / taškai
+1520	Taškai / pogrupiai
+1521	Dabartinis tikslumas
+1522	Maksimalus tikslumas
+1525	Eilė prieš stulpelį
+1526	1 tipas
+1527	2 tipas
+1528	Pasirinktiniai gabalai išskaidyti
+1529	Pasirinktiniai gabalai į diagramą
+1530	Slenkančių pogrupių spausdinimo parinktys
+1531	Spausdinti dabartinį grafiką.
+1536	grafikai.
+1538	Spausdinti pavadinimą
+1539	1
+1540	Tiek
+1541	Y
+1542	X
+1543	Nė vienas
+1549	Palyginimai kaip ir įprasti
+1552	Nuoseklus
+1553	Pasirinkta
+1556	Objekto dydis
+1557	Tinklelis priešais duomenis
+1558	Tab
+1559	Kablelis
+1560	0
+1561	1
+1562	2
+1563	3
+1564	4
+1565	5
+1566	6
+1567	7
+1568	Šešėlis
+1569	Linija
+1570	Be sienos
+1571	3D įvestis
+1572	Šaltinis:
+1573	Popierius:
+1574	Nė vienas
+1575	1%
+1576	2%
+1577	3%
+1578	4%
+1579	5%
+1607	&Ašys
+1608	Pogrupiai prie &lentelės
+1609	Rodyti ir komentarus
+1610	&Fiksuotas šriftas
+1611	Automatinis
+1612	Vertikalus
+1613	Horizontalus
+1614	Pasviręs
+1615	&Pažymėti duomenų taškus
+1617	Nors sukasi
+1618	Visada
+1619	Niekada
+1621	Vielinis rėmas
+1622	Braižymo metodas
+1623	Pilnas
+1624	Rotacijos animacija
+1625	Balta
+1626	Spalva
+1627	IŠJUNGTA
+1628	Linijos viršuje
+1629	Linijos apačioje
+1630	Spalvos viršuje
+1631	Spalvos apačioje
+1634	Palyginimo braižymo metodas
+1635	2D kontūras
+1636	Braižymo metodas
+1637	Šešėlinis stilius
+1641	Taško tipas:
+1642	Linijos tipas:
+1645	Automatinis
+1646	Automatinis
+1647	Linijinis
+1648	Žurnalas
+1649	Linijinis
+1650	Žurnalas
+1653	Min
+1654	Maks
+1655	Min. / Maks
+1656	Min
+1657	Maks
+1658	Min. / Maks
+1659	Linijinis
+1660	Žurnalas
+1661	Automatinis
+1662	Min
+1663	Maks
+1666	Min. / Maks
+1667	Linijinis
+1668	Žurnalas
+1669	Automatinis
+1670	Min
+1671	Maks
+1674	Min. / Maks
+1675	X ašis
+1676	Viršutinė X ašis
+1677	Dešinė Y ašis
+1678	Min
+1680	Maks
+1681	Min
+1682	Maks
+1683	Min
+1684	Maks
+1685	Išjungta
+1686	Šešėlis
+1687	3D
+1688	&Žiūrėjimo stilius
+1689	&Šrifto dydis
+1690	&Skaitmeninis tikslumas
+1691	&Tinklelio linijos
+1692	Pasienio stilius
+1693	3D
+1694	&Duomenų etiketės tipas
+1695	&Grupės procentai
+1696	Rodyti ribojančius rėmelius
+1697	Sukimosi detalė
+1698	Sukimosi prieaugis
+1701	Bitmap / Gradient Styles
+1711	Tamsi:
+1712	Vidutinis:
+1713	Šviesa:
+1714	Spaudos stilius
+1715	Spalva
+1716	&Pagrindinis pavadinimas:
+1717	Mono plius simbolis
+1718	Šiuo metu spausdinama:
+1719	Puslapis:
+1720	Eksportuoti
+1721	Eksporto paskirtis
+1723	&Pasirinkite pogrupius ir taškus
+1724	Eksportuojami pogrupiai:
+1725	Eksporto taškai:
+1726	Eksportuoti ir ką
+1727	Duomenys, kuriuos reikia eksportuoti
+1728	Eksportuoti ir stilių
+1729	Apribota
+1730	&Skaitmeninis tikslumas
+1731	Failo pavadinimas:
+1732	&Katalogai:
+1733	&Spausdintuvas:
+1734	Y ašis
+1735	Min
+1736	Maks
+1738	&Sklypo stilius
+1739	&Sklypo stiliaus palyginimas
+1740	Slenkantys pogrupiai
+1741	&Nurodo grafiką
+1742	Taškų etiketės orientacija
+1743	Pogrupis / taškas / ašis ir etiketės:
+1744	pavyzdys:
+1745	Grafiko atributai
+1746	Gabalų parametrai
+1747	DPI
+1750	DPI
+30000	PE15131950
+40000	5_Z\\\\5_C\\\\GfaEWpUbp;2n@njD8O9NC@?;FfT?M1f:
+61219	TIESA
+61220	0 16777215 0 0 16777215 0 16777215
+61222	16777215 16777215 16777215 16777215 16777215 16777215
+61735	Bandant atidaryti failą įvyko klaida. Įsitikinkite, kad disko durelės uždarytos, o paskirties diskas yra suformatuotas ir be klaidų.
+61736	Klaida rašant informaciją į diską. Diskas gali būti sugadintas.
+61737	Bandant inicijuoti spausdintuvo tvarkyklę įvyko klaida.
+61738	Išvesties įrenginys nepalaiko rastrinių galimybių. Spausdinimo operacija bus atšaukta.
+61739	Bandant pradėti spausdinimo operaciją įvyko klaida.
+61740	Objektas didelis. Į mainų sritį galima perkelti tik 64 tūkstančius baitų. Duomenys bus sutrumpinti.
+61741	Bitų žemėlapio pločio ir aukščio matmenys turi būti bent 32 ir ne didesni nei 2000 taškų.
+61742	Vaizdo plotis ir aukštis turi būti nuo 1 iki 10000 vienetų.
+61743	Vaizdo plotis ir aukštis turi būti nuo 1 iki 17 colių.
+61744	Vaizdo plotis ir aukštis turi būti nuo 25 iki 432 milimetrų.
+61745	Vaizdo plotis ir aukštis turi būti nuo 72 iki 1224 taškų.
+61746	Dabartinis pločio ir aukščio santykis yra didesnis nei 10: 1. Tai padarys sunkiai įskaitomą vaizdą. Pakoreguokite išvesties matmenis.
+61747	Dabartinis pločio ir aukščio santykis yra mažesnis nei 1 iki 3: taip gaunamas sunkiai įskaitomas vaizdas. Pakoreguokite išvesties matmenis.
+61748	Būtinas failo vardas.
+61749	MetaFiles (*.wmf;*.mfp)|All Files (*.*)||
+61750	Bitmaps (*.bmp;*.dib)|All Files (*.*)||
+61751	Data Files (*.dat;*.txt)|All Files (*.*)||
+61752	Vienspalvis spalvų pasirinkimas
+61753	Spalvų pasirinkimas
+61754	Fono spalva . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61755	Pirmojo plano spalva. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61756	Line                                                                    0
+61757	Bar                                                                     1
+61758	Points                                                                  2
+61759	Area                                                                    3
+61760	Area, Stacked                                                           4
+61762	Bar, Stacked                                                            6
+61764	Points+BestFitLine                                                      8
+61765	Points+BestFitLine II                                                   9
+61766	Histogram                                                              10
+61767	High/Low                                                               11
+61768	High/Low/Close                                                         11
+61769	Open/High/Low/Close                                                   a11
+61770	Candle Stick                                                          b11
+61771	Bubble                                                                 12
+61772	Points+BestFitCurve                                                    13
+61773	Points+BestFitCurve II                                                 14
+61774	Points+Spline                                                          15
+61775	Spline                                                                 16
+61776	Stick                                                                   1
+61777	Points+Line                                                            17
+61778	Horizontal Bar                                                         18
+61779	Turi būti pasirinkti bent du taškai.
+61780	Fiksuotas diskas
+61781	Tinklo diskas
+61782	CD-ROM
+61783	„Ram Drive“
+61784	5 1/4 diskelis 360K
+61785	5 1/4 diskelio 1,2M
+61786	3 1/2 diskelio 720K
+61787	8 Vieno tankio
+61788	8 Dvigubas tankis
+61789	Juostos pavara
+61790	3 1/2 diskelio 1,44M
+61791	Optinis įrenginys
+61792	3 1/2 diskelio 2,88M
+61793	Diskas neatsako. Įsitikinkite, kad yra suformatuotas diskas, kuriame nėra klaidų ir ar disko durys uždarytos.
+61794	Failas egzistuoja. Ar norite perrašyti dabartinį failą?
+61795	Leidimas atsisakytas.
+61796	Failas nerastas.
+61797	Neteisingas failo pavadinimas.
+61798	Medija yra pažeista.
+61799	Klaida pasiekiant diską.
+61800	Bandant įkelti spausdintuvo tvarkyklę įvyko klaida
+61989	&Spalva
+61990	&Nespalvotas
+61991	Vienspalvis + ir simbolis
+61992	&Didelis
+61993	&Vidutinis
+61994	&Mažas
+61999	&Rodyti X ir Y ašies tinklelio linijas
+62000	„Show &Y“ ašies tinklelio linijos
+62001	Rodyti &X ašies tinklelio linijas
+62002	&Slėpti tinklelio linijas
+62003	&Grafikas
+62004	&Lentelė
+62005	&Ir grafikas, ir lentelė
+62006	&Automatinis
+62007	&Vertikalus
+62008	&Horizontalus
+62009	Grafiniai pogrupiai
+62010	Visi pogrupiai
+62011	&Žiūrėjimo stilius
+62012	&Šrifto dydis
+62013	&Skaitmeninis tikslumas
+62014	Linija
+62015	Baras
+62016	Horizontali juosta
+62017	Taškas
+62018	Plotas
+62019	Baras sukrautas
+62020	Baras sukrautas procentais
+62021	Plotas sukrautas
+62022	Ploto sukrautas procentas
+62023	Taškai + „Best Fit Line“
+62024	Taškai + „Best Fit Line II“
+62025	Taškai + geriausia tinkamumo kreivė
+62026	Taškai + Geriausia II kreivė
+62027	Taškai + linija
+62028	Taškai + Spline
+62029	Spline
+62030	Histograma
+62031	Didelis / Žemas
+62032	Aukštas / Žemas / Uždaryti
+62033	Atidaryti / aukštai / žemai / uždaryti
+62034	Žvakių lazdelė
+62035	Neapibrėžtas
+62036	&Braižymo metodas
+62037	&Duomenų šešėliai
+62038	Tinklelio parinktys
+62039	Tinklelis &priekyje
+62040	&Grafikas ir (arba) lentelė
+62041	&Ką lentelėje
+62042	Taškų etiketė ir orientacija
+62043	Palyginkite pogrupius kaip ir įprastus
+62044	Pažymėti duomenų taškus
+62045	Rodyti ir komentarus
+62046	Anuliuoti ir priartinti
+62047	&Padidinti ...
+62048	&Tinkinimo dialogas ...
+62049	El. Pašto &dialogo langas ...
+62050	&Pagalba
+62051	Y ašies vertė
+62052	Taškų skaičius, Y ašies vertė
+62053	Laikykis
+62054	Burbulas
+62055	&Įtraukti duomenų etiketes
+62056	X ašies vertė, Y ašies vertė
+62057	JanFebMarAprMayJunJulAugSepOctNovDec
+62058	SunMonTueWedThuFriSat
+62059	SMTWTFS
+62060	Tiek laipsniai, tiek spindulys
+62061	Laipsniai
+62062	Spindulys
+62063	Tiek R, tiek X žiedai
+62064	Žiedai
+62065	X žiedai
+62066	Radius Line etiketės
+62067	R žiedų etiketės
+62068	Laipsniai, spindulys
+62069	R vertės, X vertės
+62070	Procentai
+62071	Vertė
+62072	Nėra grupavimo
+62073	1% ir mažiau
+62074	2% ir mažiau
+62075	3% ir mažiau
+62076	4% ir mažiau
+62077	5% ir mažiau
+62078	Duomenys ir etiketės kaip
+62079	&Grupės procentai
+62080	Skiltelių vertybės
+62081	Skiltelių procentai
+62082	* Kita
+62083	* Nuliniai duomenys
+62084	% Kita *
+62085	Kaupti%
+62086	Procentai
+62087	* Suma už pt
+62088	* Min. Visi taškai
+62089	* Min. Už pt
+62090	* Maks. Visi tšk
+62091	* Maks. Už pt
+62092	* Vid. Visi taškai
+62093	* Vid. Už pt
+62094	* u + 1s visi taškai
+62095	* u + 1 s už pt
+62096	* u + 2s visi taškai
+62097	* u + 2 s už pt
+62098	* u + 3s visi taškai
+62099	* u + 3 s už pt
+62100	* u-1s visi taškai
+62101	* u-1 už pt
+62102	* u-2s visi taškai
+62103	* u-2 už pt
+62104	* u-3s visi taškai
+62105	* u-3 už pt
+62106	100 procentų
+62107	Įvykiai
+62108	Eksportavimas
+62109	Spausdinti ...
+62110	Eksportuoti ...
+62111	Eksportuoti
+62112	Pikseliai
+62113	Visas puslapis
+62114	Nėra konkretaus dydžio
+62115	Vienetai
+62116	Milimetrai
+62117	Colių
+62118	Taškai
+62119	Atidaryti failą
+62120	Išsaugoti kaip
+62121	Nuimamas
+62122	Spauda
+62123	ant
+62124	Nežinoma
+62125	Portretas
+62126	Peizažas
+62127	Spindulio etiketės
+62128	R žiedų etiketės
+62129	Nepakanka griežinėlių, pereinama prie numatytųjų griežinėlių parametrų.
+62130	Originalas
+62131	Padidinti ...
+62132	Tinkinimas ...
+62133	Eksportuoti ...
+62134	„Horz“ baras sukrautas
+62135	„Horz Bar“ sukrautas procentas
+62136	„Horz“ baras sukrautas 19
+62138	Žingsnis
+62139	21 žingsnis
+62140	JPEGS (* .jpg) | Visi failai (*. *) ||
+62141	Juosta 22
+62142	Kontūrinės linijos 23
+62143	Kontūro spalvos 24
+62144	Kaspinas
+62145	Kontūrinės linijos
+62146	Kontūro spalvos
+62147	„GigaSoft ProEssentials v6“, autorių teisės (c) 1994–2006 „Gigasoft, Inc.“, visos teisės saugomos.
+62148	Vielos rėmas
+62149	Paviršius
+62150	Paviršius su šešėliais
+62151	Paviršius su kontūru
+62152	Pikseliai
+62153	Vielos rėmas 25
+62154	Paviršius 26
+62155	Paviršius su šešėliu 27
+62156	Paviršius su kontūru 29
+62157	Pikseliai 28
+62158	„WireFrame“ spalva
+62159	Vienoda spalva
+62160	„Pixel Color“
+62161	Dešimtainių skaitmenų nėra
+62162	&1 dešimtainis skaitmuo
+62163	&2 skaitmenys po kablelio
+62164	&3 ženklai po kablelio
+62165	&4 skaitmenys po kablelio
+62166	&5 ženklai po kablelio
+62167	&6 skaitmenys po kablelio
+62168	&7 skaitmenys po kablelio
+62169	&Besisukant
+62170	&Visada
+62171	&Niekada
+62172	&Rodyti ribojančią dėžutę
+62173	&Sukimo animacija
+62174	15 laipsnių
+62175	10 laipsnių
+62176	5 laipsniai
+62177	2 laipsniai
+62178	1 laipsnis
+62179	-1 laipsnis
+62180	-2 laipsnių
+62181	-5 laipsnių
+62182	-10 laipsnių
+62183	-15 laipsnių
+62184	&Sukimo padidėjimas
+62185	&Vielos rėmas
+62186	&Braižymo stilius
+62187	&Išsami informacija
+62188	Sukimas ir detalės
+62189	Balta
+62190	Spalva
+62191	&Šešėlinis stilius
+62192	Išjungta
+62193	Kontūrinės linijos viršuje
+62194	Kontūro linijos apačioje
+62195	Kontūro spalvos viršuje
+62196	Kontūro spalvos apačioje
+62197	&2D kontūras
+62198	Išjungta
+62199	Šešėlis
+62200	3D
+62201	X ir Z ašies plokštuma
+62202	Y ašies lėktuvai
+62203	pnum KMBT
+62204	&Slėpti legendą
+62205	Į viršų
+62206	Apačia
+62207	Kairėje
+62208	Teisingai
+62209	&Legendos stilius
+62210	&Nėra sienos
+62211	&Plona linija
+62212	&Šešėlis
+62213	&Įterpti
+62214	&Ribos stilius
+62215	Ašys ir sugrupuoti kartu
+62216	Ašys ir atskirai
+62217	&Kelių ašių stilius
+62218	&Fiksuotas šrifto dydis
+62219	&Rodyti legendą
+62220	Rodyti lentelę ir komentarus
+62221	&Vidinė ašis
+62222	&Išorinė ašis
+62223	Plonos tinklelio linijos
+62224	Storos tinklelio linijos
+62225	Punktyrinės tinklelio linijos
+62226	Brūkšninės tinklelio linijos
+62227	„One Pixel Grid“ linijos
+62228	Šviesos įėjimas
+62229	Šviesos šešėlis
+62230	Šviesos linija
+62231	Šviesa be sienos
+62232	Vidutinio dydžio
+62233	Vidutinis šešėlis
+62234	Vidutinė linija
+62235	Vidutinis be sienos
+62236	Tamsi pradžia
+62237	Tamsus šešėlis
+62238	Tamsi linija
+62239	Tamsiai be sienos
+62240	&Greitas stilius
+62241	Išplėskite Y ašies varneles
+62242	PNG (* .png) | Visi failai (*. *) ||
+62243	Bitmap / Gradient Styles
+62244	Išplėskite X ašies varneles
+62245	Išplėskite laipsnių žymes
+62246	Išplėskite spindulio varneles
+62247	Pradžia
+62248	Šešėlis
+62249	Be sienos
+62250	Linija
+62251	Tamsu
+62252	Vidutinis
+62253	Šviesa
+62254	Pasviręs
+62255	Maks

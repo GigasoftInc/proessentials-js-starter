@@ -1,0 +1,568 @@
+1	Eksportuj
+9	&Pomoc
+201	Pierwszy plan pulpitu
+202	Tło pulpitu
+203	Kolor cieniowania
+204	Pierwszy plan grafu
+205	Tło grafu
+206	Pierwszy plan tabeli
+207	Tło tabeli
+419	Wstawka
+420	Cieniowanie
+421	Linia
+422	Żadne
+423	Wstawka
+424	Cieniowanie
+425	Linia
+426	Żadne
+427	Wstawka
+428	Cieniowanie
+429	Linia
+430	Żadne
+1010	pogrubienie
+1011	kursywa
+1012	podkreślenie
+1014	Duża czcionka
+1015	kursywa
+1016	podkreślenie
+1018	pogrubienie
+1019	kursywa
+1020	podkreślenie
+1022	&Dane w tabeli:
+1024	&Schowek
+1025	&Plik
+1026	&Drukarka
+1030	P&rzeglądaj
+1041	Szerokość:
+1042	/ Wysokość:
+1043	Jednostki
+1055	Bez rozmiaru
+1056	Milimetrów
+1057	Cali
+1058	Punkty
+1060	Pokaż pliki &typu:
+1062	Napę&dy:
+1071	&Konfiguracja...
+1074	Statyczny
+1076	Orientacja:
+1079	Portret
+1080	rozmiar etykiety
+1081	etykieta źródłowa
+1083	Podzestawy do &grafu
+1084	
+1086	Duża
+1087	Średnia
+1088	Mała
+1090	Procent
+1091	Wartość
+1101	Kolor
+1102	Monochromatyczny
+1103	Monochromatyczny + symbole
+1106	grafy
+1107	Tabela
+1108	Oba
+1111	Z grafem
+1112	Wszystkie podzestawy
+1400	&EMF
+1401	&WMF
+1402	&BMP
+1403	&JPG
+1404	&PNG
+1405	&SVG
+1406	&Tylko tekst / dane
+1508	Wszystkie dane
+1509	Wybrane dane
+1510	Dane
+1511	Dane i etykiety
+1516	Tabela
+1517	Lista
+1518	Pomoc
+1519	Podzestawy / punkty
+1520	Punkty / podzestawy
+1521	Bieżąca dokładność
+1522	Dokładność maksymalna
+1525	Wiersze x kolumny
+1526	Typ 1
+1527	Typ 2
+1528	Wycinki niestandardowe do rozwinięcia
+1529	Wycinki niestandardowe do zapisania
+1530	Przewijanie opcji drukowania podzestawów
+1531	Drukuj bieżący graf
+1536	grafy
+1538	Nazwa wydruku
+1539	1
+1540	Oba
+1541	Y
+1542	X
+1543	Żadne
+1549	Porównania jako &normalne
+1552	Kolejne
+1553	Wybrane
+1556	Rozmiar obiektu
+1557	Siatka nad danymi
+1558	Tabulator
+1559	Przecinek
+1560	0
+1561	1
+1562	2
+1563	3
+1564	4
+1565	5
+1566	6
+1567	7
+1568	Cieniowanie
+1569	Linia
+1570	Bez obramowania
+1571	Wstawka 3D
+1572	Źródło:
+1573	Papier:
+1574	Żadne
+1575	1%
+1576	2%
+1577	3%
+1578	4%
+1579	5%
+1607	&Osie
+1608	Podzestawy do &tabeli
+1609	Wyświetl &komentarze
+1610	&Czcionka stała
+1611	Automatycznie
+1612	Pionowo
+1613	Poziomo
+1614	Ukośnie
+1615	&Oznacz punkty danych
+1617	Podczas obracania
+1618	Zawsze
+1619	Nigdy
+1621	Obraz szkieletowy
+1622	Metoda kreślenia
+1623	Pełny
+1624	Obrót z animacją
+1625	Biały
+1626	Kolor
+1627	WYŁ.
+1628	Linie na wierzchu
+1629	Linie na spodzie
+1630	Kolory na wierzchu
+1631	Kolory na spodzie
+1634	Porównanie metod kreślenia
+1635	Kontur 2D
+1636	Metoda kreślenia
+1637	Styl cieniowania
+1641	Typ punktu:
+1642	Typ linii:
+1645	Automatycznie
+1646	Automatycznie
+1647	Liniowo
+1648	Dziennik
+1649	Liniowo
+1650	Dziennik
+1653	Min.
+1654	Maks.
+1655	Min./maks.
+1656	Min.
+1657	Maks.
+1658	Min./maks.
+1659	Liniowo
+1660	Dziennik
+1661	Automatycznie
+1662	Min.
+1663	Maks.
+1666	Min./maks.
+1667	Liniowo
+1668	Dziennik
+1669	Automatycznie
+1670	Min.
+1671	Maks.
+1674	Min./maks.
+1675	Oś X
+1676	Górna oś X
+1677	Prawa oś Y
+1678	Min.
+1680	Maks.
+1681	Min.
+1682	Maks.
+1683	Min.
+1684	Maks.
+1685	Wył.
+1686	Cieniowanie
+1687	3D
+1688	&Styl podglądu
+1689	&Wielkość czcionki
+1690	&Dokładność liczbowa
+1691	&Linie siatki
+1692	Styl obramowania
+1693	3D
+1694	&Typ etykiety danych
+1695	&Procent grup
+1696	Pokaż ramkę ograniczającą
+1697	Szczegóły obracania
+1698	Skok obrotów
+1701	Style mapy bitowej / gradacji
+1711	Ciemne:
+1712	Średnie:
+1713	Jasne:
+1714	Styl drukowania
+1715	Kolor
+1716	&Tytuł główny:
+1717	Monochromatyczny + symbole
+1718	Obecnie trwa drukowanie:
+1719	Strona:
+1720	Eksport
+1721	Miejsce docelowe eksportu
+1723	&Wybierz podzestawy i punkty
+1724	Podzestawy do wyeksportowania:
+1725	Punkty do wyeksportowania:
+1726	Co &eksportować
+1727	Dane do wyeksportowania
+1728	Eksportuj &styl
+1729	Nieograniczone
+1730	Dokładność &liczbowa
+1731	&Nazwa pliku:
+1732	&Katalogi:
+1733	&Drukarka:
+1734	Oś Y
+1735	Min.
+1736	Maks.
+1738	&Styl kreślenia
+1739	&Porównanie stylów kreślenia
+1740	Przewijanie podzestawów
+1741	&Punkty do grafu
+1742	Orientacja etykiety
+1743	podzestaw / punkt / osie &etykiety:
+1744	przykład:
+1745	Atrybuty grafu
+1746	Parametry wycinków
+1747	DPI
+1750	DPI
+30000	PE15131950
+40000	5_Z\\\\5_C\\\\GfaEWpUbp;2n@njD8O9NC@?;FfT?M1f:
+61219	TRUE
+61220	0 16777215 0  0 16777215 0 16777215
+61222	16777215 16777215 16777215 16777215 16777215 16777215
+61735	Błąd podczas próby otwierania pliku. Upewnij się, że kieszeń napędu jest zamknięta, a dysk docelowy sformatowany i pozbawiony błędów.
+61736	Błąd podczas zapisu na dysku. Dysk może być uszkodzony.
+61737	Wystąpił błąd podczas próby uruchomienia sterownika drukarki.
+61738	Urządzenie wyjściowe nie obsługuje funkcji rastrowania. Operacja drukowania zostanie anulowana.
+61739	Wystąpił błąd podczas próby rozpoczęcia operacji drukowania.
+61740	Obiekt jest zbyt duży. Do schowka można przenieść tylko 64.000 bajtów. Część danych zostanie obcięta.
+61741	Szerokość i wysokość mapy bitowej musi mieścić się w zakresie od 32 do 2000 pikseli.
+61742	Szerokość i wysokość obrazu musi mieścić się w zakresie od 1 do 10000 jednostek.
+61743	Szerokość i wysokość obrazu musi mieścić się w zakresie od 1 do 17 cali.
+61744	Szerokość i wysokość obrazu musi mieścić się w zakresie od 25 do 432 millimetrów.
+61745	Szerokość i wysokość obrazu musi mieścić się w zakresie od 72 do 1224 punktów.
+61746	Bieżący współczynnik szerokości do wysokości jest większy niż 10:1. Spowoduje to powstanie obrazu trudnego do odczytania. Zmień wymiary wyjściowe.
+61747	Bieżący współczynnik szerokości do wysokości jest mniejszy niż 1:3. Spowoduje to powstanie obrazu trudnego do odczytania. Zmień wymiary wyjściowe.
+61748	Wymagana jest nazwa pliku.
+61749	Metapliki (*.wmf;*.mfp)|Wszystkie pliki (*.*)||
+61750	Mapy bitowe (*.bmp;*.dib)|Wszystkie pliki (*.*)||
+61751	Pliki danych (*.dat;*.txt)|Wszystkie pliki (*.*)||
+61752	Wybór koloru monochromatycznego
+61753	Wybór koloru
+61754	Kolor tła . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61755	Kolor pierwszego planu . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61756	Linia                                                                    0
+61757	Pasek                                                                     1
+61758	Punkty                                                                  2
+61759	Obszar                                                                    3
+61760	Obszar, w stosie                                                           4
+61762	Pasek, w stosie                                                            6
+61764	Punkty+NajlepiejDopasowanaLinia                                                      8
+61765	Punkty+NajlepiejDopasowanaLinia II                                                   9
+61766	Histogram                                                              10
+61767	Wysoki/niski                                                               11
+61768	Wysoki/niski/zamknij                                                         11
+61769	Otwórz/wysoki/niski/zamknij                                                   a11
+61770	Świecznik                                                          b11
+61771	Bąbelek                                                                 12
+61772	Punkty+NajlepiejDopasowanaKrzywa                                                    13
+61773	Punkty+NajlepiejDopasowanaKrzywa II                                                 14
+61774	Punkty+wycinek                                                          15
+61775	Wycinek                                                                 16
+61776	Słupek                                                                   1
+61777	Punkty+linia                                                            17
+61778	Pasek poziomy                                                         18
+61779	Należy wybrać co najmniej dwa punkty.
+61780	Dysk stały.
+61781	Dysk sieciowy
+61782	CD ROM
+61783	Napęd RAM
+61784	Dyskietka 5 1/4 360kB
+61785	Dyskietka 5 1/4 1,2MB
+61786	Dyskietka 3 1/2 720kB
+61787	8, zwykła pojemność
+61788	8, podwójna pojemność
+61789	Napęd taśmowy
+61790	Dyskietka 3 1/2 1,44MB
+61791	Napęd optyczny
+61792	Dyskietka 3 1/2 2,88MB
+61793	Napęd nie odpowiada. Upewnij się, czy dysk jest sformatowany i pozbawiony błędów oraz czy kieszeń napędu jest zamknięta.
+61794	Plik o takiej nazwie już istnieje. Czy chcesz zastąpić bieżący plik?
+61795	Odmowa dostępu.
+61796	Nie znaleziono pliku.
+61797	Nieprawidłowa nazwa pliku.
+61798	Uszkodzony nośnik.
+61799	Błąd podczas próby uzuskania dostępu do dysku.
+61800	Błąd podczas próby załadowania sterownika drukarki.
+61989	&Kolor
+61990	&Monochromatyczny
+61991	Monochromatyczny + &symbol
+61992	&Duży
+61993	&Średni
+61994	&Mały
+61999	&Pokaż linie siatki osi X i Y
+62000	Pokaż linie siatki osi &Y
+62001	Pokaż linie siatki osi &X
+62002	&Ukryj linie siatki
+62003	&Graf
+62004	&Tabela
+62005	&Oba: graf i tabela
+62006	&Automatycznie
+62007	&Pionowo
+62008	&Poziomo
+62009	Podzestawy z grafem
+62010	Wszystkie podzestawy
+62011	&Styl wyświetlania
+62012	&Rozmiar czcionki
+62013	&Dokładność liczbowa
+62014	Linia
+62015	Pasek
+62016	Pasek poziomy
+62017	Punkt
+62018	Obszar
+62019	Pasek w stosie
+62020	Procent pasków w stosie
+62021	Obszar w stosie
+62022	Procent obszarów w stosie
+62023	Punkty + NajlepiejDopasowanaLinia
+62024	Punkty + NajlepiejDopasowanaLinia II
+62025	Punkty + NajlepiejDopasowanaKrzywa
+62026	Punkty + NajlepiejDopasowanaKrzywa II
+62027	Punkty + linia
+62028	Punkty + wycinek
+62029	Wycinek
+62030	Histogram
+62031	Wysoki / niski
+62032	Wysoki / niski / zamknij
+62033	Otwórz / wysoki / niski / zamknij
+62034	Świecznik
+62035	Nieokreślone
+62036	&Metoda kreślenia
+62037	&Cieniowanie danych
+62038	Opcje siatki
+62039	Siatka na &wierzchu
+62040	&Graf i/lub tabela
+62041	&Co do tabeli
+62042	&Orientacja etykiety punktu
+62043	Porównanie podzestawów jako &normalne
+62044	&Oznacz punkty danych
+62045	Pokaż &komentarze
+62046	Cofnij operację &zoom
+62047	&Maksymalizuj...
+62048	Pole dialogowe &dostosowania...
+62049	Pole dialogowe e&ksportu...
+62050	&Pomoc
+62051	Wartość na osi Y
+62052	Numer punktu, Wartość na osi Y
+62053	Słupek
+62054	Bąbelek
+62055	&Dołącz etykiety danych
+62056	Wartość na osi X, Wartość na osi Y
+62057	StyLutMarKwiMajCzeLipSieWrzPaźLisGru
+62058	NiePonWtoŚroCzwPiąSob
+62059	NPWSCPS
+62060	Stopnie i promień
+62061	Stopnie
+62062	Promień
+62063	Pierścienie R i X
+62064	Pierścienie R
+62065	Pierścienie X
+62066	Etykiety linii promienia
+62067	Etykiety pierścienia R
+62068	Stopnie, promień
+62069	Wartości R, Wartości X
+62070	Procent
+62071	Wartość
+62072	Bez grupowania
+62073	1% i mniej
+62074	2% i mniej
+62075	3% i mniej
+62076	4% i mniej
+62077	5% i mniej
+62078	&Etykiety danych jako
+62079	&Procenty grup
+62080	Wartości wycinków
+62081	Procenty wycinków
+62082	* Inne
+62083	* Dane zerowe
+62084	% Inne *
+62085	Narast. %
+62086	Procent
+62087	* Sumar. na pkt
+62088	* Min. wszystkie pkt
+62089	* Min. na pkt
+62090	* Maks. wszystkie pkt
+62091	* Maks. na pkt
+62092	* Śr. wszystkie pkt
+62093	* Śr. na pkt
+62094	* u+1s wszystkie pkt
+62095	* u+1s na pkt
+62096	* u+2s wszystkie pkt
+62097	* u+2s na pkt
+62098	* u+3s wszystkie pkt
+62099	* u+3s na pkt
+62100	* u-1s wszystkie pkt
+62101	* u-1s na pkt
+62102	* u-2s wszystkie pkt
+62103	* u-2s na pkt
+62104	* u-3s wszystkie pkt
+62105	* u-3s na pkt
+62106	Procent ze 100
+62107	Ilość występujących
+62108	Eksportowanie
+62109	Drukuj...
+62110	Eksportuj...
+62111	Eksportuj
+62112	Piksele
+62113	Cała strona
+62114	Bez określonego rozmiaru
+62115	Jednostki
+62116	Milimetry
+62117	Cale
+62118	Punkty
+62119	Otwórz plik
+62120	Zapisz jako
+62121	Usuwalne
+62122	Drukowanie
+62123	w
+62124	Nieznane
+62125	Portret
+62126	Panorama
+62127	Etykiety promienia
+62128	Etykiety pierścienia R
+62129	Zbyt mała ilość wycinków; przełączanie na parametry domyślne wycinków.
+62130	Oryginalny
+62131	Maksymalizuj...
+62132	Dostosowywanie...
+62133	Eksportuj...
+62134	Pasek poziomy w stosie
+62135	Procent pasków poziomych w stosie
+62136	Pasek poziomy w stosie                                                      19
+62138	Krok
+62139	Krok                                                                  21
+62140	JPEGi (*.jpg)|Wszystkie pliki (*.*)||
+62141	Taśma                                                                22
+62142	Linie konturu                                                         23
+62143	Kolory konturu                                                        24
+62144	Taśma
+62145	Linie konturu
+62146	Kolory konturu
+62147	GigaSoft ProEssentials v6, Copyright (c) 1994-2006 Gigasoft, Inc., All Rights Reserved.
+62148	Obraz szkieletowy
+62149	Powierzchnia
+62150	Powierzchnia z cieniowaniem
+62151	Powierzchnia z konturami
+62152	Piksele
+62153	Obraz szkieletowy                                                            25
+62154	Powierzchnia                                                               26
+62155	Powierzchnia z cieniowaniem                                                  27
+62156	Powierzchnia z konturami                                               29
+62157	Piksele                                                                28
+62158	Kolor obrazu szkieletowego
+62159	Jednolity kolor
+62160	Kolor piksela
+62161	Bez miejsc dziesiętnych
+62162	&1 miejsce dziesiętne
+62163	&2 miejsc dziesiętnych
+62164	&3 miejsc dziesiętnych
+62165	&4 miejsc dziesiętnych
+62166	&5 miejsc dziesiętnych
+62167	&6 miejsc dziesiętnych
+62168	&7 miejsc dziesiętnych
+62169	&Podczas obracania
+62170	&Zawsze
+62171	&Nigdy
+62172	&Pokaż ramkę ograniczającą
+62173	&Obrót z animacją
+62174	15 stopni
+62175	10 stopni
+62176	5 stopni
+62177	2 stopnie
+62178	1 stopień
+62179	-1 stopień
+62180	-2 stopnie
+62181	-5 stopni
+62182	-10 stopni
+62183	-15 stopni
+62184	&Skok obrotów
+62185	&Obraz szkieletowy
+62186	&Styl kreślenia
+62187	&Szczegółowo
+62188	Szczegóły &obrotu
+62189	Biały
+62190	Kolor
+62191	&Styl cieniowania
+62192	Wył.
+62193	Linie konturu na wierzchu
+62194	Linie konturu na spodzie
+62195	Kolory konturu na wierzchu
+62196	Kolory konturu na spodzie
+62197	Kontur &2D
+62198	Wył.
+62199	Cieniowanie
+62200	3D
+62201	Płaszczyzna osi X i Z
+62202	Płaszczyzny osi Y
+62203	p n u m K M B T
+62204	&Ukryj legendę
+62205	Góra
+62206	Dół
+62207	Lewa
+62208	Prawa
+62209	Styl &legendy
+62210	&Bez obramowania
+62211	&Cienka linia
+62212	&Cieniowanie
+62213	&Wstawka
+62214	&Styl obramowania
+62215	Osie &zgrupowane razem
+62216	Osie &oddzielnie
+62217	&Styl wielu osi
+62218	&Stały rozmiar czcionki
+62219	&Pokaż legendę
+62220	Pokaż &komentarze tabeli
+62221	Oś &wewnętrzna
+62222	Oś &zewnętrzna
+62223	Cienkie linie siatki
+62224	Grube linie siatki
+62225	Kropkowane linie siatki
+62226	Kreskowane linie siatki
+62227	Jednopikselowe linie siatki
+62228	Jasna wstawka
+62229	Jasne cieniowanie
+62230	Jasna linia
+62231	Jasne bez obramowania
+62232	Średnia wstawka
+62233	Średnie cieniowanie
+62234	Średnia linia
+62235	Średnie bez obramowania
+62236	Ciemna wstawka
+62237	Ciemne cieniowanie
+62238	Ciemna linia
+62239	Ciemne bez obramowania
+62240	&Szybki styl
+62241	Przedłuż znaki sterujące osi Y
+62242	PNG (*.png)|Wszystkie pliki (*.*)||
+62243	Style map bitowych / gradacji
+62244	Przedłuż znaki sterujące osi X
+62245	Przedłuż znaki sterujące stopni
+62246	Przedłuż znaki sterujące promieni
+62247	Wstawka
+62248	Cieniowanie
+62249	Bez obramowania
+62250	Linia
+62251	Ciemna
+62252	Średnia
+62253	Jasna
+62254	Ukośnie
+62255	Maks.

@@ -1,0 +1,588 @@
+1	Izvoz
+9	&Pomoć
+201	Desk Foreground
+202	Desk Background
+203	Boja sjene
+204	Graf naprijed
+205	Graf u pozadini
+206	Tablica naprijed
+207	Tablica u pozadini
+403	
+404	
+405	
+406	
+407	
+408	
+409	
+410	
+411	
+412	
+413	
+414	
+415	
+416	
+417	
+418	
+419	Ubaci
+420	Sjena
+421	Sjena
+422	Nijedan
+423	Ubaci
+424	Sjena
+425	Linija
+426	Nijedan
+427	Ubaci
+428	Sjena
+429	Linija
+430	Nijedan
+1010	Podebljano
+1011	Podcrtano
+1012	Podcrtano
+1014	Veliki Font
+1015	Kurziv
+1016	Podcrtano
+1018	Podebljano
+1019	Podcrtano
+1020	Podcrtano
+1022	Podaci tablice:
+1024	&Međuspremnik
+1025	&Datoteka
+1026	&Printer
+1030	Učitaj
+1041	Širina:
+1042	/ Visina:
+1043	Jedinica
+1055	Bez specifične veličine
+1056	Milimetri
+1057	Inči
+1058	Točke
+1060	Učitaj datoteke tipa:
+1062	Particije:
+1071	&Postavke...
+1074	Statički
+1076	Orijentacija:
+1079	Portret
+1080	Veličina oznake
+1081	Izvor oznake
+1083	Podskupovi grafa
+1084	
+1086	Velika
+1087	Srednja
+1088	Mala
+1090	Postotak
+1091	Vrijednost
+1101	Boja
+1102	Jednobojna slika
+1103	Jednobojna slika + simboli
+1106	Graf
+1107	Tablica
+1108	Oboje
+1111	Grafički
+1112	Sve podskupine
+1400	&EMF
+1401	&WMF
+1402	&BMP
+1403	&JPG
+1404	&PNG
+1405	&SVG
+1406	&Tekst / Samo podaci
+1508	Svi Podaci
+1509	Odabrani Podaci
+1510	Podaci
+1511	Podaci i oznake
+1516	Tablica
+1517	Lista
+1518	Pomoć
+1519	Podskup/točke
+1520	Točke/podskup
+1521	Trenutna preciznost
+1522	Maksimalna preciznost
+1525	Red vs kolona
+1526	Tip 1
+1527	Tip 2
+1528	Custom Slices to Explode
+1529	Određeni dijelovi na grafu.
+1530	Pomicanje podskupa opcija za printanje
+1531	Printanje trenutnog grafa.
+1532	Print from current graph and revolve 
+1536	Grafovi.
+1538	Naslov printanja
+1539	1
+1540	Oboje
+1541	Y
+1542	X
+1543	Niti jedan
+1549	Usporedbe kao normalne
+1552	Sekvencijalno
+1553	Odabrano
+1556	Veličina objekta
+1557	Mreža ispred podataka
+1558	Tab
+1559	Zarez
+1560	0
+1561	1
+1562	2
+1563	3
+1564	4
+1565	5
+1566	6
+1567	7
+1568	Sjena
+1569	Linija
+1570	Bez ruba
+1571	3D umetak
+1572	Izvor:
+1573	Papira:
+1574	Nijedan
+1575	1%
+1576	2% 
+1577	3%
+1578	4%
+1579	5%
+1607	&Osi
+1608	Podskupine tablice
+1609	Prikaži primjedbe
+1610	&Ispravljeni Font
+1611	Automatski
+1612	Vertikalno
+1613	Horizontalno
+1614	Nakrivljeno
+1615	&Označiti točke podataka
+1617	Tijekom rotiranja
+1618	Uvijek
+1619	Nikad
+1621	Wireframe
+1622	Metoda crtanja
+1623	Puno
+1624	Rotacija animacije
+1625	Bijelo
+1626	Boja
+1627	OFF
+1628	Linija na vrh
+1629	Linija na dno
+1630	Boje na vrh
+1631	Boje na dno
+1634	Usporedba metode crtanja
+1635	2D kontura
+1636	Način crtanja
+1637	Stil sjenčanja
+1641	Vrsta točke:
+1642	Vrsta linije:
+1645	Auto 
+1646	Auto 
+1647	Linearno
+1648	Log
+1649	Linearno
+1650	Log
+1653	Min
+1654	Max
+1655	Min/Max
+1656	Min
+1657	Max
+1658	Min/Max
+1659	Linear
+1660	Log
+1661	Auto 
+1662	Min
+1663	Max
+1666	Min/Max
+1667	Linearno
+1668	Log
+1669	Auto 
+1670	Min
+1671	Max
+1674	Min/Max
+1675	X os
+1676	Vrh X Osi
+1677	Desno Y os
+1678	Min
+1680	Max
+1681	Min
+1682	Max
+1683	Min
+1684	Max
+1685	Off
+1686	Sjena
+1687	3D
+1688	&Stil pregleda
+1689	&Veličina fonta
+1690	&Numerička preciznost
+1691	&Linije Mreže
+1692	Stil ruba
+1693	3D
+1694	&Oznaka tipa podataka
+1695	&Postotak grupe
+1696	Prikaži granične kutije
+1697	Detalji rotacije
+1698	Inkrementalna rotacija
+1701	Bitmap / Gradijentni stilovi
+1711	Tamno:
+1712	Srednje:
+1713	Svjetlo:
+1714	Stil printanja
+1715	Boja
+1716	&Glavni naslov:
+1717	Mono plus simbol
+1718	Trenutno printanje:
+1719	Stranica:
+1720	Izvoz
+1721	Destinacija izvoza
+1723	&Odaberi podskup i točke
+1724	Podskupovi za izvoz:
+1725	Točke za izvoz:
+1726	Što izvesti?
+1727	Podaci za izvoz
+1728	Stil izvoza
+1729	Razdjelnik
+1730	&Numerička preciznost
+1731	Ime Datoteke:
+1732	&Direktoriji:
+1733	&Printer:
+1734	Y Os
+1735	Min
+1736	Max
+1738	Stil nacrta
+1739	Usporedba stila nacrta
+1740	Pomicanje podskupova
+1741	&Točke grafa
+1742	Orijentacija oznake točke
+1743	Podskup / Točka / Oznaka osi:
+1744	Primjer:
+1745	Značajke grafa
+1746	Dio parametri
+1747	DPI
+1750	DPI
+30000	PE15131950
+40000	5_Z\\\\5_C\\\\GfaEWpUbp;2n@njD8O9NC@?;FfT?M1f:
+61219	TRUE
+61220	0 16777215 0  0 16777215 0 16777215 
+61222	16777215 16777215 16777215 16777215 16777215 16777215
+61735	Pogreška pri pokušaju otvaranja datoteke. Provjerite je li particija ugašena i krajnji disk formatiran te bez grešaka.
+61736	Greška kod pisanja informacija na disk. Postoji mogućnost da je disk oštećen.
+61737	Pojavila se pogreška kod pokušaja inicijalizacije printera.
+61738	Izlazni uređaj ne podržava raster mogućnsoti. Printanje će biti poništeno.
+61739	Pojavila se pogreška pri pokušaju pokretanja printanja.
+61740	Prevelik objekt. Samo 64 tisuća bitova može biti prenesno u međuspremnik. Podaci će biti skraćeni.
+61741	Bitmap dimenzije širine i visine moraju biti minimalno 32 i manje od 2000 piksela. 
+61742	Dimenzije širine i visine slike moraju biti između 1 i 100000 jedinica.
+61743	Dimenzije širine i visine slike moraju biti između 1 i 17 inča.
+61744	Dimenzije širine i visine slike moraju biti između 25 i 432 milimetra.
+61745	Dimenzije širine i visine slike moraju biti između 25 i 432 točaka.
+61746	Trenutni omjer širine i visine je veći od 10 do 1. Ovo će uzrokovati sliku koju je teško pročitati. Molimo prilagodite izlazne dimenzije.
+61747	Trenutni omjer širine i visine je manji od 1 do 3. Ovo će uzrokovati sliku koju je teško pročitati. Molimo prilagodite izlazne dimenzije.
+61748	Potrebno je upisati ime datotekte.
+61749	MetaFiles (*.wmf;*.mfp)|All Files (*.*)||
+61750	Bitmaps (*.bmp;*.dib)|All Files (*.*)||
+61751	Data Files (*.dat;*.txt)|All Files (*.*)||
+61752	Jednobojni odabir boje
+61753	Odabir boje
+61754	 Pozadinska boja . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61755	 Prednja boja . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+61756	Linija                                                                    0
+61757	Bar                                                                     1
+61758	Točke                                                                  2
+61759	Područje                                                                    3
+61760	Područje, složeno                                                           4
+61761	Area, Stacked Percent                                                   5
+61762	Bar, složeno                                                            6
+61763	Bar, Stacked Percent                                                    7
+61764	Points+BestFitLine                                                      8
+61765	Points+BestFitLine II                                                   9
+61766	Histogram                                                              10
+61767	Visoko/Nisko                                                               11
+61768	Visoko/Nisko/Zatvoriti                                                         11
+61769	Otvoriti/Visoko/Nisko/Zatvoriti                                                   a11
+61770	Candle Stick                                                          b11
+61771	Bubble                                                                 12
+61772	Points+BestFitCurve                                                    13
+61773	Points+BestFitCurve II                                                 14
+61774	Points+Spline                                                          15
+61775	Spline                                                                 16
+61776	Stick                                                                   1
+61777	Points+Line                                                            17
+61778	Horizontalna Linija                                                         18
+61779	Najmanje dvije točke moraju biti odabrane. 
+61780	 Fixed Disk
+61781	 Mrežni folder
+61782	 CD ROM
+61783	 Ram Drive
+61784	 5 1/4 Floppy 360K
+61785	 5 1/4 Floppy 1.2M
+61786	 3 1/2 Floppy 720K
+61787	 8 jednostruka gustoća
+61788	 8 dvostuka gustoća
+61789	 Tape Drive
+61790	 3 1/2 Floppy 1.44M
+61791	 Optička particija
+61792	 3 1/2 Floppy 2.88M
+61793	Particija ne odgovara. Provjerite je li disk formatiran, pojavljuju li se pogreške te je li ugašen.
+61794	Datoteka postoji. Želite li pregaziti postojeću datoteku.
+61795	Dozvola je odbijena.
+61796	Datoteka nije pronađena.
+61797	Nepravilno ime datoteke.
+61798	Medij je oštećen.
+61799	Greška pri dohvaćanju particije.
+61800	Greška pri pokušaju učitavanja printera. 
+61989	&Boja
+61990	&Jednobojna slika
+61991	Jednobojna slika + &simbol
+61992	&Velika
+61993	&Srednja
+61994	&Mala
+61999	&Prikaži X i Y os mrežnih linija
+62000	Prikaži &Y os mrežne linije
+62001	Prikaži &X os mrežne linije
+62002	&Sakrij mrežne linije
+62003	&Graf
+62004	&Tablica
+62005	&I graf i tablica
+62006	&Automatski
+62007	&Vertikalno
+62008	&Horizontalno
+62009	Grafički podskupovi
+62010	Svi podskupovi
+62011	&Pregledni stil
+62012	Veličina fonta
+62013	&Numerička preciznost
+62014	Linija
+62015	Bar
+62016	Horizontalni Bar
+62017	Točka
+62018	Prostor
+62019	Složeni bar
+62020	Postotak složenog bara
+62021	Složena površina
+62022	Postotak složene površine
+62023	Points + Best Fit Line
+62024	Points + Best Fit Line II
+62025	Points + Best Fit Curve
+62026	Points + Best Fit Curve II
+62027	Points + Line
+62028	Points + Spline
+62029	Spline
+62030	Histogram
+62031	Visoko / Nisko
+62032	Visoko / Nisko / Zatvoriti
+62033	Otvoriti / Visoko / Nisko / Zatvoriti
+62034	Candle Stick
+62035	Nedefinirano
+62036	Metoda crtanja.
+62037	Sjene podataka.
+62038	Mogućnosti mreže
+62039	Mreža naprijed
+62040	&Graf i/ili tablica
+62041	Što u tablicu?
+62042	Oznaka i orijantacija točke
+62043	Comparison Subsets as &Normal
+62044	Mar&k Data Points
+62045	Prikaži napomene
+62046	Vrati &zum
+62047	&Povećaj...
+62048	&Prilagođavanje prikaza
+62049	Eksportiranje prikaza...
+62050	&Pomoć
+62051	Vrijednost Y osi
+62052	Broj točke, vrijednost Y os
+62053	Stick
+62054	Bubble
+62055	&Uključi oznake s podacima
+62056	Vrijednost X osi, Vrijednost Y osi
+62057	SijVelOžuTraSviLipSrpKolRujLisStuPro
+62058	NedPonUtoSriČetPetSub
+62059	NPUSČPS
+62060	Stupnjevi i radijus
+62061	Stupnjevi
+62062	Radius
+62063	R i X Rings
+62064	R Rings
+62065	X Rings
+62066	Radius Line Labels
+62067	R Ring Labels
+62068	Stupnjevi, Radijus
+62069	R vrijednost, X vrijednost
+62070	Postotak
+62071	Vrijednost
+62072	Bez grupiranja
+62073	1% i ispod
+62074	2% i ispod
+62075	3% i ispod
+62076	4% i ispod
+62077	5% i ispod
+62078	Data &Labels as
+62079	&Postotak grupe
+62080	Vrijednost dijela
+62081	Postotak dijela
+62082	* Drugi
+62083	* Nula podataka
+62084	 % Drugi *
+62085	 Accum %
+62086	Postotak
+62087	* Sum per pt
+62088	* Min all pts
+62089	* Min per pt
+62090	* Max all pts
+62091	* Max per pt
+62092	* Avg all pts
+62093	* Avg per pt
+62094	* u+1s all pts
+62095	* u+1s per pt
+62096	* u+2s all pts
+62097	* u+2s per pt
+62098	* u+3s all pts
+62099	* u+3s per pt
+62100	* u-1s all pts
+62101	* u-1s per pt
+62102	* u-2s all pts
+62103	* u-2s per pt
+62104	* u-3s all pts
+62105	* u-3s per pt
+62106	Postotak od 100
+62107	 Događaji
+62108	Izvoz 
+62109	Print...
+62110	Izvoz...
+62111	Izvoz
+62112	Pikseli
+62113	Cijela stranica
+62114	Bez specifične veličine
+62115	Jedinice
+62116	Milimetri
+62117	Inči
+62118	Točke
+62119	Otvori datoteku
+62120	Spremi kao
+62121	 Pomično
+62122	Printanje 
+62123	 Uključi 
+62124	Nepoznato
+62125	Portret
+62126	Landscape
+62127	Radius Labels
+62128	R Ring Labels
+62129	Nema dovoljno dijelova, prebacivanje na zadane parametre dijelova.
+62130	Original
+62131	Povećaj...
+62132	 Prilagođavanje...
+62133	Izvoz... 
+62134	Horz Bar Stacked
+62135	Horz Bar Stacked Percent
+62136	Horz Bar Stacked                                                      19
+62137	Horz Bar Stacked Percent                                              20
+62138	Step
+62139	Step                                                                  21
+62140	JPEGS (*.jpg)|All Files (*.*)||
+62141	Ribbon                                                                22
+62142	Konture linije                                                         23
+62143	Konture boje                                                        24
+62144	Ribbon
+62145	Konture linije
+62146	Konture boje
+62147	GigaSoft ProEssentials v6, Copyright (c) 1994-2006 Gigasoft, Inc., All Rights Reserved.
+62148	Wire frame
+62149	Površina
+62150	Zasjenćana površina
+62151	Konturirana površina
+62152	Pikseli
+62153	Wire Frame                                                            25
+62154	Površina                                                               26
+62155	Zasjenćana površina                                                  27
+62156	Konturirana površina                                               29
+62157	Pikseli                                                                28
+62158	WireFrame Color
+62159	Temeljna boja
+62160	Piksel boja
+62161	Bez decimala
+62162	&1 decimala
+62163	&2 decimale
+62164	&3 decimale
+62165	&4 decimale
+62166	&5 decimala
+62167	&6 decimala
+62168	&7 decimala
+62169	&Tijekom rotiranja
+62170	&Uvijek
+62171	&Nikad
+62172	&Show Bounding Box
+62173	&Animacija rotacije
+62174	15 stupnjeva
+62175	10 stupnjeva
+62176	5 stupnjeva
+62177	2 stupnja
+62178	1 stupanj
+62179	-1 stupanj
+62180	-2 stupnja
+62181	-5 stupnjeva
+62182	-10 stupnjeva
+62183	-15 stupnjeva
+62184	&Povećanje rotacije
+62185	&Wire Frame
+62186	&Stil nacrta
+62187	&Potpuni detalji
+62188	Detalji rotacije
+62189	Bijelo
+62190	Boja
+62191	&Stil sjene
+62192	Isključi
+62193	Linije konture na vrh.
+62194	Linije konture na dno.
+62195	Konture boje na vrh.
+62196	Konture boje na dno.
+62197	&2D konture
+62198	Isključi
+62199	Sjena
+62200	3D
+62201	X i Z osi Plane
+62202	Y os Planes
+62203	p n u m K M B T 
+62204	&Sakrij legendu
+62205	Vrh
+62206	Dno
+62207	Lijevo
+62208	Desno
+62209	&Stil legende
+62210	&Bez granice
+62211	&Tanka linija
+62212	&Sjena
+62213	&Umetak
+62214	&Stil granice
+62215	Grupirane osi
+62216	Razdvojene osi
+62217	&Umnoži stil osi
+62218	&Promjenjena veličina fonta
+62219	&Prikaži legendu
+62220	Prikaži napomene tablice
+62221	&Unutar osi
+62222	&Izvan osi
+62223	Tanke linije
+62224	Debele linije
+62225	Točkaste linije
+62226	Isprekidane linije
+62227	Linije jednog piksela
+62228	Svjetli umetak
+62229	Svjetla sjena
+62230	Svjetla linija
+62231	Svjetlo bez granice
+62232	Srednji umetak
+62233	Srednja sjena
+62234	Srednja linija
+62235	Srednja bez granice
+62236	Tamni umetak
+62237	Taman sjena
+62238	Taman linija
+62239	Tamno bez granice
+62240	Brzi stil
+62241	Proširite oznake na Y osi
+62242	PNG (*.png)|Sve datoteke (*.*)||
+62243	Bitmap / Gradijent stil
+62244	Proširite oznake na X osi
+62245	Proširi oznake stupnjeva
+62246	Proširite oznake radijusa
+62247	Umetak
+62248	Sjena
+62249	Bez granice
+62250	Linija
+62251	Tamno
+62252	Srednje
+62253	Svjetlo
+62254	Nakrivljeno
+62255	Max

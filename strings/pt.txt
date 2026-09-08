@@ -1,0 +1,568 @@
+1	Exportar
+9	&Ajuda
+201	Cor de Frente
+202	Cor de Fundo
+203	Cor da Sombra
+204	Cor de Frente do Gráfico
+205	Cor de Fundo do Gráfico
+206	Cor de Frente da Tabela
+207	Cor de Fundo da Tabela
+419	Inserir
+420	Sombra
+421	Linha
+422	Nenhum
+423	Inserir
+424	Sombra
+425	Linha
+426	Nenhum
+427	Inserir
+428	Sombra
+429	Linha
+430	Nenhum
+1010	negrito
+1011	itálico
+1012	sublinhado
+1014	Grande Tipo
+1015	itálico
+1016	sublinhado
+1018	negrito
+1019	itálico
+1020	sublinhado
+1022	&Tabela de Dados:
+1024	&Prancheta
+1025	&Arquivo
+1026	&Impressora
+1030	&Procurar...
+1041	Largura:
+1042	/
+1043	Unidades
+1055	Sem Tamanho Específico
+1056	Milímetros
+1057	Polegadas
+1058	Pontos
+1060	Lista de Arquivos do &Tipo:
+1062	Dri&ves:
+1071	I&nstalar
+1074	Estático
+1076	Orientação:
+1079	Retrato
+1080	tamanho do rótulo
+1081	rótulo da origem
+1083	Conjuntos para Gráfico
+1084	
+1086	Grande
+1087	Média
+1088	Pequena
+1090	Porcentagem
+1091	Valor
+1101	Colorido
+1102	Monocromático
+1103	Monocromático + Símbolos
+1106	Gráfico
+1107	Tabela
+1108	Ambos
+1111	Plotados
+1112	Todos os Conjuntos
+1400	EMF
+1401	&WMF
+1402	&BMP
+1403	&JPG
+1404	&PNG
+1405	SVG
+1406	&Texto / Somente Dados
+1508	Todos os Dados
+1509	Selecionar Dados
+1510	Dados
+1511	Dados e Rótulos
+1516	Tabela
+1517	Lista
+1518	&Ajuda
+1519	Conjuntos/Pontos
+1520	Pontos/Conjuntos
+1521	Precisão Corrente
+1522	Máxima Precisão
+1525	Linha x Coluna
+1526	Tipo 1
+1527	Tipo 2
+1528	Fatias feitas sob encomenda a explodir
+1529	Fatias feitas sob encomenda à carta
+1530	Opções Da Cópia Dos Subconjuntos Do Desdobramento
+1531	Imprimir gráfico corrente.
+1536	gráficos.
+1538	Título da Impressão
+1539	1
+1540	XY
+1541	Y
+1542	X
+1543	Nenhuma
+1549	Comparações &Normais
+1552	Seqüencial
+1553	Selecionado
+1556	Tamanho do Objeto
+1557	Grades na Frente dos Dados
+1558	Tab
+1559	Vírgula
+1560	0
+1561	1
+1562	2
+1563	3
+1564	4
+1565	5
+1566	6
+1567	7
+1568	Sombra
+1569	Linha
+1570	Nenhuma Beira
+1571	inserir 3D
+1572	Origem:
+1573	Papel:
+1574	Nenhum Grupo
+1575	1% e Menos
+1576	2% e Menos
+1577	3% e Menos
+1578	4% e Menos
+1579	5% e Menos
+1607	&Eixos
+1608	Conjuntos para Tabela
+1609	Mostrar &Anotações
+1610	&Fixo Tipo
+1611	Auto
+1612	Vertical
+1613	Horizontal
+1614	Inclinado
+1615	&Marque Pontos
+1617	Durante a Rotação
+1618	Sempre
+1619	Nunca
+1621	Aramado
+1622	Método de Plotagem
+1623	Completo
+1624	Animação da rotação
+1625	Branco
+1626	Colorido
+1627	OFF
+1628	Linhas em Cima
+1629	Linhas em Baixo
+1630	Cores em Cima
+1631	Cores em Baixo
+1634	Comparação Que Traça O Método
+1635	Contorno 2D
+1636	Método de Plotagem
+1637	Estilo do Sombreamento
+1641	Tipo do Ponto:
+1642	Tipo da Linha:
+1645	Auto
+1646	Auto
+1647	Linear
+1648	Logaritmo
+1649	Linear
+1650	Logaritmo
+1653	Mín
+1654	Máx
+1655	Mín/Máx
+1656	Mín
+1657	Máx
+1658	Mín/Máx
+1659	Linear
+1660	Logaritmo
+1661	Auto
+1662	Mín
+1663	Máx
+1666	Mín/Máx
+1667	Linear
+1668	Logaritmo
+1669	Auto
+1670	Mín
+1671	Máx
+1674	Mín/Máx
+1675	Eixo X
+1676	Eixo X Superior
+1677	Eixo Y Direito
+1678	Mín
+1680	Máx
+1681	Mínimo
+1682	Máximo
+1683	Mín
+1684	Máx
+1685	Nenhum
+1686	Sombra
+1687	3D
+1688	&Estilo Da Visão
+1689	Tamanho da &Tipo
+1690	&Precisão Numérica
+1691	Linhas da Grade
+1692	Estilo de &Visualização
+1693	3D
+1694	Rótulo de Tipo de &Dado
+1695	&Grupo de Porcentagens
+1696	Exibir Caixa de Limite
+1697	Detalhe da Rotação
+1698	Incremento de Rotação
+1701	Bitmap / Estilos Do Gradient
+1711	Escuro:
+1712	Media:
+1713	Luz:
+1714	Imprimindo O Estilo
+1715	Cor
+1716	&Título:
+1717	Mono mais o símbolo
+1718	Imprimindo:
+1719	Página:
+1720	Exportar
+1721	Destino
+1723	&Selecionar Conjuntos e Pontos
+1724	Conjuntos a Exportar:
+1725	Pontos a Exportar:
+1726	O Que Exportar
+1727	Dados a Exportar
+1728	&Estilo
+1729	Delimitado
+1730	&Precisão Numérica
+1731	&Nome do Arquivo:
+1732	&Diretórios:
+1733	&Impressora:
+1734	Eixo Y
+1735	Mín
+1736	Máx
+1738	Estilo para &Plotagem
+1739	Plotagem para &Comparação
+1740	Percorrer Conjuntos
+1741	&Pontos para Gráfico
+1742	Rótulo de Orientação de Ponto
+1743	Conjunto / Ponto / Rótulos dos Eixos:
+1744	amostra:
+1745	Atributos do Gráfico
+1746	Parâmetros da Fatia
+1747	DPI
+1750	DPI
+30000	PE15131950
+40000	5_Z\\\\5_C\\\\GfaEWpUbp;2n@njD8O9NC@?;FfT?M1f:
+61219	TRUE
+61220	0 16777215 0  0 16777215 0 16777215
+61222	16777215 16777215 16777215 16777215 16777215 16777215
+61735	Erro ao tentar abrir o arquivo.  Verifique se a porta do drive está fechada, se o disco de destino está formatado e sem erros.
+61736	Erro ao gravar as informações no disco. O disco pode estar defeituoso.
+61737	Ocorreu um erro na tentativa de inicializar o driver da impressora.
+61738	O equipamento de saída não suporta o procedimento.  A operação de impressão será cancelada.
+61739	Ocorreu um erro ao tentar inicializar a impressão.
+61740	Objeto é muito grande.  Somente 64000 bytes podem ser armazenados na área de transferência.  Os dados serão truncados.
+61741	As dimensões de largura e altura do Bitmap devem ser de no mínimo 32 e no máximo de 2000 pixels.
+61742	As dimensões de largura e altura da Imagem devem estar entre 1 e 10000 unidades.
+61743	As dimensões de largura e altura da Imagem devem estar entre 1 e 17 polegadas.
+61744	As dimensões de largura e altura da Imagem devem estar entre 25 e 432 milímetros.
+61745	As dimensões de largura e altura da Imagem devem estar entre 72 e 1224 pontos.
+61746	A razão entre a altura e largura correntes é maior que 10 para 1.  Isto gerará uma imagem de difícil leitura.  Favor ajustar as dimensões de saída.
+61747	A razão entre a altura e largura correntes é menor que 1 para 3.  Isto gerará uma imagem de difícil leitura.  Favor ajustar as dimensões de saída.
+61748	necessário o nome do arquivo.
+61749	MetaFiles (*.wmf;*.mfp)|Todos os arquivos (*.*)||
+61750	Bitmaps (*.bmp;*.dib)|Todos os arquivos (*.*)||
+61751	Arquivos de dados (*.dat;*.txt)|Todos os arquivos (*.*)||
+61752	Seleção de Cor Monocromática
+61753	Seleção de Cor
+61754	Cor de Fundo . . . . . . . . . . . . . . . . .
+61755	Cor da Frente . . . . . . . . . . . . . . . . .
+61756	Linha                                                                       0
+61757	Barra                                                                        1
+61758	Pontos                                                                       2
+61759	Área                                                                         3
+61760	Área, Empilhada                                                             4
+61762	Barra, Empilhada                                                          6
+61764	Pontos+Linha de ajuste                                                    8
+61765	Pontos+Linha de ajuste II                                                 9
+61766	Histograma                                                              10
+61767	Alta/Baixa                                                                    11
+61768	Alta/Baixa/Fecha                                                        11
+61769	Abre/Alta/Baixa/Fecha                                                   a11
+61770	Caixa de Plotagem                                                             b11
+61771	Bolha                                                                         12
+61772	Pontos+Curva de ajuste                                                  13
+61773	Pontos+Curva de ajuste II                                               14
+61774	Pontos+Spline                                                           15
+61775	Spline                                                                         16
+61776	Barra                                                                          1
+61777	Pontos+Linha                                                             17
+61778	Barra Horizontal                                                        18
+61779	No mínimo 2 pontos devem ser selecionados.
+61780	Disco Rígido
+61781	Drive na Rede
+61782	CD ROM
+61783	Drive RAM
+61784	Disquete 5 1/4 360K
+61785	Disquete 5 1/4 1.2M
+61786	Disquete 3 1/2 720K
+61787	Densidade 8 Single
+61788	Densidade 8 Double
+61789	Drive Fita
+61790	Disquete 3 1/2 1.44M
+61791	Drive Óptico
+61792	Disquete 3 1/2 2.88M
+61793	O Drive não está respondendo.  Favor verificar se o disco usado está formatado, livre de erros, e se a porta do drive está fechada.
+61794	O arquivo já existe.  Deseja substituir o arquivo?
+61795	Permissão negada.
+61796	Arquivo não encontrado.
+61797	Nome do arquivo inválido.
+61798	Mídia com problemas.
+61799	Erro ao acessar o drive.
+61800	Erro na tentativa de carregar o driver da impressora
+61989	Cor
+61990	Monocromático
+61991	Monocromático + Símbolo
+61992	Grande
+61993	Médio
+61994	Pequeno
+61999	Ambos Eixos X e Y
+62000	Eixo Y
+62001	Eixo X
+62002	Sem Grade
+62003	Gráfico
+62004	Tabela
+62005	Gráfico com Tabela
+62006	Auto
+62007	Vertical
+62008	Horizontal
+62009	Conjuntos Plotados
+62010	Todos os Conjuntos
+62011	Estilo de &Visualização
+62012	Tipo &Tamanho
+62013	Precisão &Numérica
+62014	Linha
+62015	Barra
+62016	Barra Horizontal
+62017	Ponto
+62018	Área
+62019	Barra Empilhada
+62020	Porcentagem Empilhada da Barra
+62021	Área Empilhada
+62022	Porcentagem Empilhada da Área
+62023	Pontos + Linha de ajuste
+62024	Pontos + Linha de ajuste II
+62025	Pontos + Curva de ajuste
+62026	Pontos + Curva de ajuste II
+62027	Pontos + Linha
+62028	Pontos + Spline
+62029	Spline
+62030	Histograma
+62031	Alta / Baixa
+62032	Alta / Baixa / Fecha
+62033	Abre / Alta / Baixa / Fecha
+62034	Candle Stick
+62035	Indefinido
+62036	Método de &Plotagem
+62037	&Dados e Sombra
+62038	&Linhas da Grade
+62039	Grade na &Frente
+62040	&Gráfico e/ou Tabela
+62041	O &Que para Tabela
+62042	&Orientação do Rótulo do Ponto
+62043	Comparação &Normal dos Conjuntos
+62044	Marque Pontos
+62045	Mostrar &Anotações
+62046	Desfazer &Zoom
+62047	&Maximizar
+62048	Diálogo de &Configuração
+62049	Diálogo de E&xportação
+62050	&Ajuda
+62051	Valor do eixo Y
+62052	Número do Ponto, Valor do Eixo Y
+62053	Barra
+62054	Bolha
+62055	&Incluir Rótulo dos Dados
+62056	Valor Eixo X, valor Eixo Y
+62057	JanFevMarAbrMaiJunJulAgoSetOutNovDez
+62058	DomSegTerQuaQuiSexSab
+62059	DSTQQSS
+62060	Ambos Graus e Raio
+62061	Graus
+62062	Raio
+62063	Círculos em Ambos R e X
+62064	Círculos R
+62065	Círculos X
+62066	Rótulos na Linha de Raio
+62067	Rótulos nos Círculos R
+62068	Graus, Raio
+62069	Valores de R, valores de X
+62070	Porcentagem
+62071	Valor
+62072	Nenhum Grupo
+62073	1% e menos
+62074	2% e menos
+62075	3% e menos
+62076	4% e menos
+62077	5% e menos
+62078	&Rótulos de Dados Como
+62079	Porcentagens dos &Grupos
+62080	Valores da Fatia
+62081	Porcentagens da Fatia
+62082	* Outro
+62083	* Dado Zero
+62084	Outro *
+62085	Acum %
+62086	Porcentagem
+62087	* Som por pt
+62088	* Min Todos pts
+62089	* Min por pt
+62090	* Max Todos pts
+62091	* Max por pt
+62092	* Med Todos pts
+62093	* Med por pt
+62094	* u+1s Todos pts
+62095	* u+1s por pt
+62096	* u+2s Todos pts
+62097	* u+2s por pt
+62098	* u+3s Todos pts
+62099	* u+3s por pt
+62100	* u-1s Todos pts
+62101	* u-1s por pt
+62102	* u-2s Todos pts
+62103	* u-2s por pt
+62104	* u-3s Todos pts
+62105	* u-3s por pt
+62106	Porcent de 100
+62107	Ocorrências
+62108	Exportando
+62109	Imprime...
+62110	Exporta...
+62111	Exporta
+62112	Pixels
+62113	Página Inteira
+62114	Relação Somente
+62115	Unidades
+62116	Milímetros
+62117	Polegadas
+62118	Pontos
+62119	Abra A Lima
+62120	Salvar Como
+62121	Removível
+62122	Imprimindo
+62123	ligado
+62124	Desconhecido
+62125	Retrato
+62126	Paisagem
+62127	Rótulo do Raio
+62128	Rótulo do Círculo R
+62129	Sem fatias suficientes, alternando para parâmetros padrões de fatias.
+62130	Original
+62131	Maximizar
+62132	Configurar
+62133	Exportar
+62134	Barra Horiz Empilhada
+62135	Porcentagem Barra Horiz Empilhada
+62136	Barra Horiz Empilhada                                                        19
+62138	Degrau
+62139	Degrau                                                                          21
+62140	JPEGS (*.jpg)|Todos os arquivos (*.*)||
+62141	Fita                                                                           22
+62142	Linhas do Contorno                                                      23
+62143	Cores do Contorno                                                       24
+62144	Fita
+62145	Linhas do Contorno
+62146	Cores do Contorno
+62147	GigaSoft ProEssentials v3, Copyright (c) 1994-1999 Gigasoft, Inc., All Rights Reserved.
+62148	Aramado
+62149	Superfície
+62150	Superfície Sombreada
+62151	Superfície com Contorno
+62152	Pixels
+62153	Aramado                                                                 25
+62154	Superfície                                                                     26
+62155	Superfície Sombreada                                                    27
+62156	Superfície com Contorno                                                 29
+62157	Pixels                                                                  28
+62158	Cor do Aramado
+62159	Cor Sólida
+62160	Cor do Pixel
+62161	Sem Decimais
+62162	1 Decimal
+62163	2 Decimais
+62164	3 Decimais
+62165	4 Decimais
+62166	5 Decimais
+62167	6 Decimais
+62168	7 Decimais
+62169	&Durante a rotação
+62170	&Sempre
+62171	&Nunca
+62172	&Exibir Caixa de Limite
+62173	Animação da &Rotação
+62174	15 Graus
+62175	10 Graus
+62176	5 graus
+62177	2 graus
+62178	1 grau
+62179	-1 grau
+62180	-2 graus
+62181	-5 graus
+62182	-10 graus
+62183	-15 graus
+62184	&Incremento da Rotação
+62185	&Aramado
+62186	&Estilo de Plotagem
+62187	&Todos os Detalhes
+62188	&Detalhe da Rotação
+62189	Branco
+62190	Colorido
+62191	Estilo do &Sombreado
+62192	Não
+62193	Linhas do Contorno em Cima
+62194	Linhas do Contorno em Baixo
+62195	Cores do Contorno em Cima
+62196	Cores do Contorno em Baixo
+62197	&Contorno 2D
+62198	Nenhum
+62199	Sombra
+62200	3D
+62201	X, Z Eixos
+62202	Y Eixo
+62203	p n u m K M B T
+62204	&Legenda Do Hide
+62205	Alto
+62206	Fundo
+62207	Esquerdo
+62208	Direita
+62209	&Estilo Da Legenda
+62210	&Não Beira
+62211	&Linha Fina
+62212	&Sombra
+62213	&Inserir
+62214	&Estilo Da Beira
+62215	Machados Agrupados Junto
+62216	Machados Agrupados Junto
+62217	&Estilo Múltiplo Da Linha central
+62218	&Fixo Tipo
+62219	&Mostre A Legenda
+62220	Mostre &Anotações Da Tabela
+62221	&Linha central Interna
+62222	&Linha central Exterior
+62223	Linhas De Grade Finas
+62224	Linhas De Grade Grossas
+62225	Linhas De Grade Pontilhadas
+62226	Linhas De Grade Tracejadas
+62227	Linhas De Grade Tracejadas
+62228	Inserir Claro
+62229	Sombra Clara
+62230	Linha Clara
+62231	Não ilumine Nenhuma Beira
+62232	Inserir Médio
+62233	Sombra Média
+62234	Linha Média
+62235	Media Nenhuma Beira
+62236	Inserir Escuro
+62237	Sombra Escura
+62238	Linha Escura
+62239	Obscuridade Nenhuma Beira
+62240	&Estilo Rápido
+62241	Estenda Marcas Do Tiquetaque Da Linha central De Y
+62242	PNG (*.png)|Todas as Limas (*.*)||
+62243	Bitmap / Estilos Do Gradient
+62244	Estenda Marcas Do Tiquetaque Da Linha central De X
+62245	Estenda Marcas Do Tiquetaque Do Grau
+62246	Estenda Marcas Do Tiquetaque Do Raio
+62247	Inserir
+62248	Sombra
+62249	Não Beira
+62250	Linha
+62251	Escuro
+62252	Media
+62253	Luz
+62254	Inclinado
+62255	Máx

@@ -1,0 +1,568 @@
+1	Exporteren
+9	&Help
+201	Bureau Voorgrond
+202	Bureau Achtergrond
+203	Schaduw Kleur
+204	Grafiek Voorgrond
+205	Grafiek Achtergrond
+206	Tabel Voorgrond
+207	Tabel Achtergrond
+419	Diepte
+420	Schaduw
+421	Lijn
+422	Niets
+423	Diepte
+424	Schaduw
+425	Lijn
+426	Niets
+427	Diepte
+428	Schaduw
+429	Lijn
+430	Niets
+1010	vet
+1011	cursief
+1012	onderstreept
+1014	Lettertype Groot
+1015	cursief
+1016	onderstreept
+1018	vet
+1019	cursief
+1020	onderstreept
+1022	&Tabel Data:
+1024	&Klembord
+1025	&Bestand
+1026	&Printer
+1030	B&laderen
+1041	Breedte:
+1042	/
+1043	Eenheden
+1055	Geen specifieke grootte
+1056	Millimeters
+1057	Inches
+1058	Punten
+1060	Lijst bestands&typen:
+1062	S&tations:
+1071	&Instelling
+1074	Static
+1076	Orientatie:
+1079	Portret
+1080	grootte label
+1081	bron label
+1083	Gegevensreeksen naar &Grafiek
+1084	
+1086	Groot
+1087	Midden
+1088	Klein
+1090	Percentage
+1091	Waarde
+1101	Kleur
+1102	Monochroom
+1103	Monochroom + Symbolen
+1106	Grafiek
+1107	Tabel
+1108	Beide
+1111	Weergegeven
+1112	Alle Gegevensreeksen
+1400	EMF
+1401	&WMF
+1402	&BMP
+1403	&JPG
+1404	&PNG
+1405	SVG
+1406	&Tekst / Data
+1508	Alle Data
+1509	Geselecteerde Data
+1510	Data
+1511	Data en Labels
+1516	Tabel
+1517	Lijst
+1518	Help
+1519	Gegevensreeksen/Punten
+1520	Punten/Gegevensreeksen
+1521	Huidige Nauwkeurigheid
+1522	Maximale Nauwkeurigheid
+1525	Rij tegen Kolom
+1526	Type 1
+1527	Type 2
+1528	Cirkeldelen laten uitspringen
+1529	Cirkeldelen weergeven
+1530	Scrollende Gegevensreeksen Print Opties
+1531	Afdrukken huidige grafiek.
+1536	grafieken.
+1538	Afdruktitel
+1539	1
+1540	Beide
+1541	Y
+1542	X
+1543	Geen
+1549	Vergelijking als &Normaal
+1552	Opeenvolgend
+1553	Geselecteerd
+1556	Object grootte
+1557	Raster voor data
+1558	Tab
+1559	Komma
+1560	0
+1561	1
+1562	2
+1563	3
+1564	4
+1565	5
+1566	6
+1567	7
+1568	Schaduw
+1569	Lijn
+1570	Geen Kader
+1571	3D Diepte
+1572	Bron:
+1573	Papier:
+1574	Niet Groeperen
+1575	1% en Lager
+1576	2% en Lager
+1577	3% en Lager
+1578	4% en Lager
+1579	5% en Lager
+1607	&Assen
+1608	Gegevensreeksen naar &Tabel
+1609	Bekijken &Annotaties
+1610	&Vast Font
+1611	Auto
+1612	Vertikaal
+1613	Horizontaal
+1614	Hellend
+1615	&Markeer Data Punten
+1617	Tijdens Rotatie
+1618	Altijd
+1619	Nooit
+1621	Draad frame
+1622	Plot Methode
+1623	Volledig
+1624	Rotatie Animatie
+1625	Wit
+1626	Kleur
+1627	Uit
+1628	Lijnen op bovenkant
+1629	Lijnen op bodem
+1630	Kleuren op bovenkant
+1631	Kleuren op bodem
+1634	Vergelijkende Plot Methode
+1635	2D Contour
+1636	Plot Methode
+1637	Schaduw Stijl
+1641	Punt type  :
+1642	Lijn type  :
+1645	Auto
+1646	Auto
+1647	Lineair
+1648	Logaritmisch
+1649	Linear
+1650	Logaritmisch
+1653	Min
+1654	Max
+1655	Min/Max
+1656	Min
+1657	Max
+1658	Min/Max
+1659	Lineair
+1660	Logaritmisch
+1661	Auto
+1662	Min
+1663	Max
+1666	Min/Max
+1667	Linear
+1668	Logaritmisch
+1669	Auto
+1670	Min
+1671	Max
+1674	Min/Max
+1675	X As
+1676	Bovenkant X As
+1677	Rechter Y As
+1678	Min
+1680	Max
+1681	Min
+1682	Max
+1683	Min
+1684	Max
+1685	Uit
+1686	Schaduw
+1687	3D
+1688	&Weergave Stijl
+1689	&Lettertype grootte
+1690	&Numerieke Nauwkeurigheid
+1691	&Rasterlijnen
+1692	&Weergave stijl
+1693	3D
+1694	&Data Label Type
+1695	&Groep Percentages
+1696	Toon omtrek doos
+1697	Rotatie Detail
+1698	Rotatie Toename
+1701	Bitmap / Gradiënt Stijl
+1711	Donker:
+1712	Midden:
+1713	Licht:
+1714	Afdruk stijl
+1715	Kleur
+1716	&Hoofdtitel:
+1717	Monochroom + Symbolen
+1718	Huidige afdruktaak:
+1719	Pagina:
+1720	Exporteren
+1721	Exporteren naar
+1723	&Selecteer Gegevensreeksen en Punten
+1724	Te exporteren gegevensreeksen:
+1725	Te exporteren punten:
+1726	&Wat exporteren?
+1727	Te exporteren data
+1728	&Stijl Exporteren
+1729	Gescheiden
+1730	&Numerieke Nauwkeurigheid
+1731	Bestands&naam:
+1732	&Mappen:
+1733	&Printer:
+1734	Y As
+1735	Min
+1736	Max
+1738	&Teken Stijl
+1739	&Vergelijkende Teken Stijl
+1740	Scrollende Gegevensreeksen
+1741	Weer te geven &Punten
+1742	Punt Label Orientatie
+1743	Gegegevensreeks / Punt / As &Labels:
+1744	voorbeeld:
+1745	Grafiek onderdelen
+1746	Cirkeldeel Parameters
+1747	DPI
+1750	DPI
+30000	PE15131950
+40000	5_Z\\\\5_C\\\\GfaEWpUbp;2n@njD8O9NC@?;FfT?M1f:
+61219	TRUE
+61220	0 16777215 0  0 16777215 0 16777215
+61222	16777215 16777215 16777215 16777215 16777215 16777215
+61735	Fout tijdens openen bestand.  Controleer is het station is geformatteerd.
+61736	Fout tijdens schrijven naar schijf.  Schijf kan kapot zijn.
+61737	Er is een fout opgetreden tijdens het initialiseren van het stuurprogramma van de printer.
+61738	Het uitvoer apparaat ondersteund geen raster mogelijkheden.  De opdracht wordt geannuleerd.
+61739	Er is een fout opgetreden tijdens het starten van de afdruktaakopdracht.
+61740	Object te groot.  Er kan maximaal 64Kb naar het klembord verplaatst worden.  Een deel gaat vervallen.
+61741	Breedte en hoogte van een bitmap is 32 en niet meer dan 2000 pixels.
+61742	Breedte en hoogte van een plaatje moet liggen tussen 1 en 10000 eenheden.
+61743	Breedte en hoogte van een plaatje moet liggen tussen 1 en 17 inch.
+61744	Breedte en hoogte van een plaatje moet liggen tussen 25 en 432 millimeter.
+61745	Breedte en hoogte van een plaatje moet liggen tussen 72 en 1224 punten.
+61746	De huidige breedte / hoogte ratio is groter dan 10 to 1.  Hierdoor ontstaat een onduidelijk beeld.  Afmetingen aanpassen a.u.b.
+61747	De huidige breedte / hoogte ratio is kleiner dan 1 to 3:  Hierdoor ontstaat een onduidelijk beeld.  Afmetingen aanpassen a.u.b.
+61748	Een bestandsnaam wordt verwacht.
+61749	MetaFiles (*.wmf;*.mfp)|Alle Bestanden (*.*)||
+61750	Bitmaps (*.bmp;*.dib)|Alle Bestanden (*.*)||
+61751	Data Files (*.dat;*.txt)|Alle Bestanden (*.*)||
+61752	Monochroom Kleur Selectie
+61753	Kleur Selectie
+61754	Achtergrond kleur. . . . . . . . . . . . . . . . .
+61755	Voorgrond kleur. . . . . . . . . . . . . . . . . .
+61756	Lijn                                                                       0
+61757	Staaf                                                                      1
+61758	Punten                                                                     2
+61759	Vlak                                                                       3
+61760	Vlak, Gestapeld                                                            4
+61762	Staaf, Gestapeld                                                           6
+61764	Punten+GefitteLijn                                                     8
+61765	Punten+GefitteLijn II                                                  9
+61766	Histogram                                                                10
+61767	Hoog/Laag                                                                11
+61768	Hoog/Laag/Gesloten                                                       11
+61769	Open/Hoog/Laag/Gesloten                                                   a11
+61770	Vierkant                                                                 b11
+61771	Cirkel                                                                   12
+61772	Punten+BestGefitteKromme                                                 13
+61773	Punten+GefitteKromme II                                              14
+61774	Punten+Vloeiend                                                          15
+61775	Vloeiend                                                                 16
+61776	Staaf                                                                      1
+61777	Punten+Lijn                                                              17
+61778	Horizontale Staaf                                                        18
+61779	Er moeten minimaal 2 punten geselecteerd zijn.
+61780	Vaste Schijf
+61781	Netwerk Schijf
+61782	CD ROM
+61783	Ram Schijf
+61784	5 1/4 Floppy 360K
+61785	5 1/4 Floppy 1.2M
+61786	3 1/2 Floppy 720K
+61787	8 Single Density
+61788	8 Double Density
+61789	Tape Schijf
+61790	3 1/2 Floppy 1.44M
+61791	Optische Schijf
+61792	3 1/2 Floppy 2.88M
+61793	Schijf reageert niet.  Controleer of er een diskette in zit.
+61794	Bestand bestaat al.  Wilt u dit overschrijven?
+61795	Toegang geweigerd.
+61796	Bestand niet gevonden.
+61797	Ongeldige bestandsnaam.
+61798	Media is beschadigd.
+61799	Fout benaderen schijf.
+61800	Fout poging tot laden stuurprogramma printer
+61989	Kleur
+61990	Monochroom
+61991	Monochroom + Symbool
+61992	Groot
+61993	Midden
+61994	Klein
+61999	&Toon X en Y As Rasterlijnen
+62000	Y As
+62001	X As
+62002	Geen Raster
+62003	Grafiek
+62004	Tabel
+62005	Grafiek en Tabel
+62006	Auto
+62007	Vertikaal
+62008	Horizontaal
+62009	Weergegeven Gegevensreeksen
+62010	Alle Gegevensreeksen
+62011	&Weergave Stijl
+62012	&Lettertype grootte
+62013	&Numerieke Nauwkeurigheid
+62014	Lijn
+62015	Staaf
+62016	Horizontale Staaf
+62017	Punt
+62018	Vlak
+62019	Staaf Gestapeld
+62020	Staaf Gestapeld Percentage
+62021	Vlak Gestapeld
+62022	Vlak Gestapeld Percentage
+62023	Punten + Best Passende Lijn
+62024	Punten + Best Passende Lijn II
+62025	Punten + Best Passende Kromme
+62026	Punten + Best Passende Kromme II
+62027	Punten + Lijn
+62028	Punten + Vloeiend
+62029	Vloeiend
+62030	Histogram
+62031	Hoog / Laag
+62032	Hoog / Laag / Gesloten
+62033	Open / Hoog / Laag / Gesloten
+62034	Kaars
+62035	Ongedefinieerd
+62036	&Teken Methode
+62037	&Data Schaduw
+62038	Raster &Lijnen
+62039	Raster Vooraan
+62040	&Grafiek en/of Tabel
+62041	&Wat naar Tabel
+62042	Punt Label &Orientatie
+62043	Vergelijkende Gegevensreeksen als &Normaal
+62044	Mar&keer Data Punten
+62045	Tonen &Aantekeningen
+62046	Ongedaan maken &Zoom
+62047	&Maximaliseren
+62048	&Aanpassingen Dialoog
+62049	E&xport Dialoog
+62050	&Help
+62051	Y As Waarde
+62052	Punt Nummer, Y As Waarde
+62053	Stick
+62054	Cirkel
+62055	&Inclusief Data Labels
+62056	X As Waarde, Y As Waarde
+62057	JanFebMrtAprMeiJunJulAugSepOktNovDec
+62058	Zo Ma Di Wo Do Vr Za
+62059	ZMDWDVZ
+62060	Graden en Radialen
+62061	Graden
+62062	Radialen
+62063	R en X Ringen
+62064	R Ringen
+62065	X Ringen
+62066	Straal Lijn Labels
+62067	R Ring Labels
+62068	Graden, Omtrek
+62069	R Waarden, X Waarden
+62070	Percentage
+62071	Waarde
+62072	Niet grouperen
+62073	1% en lager
+62074	2% en lager
+62075	3% en lager
+62076	4% en lager
+62077	5% en lager
+62078	Data &Labels als
+62079	&Groep Percentages
+62080	Cirkeldeel Waarden
+62081	Cirkeldeel Percentages
+62082	* Andere
+62083	* Nul Data
+62084	Andere *
+62085	Accum %
+62086	Percentage
+62087	* Som per pt
+62088	* Min alle ptn
+62089	* Min per pt
+62090	* Max alle ptn
+62091	* Max per pt
+62092	* Gem alle ptn
+62093	* Gem per pt
+62094	* u+1s alle ptn
+62095	* u+1s per pt
+62096	* u+2s alle ptn
+62097	* u+2s per pt
+62098	* u+3s alle ptn
+62099	* u+3s per pt
+62100	* u-1s alle ptn
+62101	* u-1s per pt
+62102	* u-2s alle ptn
+62103	* u-2s per pt
+62104	* u-3s alle ptn
+62105	* u-3s per pt
+62106	Percent of 100
+62107	voorvallen
+62108	Exporteren
+62109	Afdrukken...
+62110	Exporteren...
+62111	Exporteren
+62112	Pixels
+62113	Volledige pagina
+62114	Alleen verhouding
+62115	Eenheden
+62116	Millimeters
+62117	Inches
+62118	Punten
+62119	Open Bestand
+62120	Opslaan Als
+62121	Verwijderbaar
+62122	Afdrukken
+62123	op
+62124	Onbekend
+62125	Portret
+62126	Landschap
+62127	Omtrek Labels
+62128	R Ring Labels
+62129	Niet genoeg cirkeldelen, overschakelen naar standaard.
+62130	Orgineel
+62131	Maximaliseren
+62132	Aanpassingen
+62133	Exporteren
+62134	Horz Staaf Gestapeld
+62135	Horz Staaf Gestapeld Percentage
+62136	Horz Staaf Gestapeld                                                         19
+62138	Stap
+62139	Stap                                                                                           21
+62140	JPEGS (*.jpg)|Alle Bestanden (*.*)||
+62141	Lint                                                                                         22
+62142	Contour lijnen                                                                                  23
+62143	Contour kleuren                                                                                 24
+62144	Lint
+62145	Contour lijnen
+62146	Contour kleuren
+62147	GigaSoft ProEssentials v6, Copyright (c) 1994-2006 Gigasoft, Inc., All Rights Reserved.
+62148	Draad frame
+62149	Oppervlakte
+62150	Oppervlakte met schaduw
+62151	Oppervlakte met contouren
+62152	Pixel
+62153	Draad frame                                                                                     25
+62154	Oppervlakte                                                                                        26
+62155	Oppervlakte met schaduw                                                                           27
+62156	Oppervlakte met contouren                                                                       29
+62157	Pixel                                                                                       28
+62158	Draad Frame Kleur
+62159	Vaste Kleur
+62160	Pixel Kleur
+62161	Geen decimalen
+62162	1 decimaal
+62163	2 decimalen
+62164	3 decimalen
+62165	4 decimalen
+62166	5 decimalen
+62167	6 decimalen
+62168	7 decimalen
+62169	&Tijdens Roteren
+62170	&Altijd
+62171	&Nooit
+62172	&Toon omtrek Doos
+62173	&Rotatie Animatie
+62174	15 graad
+62175	10 graad
+62176	5 graad
+62177	2 graad
+62178	1 graad
+62179	-1 graad
+62180	-2 graad
+62181	-5 graad
+62182	-10 graad
+62183	-15 graad
+62184	&Rotatie Toename
+62185	&Draad frame
+62186	&Plot Stijl
+62187	&Alle details
+62188	Rotatie Detail
+62189	Wit
+62190	Kleur
+62191	&Schaduw Stijl
+62192	Van
+62193	Contour lijnen op Bovenkant
+62194	Contour lijnen op Bodem
+62195	Contour kleuren op Bovenkant
+62196	Contour kleuren op Bodem
+62197	&2D Contour
+62198	Van
+62199	Schaduw
+62200	3D
+62201	X en het Vlak van de Z As
+62202	Y De Vlakken van de as
+62203	p n u m K M B T
+62204	&Verberg legenda
+62205	Bovenkant
+62206	Onderkant
+62207	Links
+62208	Rechts
+62209	&Legenda Stijl
+62210	&Geen Kader
+62211	&Dunne Lijn
+62212	&Schaduw
+62213	&Diepte
+62214	&Kader Stijl
+62215	&Gegroepeerde assen
+62216	Gescheiden assen
+62217	&Meervoudige As Stijl
+62218	&Vaste Font Grootte
+62219	&Toon Legenda
+62220	Toon Tabel &Annotaties
+62221	&Binnen As
+62222	&Buiten As
+62223	Dunne rasterlijnen
+62224	Dikke rasterlijnen
+62225	Gestippelde rasterlijnen
+62226	Gestreepte rasterlijnen
+62227	Eenpunts rasterlijnen
+62228	Licht, Diepte
+62229	Licht, Schaduw
+62230	Licht, Lijn
+62231	Licht, Geen Kader
+62232	Middel, Diepte
+62233	Middel, Schaduw
+62234	Middel, Lijn
+62235	Middel, Geen Kader
+62236	Donker, Diepte
+62237	Donker, Schaduw
+62238	Donker, Lijn
+62239	Donker, Geen Kader
+62240	&Snelle Stijl
+62241	Meer Y As streepjes
+62242	PNG (*.png)|Alle Bestanden (*.*)||
+62243	Bitmap / Gradiënt stijl
+62244	Meer X As streepjes
+62245	Meer Graad streepjes
+62246	Meer Straal streepjes
+62247	Diepte
+62248	Schaduw
+62249	Geen Kader
+62250	Lijn
+62251	Donker
+62252	Middel
+62253	Licht
+62254	Hellend
+62255	Max
