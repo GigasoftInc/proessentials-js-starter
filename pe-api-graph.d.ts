@@ -32,10 +32,10 @@ export interface PeArray1D<T> {
   [index: number]: T;
   /** Element count. */
   readonly length: number;
-  /** Copy values into the chart's data area. */
-  load(values: ArrayLike<number>, count?: number): void;
+  /** Copy values into the chart's data area. Returns the number of elements accepted; 0 when the engine refused the array. */
+  load(values: ArrayLike<number>, count?: number): number;
   /** .NET's own spelling of load(). Same call, both names live. */
-  CopyFrom(values: ArrayLike<number>, count?: number): void;
+  CopyFrom(values: ArrayLike<number>, count?: number): number;
   /** .NET Clear() / Clear(newSize). No argument empties the array. */
   clear(newSize?: number): number;
   /** .NET AppendData(data, amountPerSubset) -- the strip-chart write. */
@@ -75,10 +75,10 @@ export interface PeArray1D<T> {
 }
 export interface PeArray2D<T> {
   [subset: number]: { [point: number]: T };
-  /** Copy values into the chart's data area, subsets by points. */
-  load(values: ArrayLike<number>, subsets: number, points: number): void;
+  /** Copy values into the chart's data area, subsets by points. Returns the number of elements accepted; 0 when the engine refused the array. */
+  load(values: ArrayLike<number>, subsets: number, points: number): number;
   /** .NET's own spelling of load(). Same call, both names live. */
-  CopyFrom(values: ArrayLike<number>, subsets: number, points: number): void;
+  CopyFrom(values: ArrayLike<number>, subsets: number, points: number): number;
   /** Total element count. Under JaggedData use GetJaggedPointsX/Y -- one number cannot describe ragged rows. */
   readonly length: number;
   /** .NET Clear() / Clear(newSize). No argument empties the array. */
@@ -2634,6 +2634,12 @@ export interface PeChart {
       /** Day of the year. Zeroed by the matching Set call. */
       yearDay: number;
     };
+    /** Load a file from SaveObjectToFile -- a File from an <input> or a drop, or any Blob -- and redraw, as the desktop's LoadObjectFromFile does. A browser reads files asynchronously, so this returns a Promise of 1, or 0 when the bytes cannot be read. */
+    LoadObjectFromFile(file: Blob): Promise<number>;
+    /** Load bytes from SaveObjectToStream -- this control's, or a desktop control's. Also takes the file form SaveObjectToFile writes, and then refuses a file made by another kind of chart, as the desktop does; a bare stream carries no chart type and is not checked. Returns 1, or 0 for bytes it cannot read (another format, a newer schema). Does not redraw -- call ReinitializeResetImage, as with .NET. */
+    LoadObjectFromStream(bytes: Uint8Array | ArrayBuffer): number;
+    /** Load settings from SaveObjectPartialToStream, keeping this chart's data. Otherwise as LoadObjectFromStream. */
+    LoadObjectPartialFromStream(bytes: Uint8Array | ArrayBuffer): number;
     /** PEreinitialize only. Use when you want to read back ManualMaxY and the other computed axis properties without producing an image. */
     Reinitialize(): number;
     /** PEreinitialize then PEresetimage. Call after a block of property writes -- this is the call every desktop transcription ends with. */
@@ -2642,6 +2648,12 @@ export interface PeChart {
     Reset(): number;
     /** Rebuild the image at the CURRENT size. .NET takes (width, height) and 0,0 means 'the control's own size'; a non-zero size is refused here because the web control owns its size -- use PeControl.setSize. */
     ResetImage(width?: number, height?: number): number;
+    /** The settings without the data -- what PEstorepartial writes; for carrying a user's customizations to the next chart. See SaveObjectToStream for what a load does not bring back. */
+    SaveObjectPartialToStream(): Uint8Array;
+    /** Download the chart as the file the desktop's SaveObjectToFile writes (its 44-byte header, then the stream), so the desktop's LoadObjectFromFile opens it. fileName is the name the browser suggests; a path is reduced to its last part. Returns 1. */
+    SaveObjectToFile(fileName: string): number;
+    /** The chart's whole state -- settings and data -- as the bytes PEstore writes on the desktop, so a desktop control's LoadObjectFromStream reads them and this one reads the desktop's. Keep them, send them, or snapshot them for a step-back. WHAT A LOAD DOES NOT BRING BACK: settings the engine never stores (among them FixedLineThickness, the working table and working resource bitmap, the closest-point cursor, and TickColor on a pie) keep the receiving control's values; custom grid numbers may be switched off (a load resets some of their flags) -- set them again; resource bitmaps (PePlot.Bitmaps) are not supported by a load and may be missing or drawn uncolored after one. The licence keys travel with the stream, as on the desktop. */
+    SaveObjectToStream(): Uint8Array;
     /** Which data point is NEAREST this pixel -- as opposed to what is UNDER it, which is GetHotSpot. `x` is the SUBSET index and `y` is the POINT index, matching .NET's Point; both are -1 when nothing was found, which is what `if (p.x >= 0)` tests. */
     SearchSubsetPointIndex(x: number, y: number): {
       /** Subset index of the nearest data point, or -1 when none was found. NOT a coordinate. */
@@ -2659,14 +2671,8 @@ export interface PeChart {
     ChangeResources(...args: unknown[]): never;
     /** NOT AVAILABLE in the web build -- throws. PEdrawcursor has no wasm export (pe_cursor is the cursor SHAPE state, a different subject) */
     DrawCursor(...args: unknown[]): never;
-    /** NOT AVAILABLE in the web build -- throws. Win32 object store I/O */
+    /** NOT AVAILABLE in the web build -- throws. fetch the bytes and pass them to LoadObjectFromStream -- fetch(url).then((r) => r.arrayBuffer()).then((b) => chart.PeFunction.LoadObjectFromStream(b)) */
     LoadFromURL(...args: unknown[]): never;
-    /** NOT AVAILABLE in the web build -- throws. Win32 object store I/O */
-    LoadObjectFromFile(...args: unknown[]): never;
-    /** NOT AVAILABLE in the web build -- throws. Win32 object store I/O */
-    LoadObjectFromStream(...args: unknown[]): never;
-    /** NOT AVAILABLE in the web build -- throws. Win32 object store I/O */
-    LoadObjectPartialFromStream(...args: unknown[]): never;
     /** NOT AVAILABLE in the web build -- throws. calls PEreinitializecustoms, which is dead code this project keeps on purpose -- it is deliberately not ported, and aliasing it onto Reinitialize would silently make the fast path the slow one */
     PartialReinitialize(...args: unknown[]): never;
     /** NOT AVAILABLE in the web build -- throws. same as PartialReinitialize -- PEreinitializecustoms is deliberately not ported */
@@ -2679,12 +2685,6 @@ export interface PeChart {
     PrintGraphEx(...args: unknown[]): never;
     /** NOT AVAILABLE in the web build -- throws. device-context geometry; no web equivalent */
     ResetImageEx(...args: unknown[]): never;
-    /** NOT AVAILABLE in the web build -- throws. Win32 object store I/O */
-    SaveObjectPartialToStream(...args: unknown[]): never;
-    /** NOT AVAILABLE in the web build -- throws. Win32 object store I/O */
-    SaveObjectToFile(...args: unknown[]): never;
-    /** NOT AVAILABLE in the web build -- throws. Win32 object store I/O */
-    SaveObjectToStream(...args: unknown[]): never;
     /** NOT AVAILABLE in the web build -- throws. PEsearchpointindex has no wasm export */
     SearchPointIndex(...args: unknown[]): never;
     /** NOT AVAILABLE in the web build -- throws. Win32 object store I/O */

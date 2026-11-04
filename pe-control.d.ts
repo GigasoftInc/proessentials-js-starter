@@ -385,8 +385,13 @@ declare class PeControl {
    * CURRENT pane width -- fitting against a stale one clips the scrollbar.
    */
   fitInto(boxW: number, boxH: number): number;
-  /** Pixel snapping for the player. */
-  setSnap(mode: number): number;
+  /**
+   * Pixel snapping for the player: 'exact' (the default) antialiased, or
+   * 'crisp' snapped to whole pixels. Replays the current image and returns
+   * its size in bytes; 0 before the first render, when the mode applies at
+   * that render.
+   */
+  setSnap(mode: 'exact' | 'crisp'): number;
   /** Discard engine state and start over. Does not repaint. */
   reset(): void;
   /** Release the handle, the DOM and every listener. */
@@ -426,6 +431,12 @@ declare class PeControl {
   static register(name: string, def: unknown): void;
   /** The registered kind names. */
   static kinds(): string[];
+  /**
+   * The product version, MAJOR.MINOR.PATCH (with -rc.N on a release candidate).
+   * The engine carries the same string
+   * (pe_version()); a control warns once per module when the two differ.
+   */
+  static readonly version: string;
   /**
    * The most recently constructed control, so a shipped page can be re-judged
    * from the console. LAST, not a registry -- two charts and the second wins.
